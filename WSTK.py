@@ -1,5 +1,6 @@
 import os
 import requests
+import xlsxwriter
 from bs4 import BeautifulSoup
 
 fileNamesDict = {}
@@ -84,5 +85,19 @@ class WSTK:
 
     # Will create a table describing files and there match of title to
     @staticmethod
-    def tableMaker():
-        print("Under Construction")
+    def tableMaker(directory, nameQualifier):
+        workbook = xlsxwriter.Workbook(nameQualifier)
+        worksheet = workbook.add_worksheet()
+        worksheet.write('A1', 'Title of File')
+        worksheet.write('B1', 'Title in File')
+        worksheet.write('C1', 'Matching? (1 for Yes, 0 for No)')
+        rowNum = 1
+        for fileName in os.listdir(directory):
+            rowNum = rowNum + 1
+            openFile = open(fileName, 'r')
+            worksheet.write('A'+str(rowNum), fileName)
+            worksheet.write('B'+str(rowNum), openFile.readline(2))
+            if worksheet.cell('A', rowNum) is worksheet.cell('B', rowNum):
+                worksheet.write('C'+str(rowNum), 1)
+            elif worksheet.cell('A', rowNum) is not worksheet.cell('B', rowNum):
+                worksheet.write('C'+str(rowNum), 0)

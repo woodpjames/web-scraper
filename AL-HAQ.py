@@ -29,42 +29,42 @@ def namingCleanUp(fileLocation):
             os.rename(oldfile, newfile)
 
 #MMD_Reports
-fileLocation = ".\\AL-HAQ\\Monitoring_and_Documents\\MDD_Reports\\"
-nameQualifier = "AL-HAQ_MDD_Reports"
-date = "Unlisted"
-country = "Palestine"
-for x in range(1,4):
-    y = (x*12) - 12
-    r = requests.get("http://www.alhaq.org/documentation/mdd-reports?start=" + str(y))
-    soup = BeautifulSoup(r.content, features='lxml')
-
-    for article in soup.find_all('div', class_='itemContainer itemContainerLast'):
-        titleAndLinkContent = article.find(class_='catItemTitle')
-        link = 'http://www.alhaq.org' + titleAndLinkContent.find('a')['href']
-        title = titleAndLinkContent.text.strip()
-        s = requests.get(link)
-        linksoup = BeautifulSoup(s.content, features='lxml')
-        linkcontent = linksoup.find('div', class_='itemFullText')
-        filename = namingConvention(fileLocation, nameQualifier, country, date)
-        filenametxt = filename + '.txt'
-        with open(filenametxt, 'w') as file:
-            file.write(title + '\n')
-            file.write(date + '\n')
-            try:
-                for para in linkcontent.find_all('p'):
-                    file.write(para.text.strip())
-            except Exception:
-                pass
-
-        pdfContent = article.find(class_ = 'catItemAttachments')
-        try:
-            pdf = 'http://www.alhaq.org' + pdfContent.find('a')['href']
-            getpdf = requests.get(pdf)
-            filenamepdf = filename + '.pdf'
-            with open(filenamepdf, 'wb') as file:
-                file.write(getpdf.content)
-        except Exception:
-            pass
+# fileLocation = ".\\AL-HAQ\\Monitoring_and_Documents\\MDD_Reports\\"
+# nameQualifier = "AL-HAQ_MDD_Reports"
+# date = "Unlisted"
+# country = "Palestine"
+# for x in range(1,4):
+#     y = (x*12) - 12
+#     r = requests.get("http://www.alhaq.org/documentation/mdd-reports?start=" + str(y))
+#     soup = BeautifulSoup(r.content, features='lxml')
+#
+#     for article in soup.find_all('div', class_='itemContainer itemContainerLast'):
+#         titleAndLinkContent = article.find(class_='catItemTitle')
+#         link = 'http://www.alhaq.org' + titleAndLinkContent.find('a')['href']
+#         title = titleAndLinkContent.text.strip()
+#         s = requests.get(link)
+#         linksoup = BeautifulSoup(s.content, features='lxml')
+#         linkcontent = linksoup.find('div', class_='itemFullText')
+#         filename = namingConvention(fileLocation, nameQualifier, country, date)
+#         filenametxt = filename + '.txt'
+#         with open(filenametxt, 'w') as file:
+#             file.write(title + '\n')
+#             file.write(date + '\n')
+#             try:
+#                 for para in linkcontent.find_all('p'):
+#                     file.write(para.text.strip())
+#             except Exception:
+#                 pass
+#
+#         pdfContent = article.find(class_ = 'catItemAttachments')
+#         try:
+#             pdf = 'http://www.alhaq.org' + pdfContent.find('a')['href']
+#             getpdf = requests.get(pdf)
+#             filenamepdf = filename + '.pdf'
+#             with open(filenamepdf, 'wb') as file:
+#                 file.write(getpdf.content)
+#         except Exception:
+#             pass
 
 #Fieldworker_Affidavits
 fileLocation = ".\\AL-HAQ\\Monitoring_and_Documents\\Fieldworker_Affidavits\\"
