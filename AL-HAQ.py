@@ -9,6 +9,7 @@ filenames_dict = {}
 def namingConvention(fileLocation, nameQualifier, country, date):
     dateForFileName = date.replace(' ','_')
     countryForFileName = country.replace(' ','_')
+    # print("test")
     filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName
     if filename in filenames_dict:
         filenames_dict[filename] = filenames_dict[filename] + 1
