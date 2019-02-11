@@ -1,0 +1,122 @@
+import os
+import requests
+import xlsxwriter
+from bs4 import BeautifulSoup
+
+fileNamesDict = {}
+
+
+class Toolkit:
+
+    # Used to make a 'soup' faster and more simply
+    @staticmethod
+    def soupMaker(link, htmlMarker):
+        linkRequest = requests.get(link)
+        linkSoup = BeautifulSoup(linkRequest.content, features='lxml')
+        linkContent = linkSoup.find(class_=htmlMarker)
+        return linkContent
+
+    @staticmethod
+    def text(input):
+        return BeautifulSoup(input, features='lxml').text.strip()
+
+    # Used to make a text file name according to naming convention
+    @staticmethod
+    def textNamingConvention(fileLocation, nameQualifier, country, date):
+        dateForFileName = date.replace(' ', '_')
+        countryForFileName = country.replace(' ', '_')
+        filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + ".txt"
+        if filename in fileNamesDict:
+            fileNamesDict[filename] = fileNamesDict[filename] + 1
+        else:
+            fileNamesDict[filename] = 1
+        count = fileNamesDict[filename]
+        if count >= 2:
+            filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + "_" + str(
+                count) + ".txt"
+        return filename
+
+    # Used to make a pdf file name according to naming convention
+    @staticmethod
+    def pdfNamingConvention(fileLocation, nameQualifier, country, date):
+        dateForFileName = date.replace(' ', '_')
+        countryForFileName = country.replace(' ', '_')
+        filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + ".pdf"
+        if filename in fileNamesDict:
+            fileNamesDict[filename] = fileNamesDict[filename] + 1
+        else:
+            fileNamesDict[filename] = 1
+        count = fileNamesDict[filename]
+        if count >= 2:
+            filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + "_" + str(
+                count) + ".pdf"
+        return filename
+
+    # Used to compile text files faster
+    @staticmethod
+    def textFileCompiler(title, date, textFileName, soup):
+        with open(textFileName, 'w') as file:
+            file.write(title + '\n')
+            file.write(date + '\n')
+            for para in soup.find_all('p'):
+                file.write(para.text.strip())
+
+    # Used to compile PDFs faster
+    @staticmethod
+    def pdfFileCompiler(pdfFileName, pdf):
+        getpdf = requests.get(pdf)
+        with open(pdfFileName, 'wb') as file:
+            file.write(getpdf.content)
+
+    # Cleans Up File Names
+    @staticmethod
+    def namingCleanUp(fileLocation):
+        for file in os.listdir(fileLocation):
+            if file.endswith('_2.txt' or '_2.pdf'):
+                pdfOrText = file[-6:]
+                changeFile = file[:-6]
+                if pdfOrText is "_2.txt":
+                    newFile = fileLocation + changeFile + '_1.txt'
+                    oldFile = fileLocation + changeFile + '.txt'
+                    os.rename(oldFile, newFile)
+                elif pdfOrText is "_2.pdf":
+                    newFile = fileLocation + changeFile + '_1.pdf'
+                    oldFile = fileLocation + changeFile + '.pdf'
+                    os.rename(oldFile, newFile)
+
+    # Will create a table describing files and there match of title to
+    @staticmethod
+    def tableMaker(directory, nameQualifier):
+        workbook = xlsxwriter.Workbook(nameQualifier)
+        worksheet = workbook.add_worksheet()
+        worksheet.write('A1', 'Title of File')
+        worksheet.write('B1', 'Title in File')
+        worksheet.write('C1', 'Matching? (1 for Yes, 0 for No)')
+        rowNum = 1
+        for fileName in os.listdir(directory):
+            rowNum = rowNum + 1
+            openFile = open(fileName, 'r')
+            worksheet.write('A'+str(rowNum), fileName)
+            worksheet.write('B'+str(rowNum), openFile.readline(2))
+            if worksheet.cell('A', rowNum) is worksheet.cell('B', rowNum):
+                worksheet.write('C'+str(rowNum), 1)
+            elif worksheet.cell('A', rowNum) is not worksheet.cell('B', rowNum):
+                worksheet.write('C'+str(rowNum), 0)
+
+    # This is a project to combine PDF Naming Convention & PDF Content
+    @staticmethod
+    def pdf(fileLocation, nameQualifier, country, date, pdf):
+        dateForFileName = date.replace(' ', '_')
+        countryForFileName = country.replace(' ', '_')
+        filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + ".pdf"
+        if filename in fileNamesDict:
+            fileNamesDict[filename] = fileNamesDict[filename] + 1
+        else:
+            fileNamesDict[filename] = 1
+        count = fileNamesDict[filename]
+        if count >= 2:
+            filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + "_" + str(
+                count) + ".pdf"
+        getpdf = requests.get(pdf)
+        with open(filename, 'wb') as file:
+            file.write(getpdf.content)

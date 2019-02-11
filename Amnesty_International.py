@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 import requests
 import os
-import WSTK
+import toolkit
 # filenames_dict = {}
 fileLocation = ".\\Amnesty_International\\news\\"
 nameQualifier = "Amnesty_News"
@@ -42,7 +43,7 @@ for x in range(1,6):
 		else:
 			country = content.p.text.strip()
 
-		filename = WSTK.namingConvention(fileLocation, nameQualifier, country, date)
+		filename = toolkit.namingConvention(fileLocation, nameQualifier, country, date)
 
 		link = article.find('a', class_='search-item__link')['href']
 		link = "https://www.amnesty.org" + link

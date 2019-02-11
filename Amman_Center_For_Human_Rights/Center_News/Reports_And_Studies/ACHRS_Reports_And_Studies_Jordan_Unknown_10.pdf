@@ -1,0 +1,1367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ar-aa" lang="ar-aa">
+
+<head>
+	
+	
+	<script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/ja_rasite/';
+var isRTL = true;
+</script>
+
+<base href="http://achrs.org/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="حقوق الانسان، الانسان، حقوق ، مركز ، مركز عمان، عمان،هيومن، ،الانساني، الانسانية ، الحرية، التعبير، المراة، الاطفال، التعبير، دراسات، حقوقي، حق" />
+	<meta name="author" content="Yousef Abzakh" />
+	<meta name="copyright" content="مركز عمان لدراسات حقوق الانسات" />
+		<meta name="description" content="حقوق الانسان، الانسان، حقوق ، مركز ، مركز عمان، عمان،هيومن، ،الانساني، الانسانية ، الحرية، التعبير، المراة، الاطفال، التعبير، دراسات، حقوقي، حق" />
+	<meta name="generator" content="حقوق الانسان" />
+	<title>حقوق الانسان</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/t3-assets/css_18283.css?v=2" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/css_5347c.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/css_d8326.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/css_8accb.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+/* Multithumb 3.7.2 */
+ .multithumb {     
+margin: 5px;     
+border: 1px solid #8a4419;
+border-style: inset;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .multithumb_blog {     
+margin: 5px;     
+border: 1px solid #8a4419;
+border-style: inset;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .mtGallery {     margin: 5px;     align: center;     float: none;  }
+ .mtCapStyle figcaption {     caption-side: bottom;    font-weight: bold;    color: black;      background-color: #ddd;    text-align:center; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"4adbfc17058d0f4f6c46724914fc559c","system.paths":{"root":"","base":""}}</script>
+	<script src="/t3-assets/js_88108.js" type="text/javascript"></script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/templates/ja_rasite/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default-rtl/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/templates/ja_rasite/themes/default-rtl/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_rasite/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_rasite/themes/default-rtl/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 8]><link href="/templates/ja_rasite/themes/default-rtl/css/template-ie8.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/templates/ja_rasite/themes/default-rtl/css/menu/mega-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+		
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cairo:&amp;subset=" />
+
+<style type="text/css">
+/*dynamic css*/
+    body#bd,
+    div.logo-text h1 a,
+    div.ja-moduletable h3, div.moduletable h3,
+    div.ja-module h3, div.module h3,
+    h1.componentheading, .componentheading,
+    .contentheading,
+    .article-content h1,
+    .article-content h2,
+    .article-content h3,
+    .article-content h4,
+    .article-content h5,
+    .article-content h6
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+    div.logo-text h1, div.logo-text h1 a
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+    p.site-slogan
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+    #ja-splitmenu,
+    #jasdl-mainnav,
+    #ja-cssmenu li,
+    #ja-megamenu ul.level0
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+    #ja-subnav,
+    #jasdl-subnav,
+    #ja-cssmenu li li,
+    #ja-megamenu ul.level1
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+    h1.componentheading, .componentheading
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+    .contentheading,
+    .article-content h1,
+    .article-content h2,
+    .article-content h3,
+    .article-content h4,
+    .article-content h5,
+    .article-content h6
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif; }
+    div.ja-moduletable h3, div.moduletable h3,
+    div.ja-module h3, div.module h3
+    {font-family: 'Cairo';@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+font-family: 'Cairo', sans-serif;}
+
+    body.bd .main {width: 950px;}
+    body.bd #ja-wrapper {min-width: 950px;}
+</style>	
+	
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7656839357660826",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+
+<body id="bd" class="fs3 com_content  body-rtl">
+<div id="ja-wrapper">
+	<a name="Top" id="Top"></a>
+	
+	<div id="ja-mainnav"
+            	class="wrap ">
+                   <div class="main clearfix">
+           	<div class="ja-megamenu clearfix" id="ja-megamenu">
+<ul class="megamenu level0"><li  class="mega first active"><a href="http://achrs.org/"  class="mega first active" id="menu101" title="الرئيسية"><span class="menu-title">الرئيسية</span></a></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu108" title="من نحن"><span class="menu-title">من نحن</span></a><div class="childcontent cols2 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/من-نحن/حول-المركز.html"  class="mega first" id="menu109" title="حول المركز"><span class="menu-title">حول المركز</span></a></li><li  class="mega"><a href="/من-نحن/المتدربون.html"  class="mega" id="menu110" title="المتدربون"><span class="menu-title">المتدربون</span></a></li><li  class="mega"><a href="/من-نحن/فريق-العمل.html"  class="mega" id="menu112" title="فريق خريجات المعهد الاردني للقيادات النسائية"><span class="menu-title">فريق خريجات المعهد الاردني للقيادات النسائية</span></a></li><li  class="mega"><a href="/من-نحن/خريجو-دورات-تدريب-المدربين.html"  class="mega" id="menu113" title="خريجو دورات تدريب المدربين"><span class="menu-title">خريجو دورات تدريب المدربين</span></a></li></ul></div><div class="megacol column2 last" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/من-نحن/المشاركات-الخارجية.html"  class="mega first" id="menu114" title="المشاركات الخارجية"><span class="menu-title">المشاركات الخارجية</span></a></li><li  class="mega"><a href="/من-نحن/الممولين.html"  class="mega" id="menu115" title="الممولين"><span class="menu-title">الممولين</span></a></li><li  class="mega"><a href="/من-نحن/فريق-العمل1.html"  class="mega" id="menu149" title="فريق العمل"><span class="menu-title">فريق العمل</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu116" title="اخبار المركز"><span class="menu-title">اخبار المركز</span></a><div class="childcontent cols2 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/اخبار-المركز/المؤتمرات.html"  class="mega first" id="menu117" title="المؤتمرات"><span class="menu-title">المؤتمرات</span></a></li><li  class="mega"><a href="/اخبار-المركز/الدورات-وورش-العمل.html"  class="mega" id="menu118" title="الدورات وورش العمل "><span class="menu-title">الدورات وورش العمل </span></a></li><li  class="mega"><a href="/اخبار-المركز/التقارير-والدراسات.html"  class="mega" id="menu119" title="التقارير والدراسات"><span class="menu-title">التقارير والدراسات</span></a></li></ul></div><div class="megacol column2 last" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/اخبار-المركز/الندوات-والمحاضرات.html"  class="mega first" id="menu120" title="الندوات والمحاضرات"><span class="menu-title">الندوات والمحاضرات</span></a></li><li  class="mega"><a href="/اخبار-المركز/نشاطات-واخبار-منوعة.html"  class="mega" id="menu121" title="نشاطات واخبار منوعة"><span class="menu-title">نشاطات واخبار منوعة</span></a></li><li  class="mega"><a href="/اخبار-المركز/اصدارت-المركز.html"  class="mega" id="menu122" title="اصدارت المركز"><span class="menu-title">اصدارت المركز</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu123" title="عربي ودولي"><span class="menu-title">عربي ودولي</span></a><div class="childcontent cols2 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/عربي-ودولي/2019-02-11-11-40-38.html"  class="mega first" id="menu124" title="اخبار عربية ودولية "><span class="menu-title">اخبار عربية ودولية </span></a></li><li  class="mega"><a href="/عربي-ودولي/2019-02-11-11-45-41.html"  class="mega" id="menu125" title="تقارير ودراسات"><span class="menu-title">تقارير ودراسات</span></a></li><li  class="mega"><a href="/عربي-ودولي/2019-02-11-11-47-31.html"  class="mega" id="menu126" title="مناشدات دولية"><span class="menu-title">مناشدات دولية</span></a></li></ul></div><div class="megacol column2 last" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/عربي-ودولي/2019-02-11-11-48-11.html"  class="mega first" id="menu127" title="مقالات حقوقية"><span class="menu-title">مقالات حقوقية</span></a></li><li  class="mega"><a href="/عربي-ودولي/بيانات-صحفية.html"  class="mega" id="menu128" title="بيانات صحفية"><span class="menu-title">بيانات صحفية</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu129" title="وثـائـق حقـوقـية"><span class="menu-title">وثـائـق حقـوقـية</span></a><div class="childcontent cols2 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/وثـائـق-حقـوقـية/الشرعة-الدولية-لحقوق-الإنسان.html"  class="mega first" id="menu130" title="الشرعة الدولية لحقوق الإنسان"><span class="menu-title">الشرعة الدولية لحقوق الإنسان</span></a></li><li  class="mega"><a href="/وثـائـق-حقـوقـية/ميثاق-الأمم-المتحدة-ومحكمة-العدل-الدولية.html"  class="mega" id="menu131" title="ميثاق الأمم المتحدة ومحكمة العدل الدولية"><span class="menu-title">ميثاق الأمم المتحدة ومحكمة العدل الدولية</span></a></li><li  class="mega"><a href="/وثـائـق-حقـوقـية/حقوق-المرأة.html"  class="mega" id="menu132" title="حقوق المرأة"><span class="menu-title">حقوق المرأة</span></a></li><li  class="mega"><a href="/وثـائـق-حقـوقـية/الحماية-من-التعذيب-وغيره-من-ضروب-المعاملة-القاسية-أو-اللاإنسانية-أو-المهينة.html"  class="mega" id="menu133" title="الحماية من التعذيب وغيره من ضروب المعاملة القاسية أو اللاإنسانية أو المهينة "><span class="menu-title">الحماية من التعذيب وغيره من ضروب المعاملة القاسية أو اللاإنسانية أو المهينة </span></a></li></ul></div><div class="megacol column2 last" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/وثـائـق-حقـوقـية/حق-تقرير-المصير.html"  class="mega first" id="menu135" title="حق تقرير المصير"><span class="menu-title">حق تقرير المصير</span></a></li><li  class="mega"><a href="/وثـائـق-حقـوقـية/منع-التمييز-وحماية-الأقليات.html"  class="mega" id="menu136" title="منع التمييز وحماية الأقليات"><span class="menu-title">منع التمييز وحماية الأقليات</span></a></li><li  class="mega"><a href="/وثـائـق-حقـوقـية/حرية-التنظيم.html"  class="mega" id="menu137" title="حرية التنظيم"><span class="menu-title">حرية التنظيم</span></a></li><li  class="mega"><a href="/وثـائـق-حقـوقـية/التوظيف-والعمل-القسري.html"  class="mega" id="menu138" title="التوظيف والعمل القسري"><span class="menu-title">التوظيف والعمل القسري</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li  class="mega"><a href="/اصداراتنا.html"  class="mega" id="menu139" title="اصداراتنا"><span class="menu-title">اصداراتنا</span></a></li><li  class="mega last"><a href="/english"  class="mega last" id="menu145" title="En"><span class="menu-title">En</span></a></li></ul>
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 0,
+                    'fading'   : 0,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+            	<!-- jdoc:include type="menu" level="0" / -->
+            </div>
+                        </div>
+            <ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>            <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <h1 class="logo">
+	<a href="/index.php" title="مركز عمان لدراسات حقوق الانسان"><span>مركز عمان لدراسات حقوق الانسان</span></a>
+</h1>
+
+<div id="ja-search">
+	<class="quick-contact">
+	<class="form">
+		<form action="../">
+			<p><font face="Tahoma">
+            <select name="myDestination" size="1" style="font-family: Tahoma; font-size: 9"><option value="http://www.arabew.org">المرصد العربي للانتخابات</option><option value="http://www.dp.achrs.org/">المرصد العربي لمناهضة عقوبة الاعدام</option><option value="http://arsaf.org/">مرصد الحريات الاكاديمية</option><option value="http://www.hrtwaw.org/">مرصد مدربي حقوق الانسان</option><option value="http://www.achrs.org/futteisheh/">فتيشة</option></select></font><input style="font-family: Tahoma; font-size: 9;" name="Visit Site" value="زيارة الموقع" type="button" onclick="ob=this.form.myDestination;window.open(ob.options[ob.selectedIndex].value)" />
+			</p>
+		</form>
+</div>                </div>
+                            </div>
+                        </div>
+            <div id="ja-topsl"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-rs1-top"><div class="ja-rs1-tl">&nbsp;</div><div class="ja-rs1-tr">&nbsp;</div></div>
+<div class="ja-rs1-mid"><div class="ja-rs1-ml"><div class="ja-rs1-mr clearfix">
+    		<div id="ja-top" class="clearfix">
+				<div class="ja-moduletable moduletable_blank  clearfix" id="Mod90">
+						<div class="ja-box-ct clearfix">
+		<div
+	class="ja-slidewrap_rasite_blank ja-articles"
+	id="ja-slide-articles-90" style="visibility:hidden">
+	<div class="ja-slide-main-wrap">
+		<div class="ja-slide-mask"></div>
+		<div class="ja-slide-main">
+							<div class="ja-slide-item">
+					<img src="/images/resized/images/UNDEF_Bilingual_Logo_660_369.png"    alt="البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية" title="البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية" />				</div>
+							<div class="ja-slide-item">
+					<img src="/images/resized/images/48269418_1017212151800509_4751868962080292864_n_660_400.jpg"    alt="برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية " title="برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية " />				</div>
+							<div class="ja-slide-item">
+					<img src="/images/resized/images/image00013_660_400.jpeg"    alt="حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد" title="حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد" />				</div>
+							<div class="ja-slide-item">
+					<img src="/images/resized/images/46501656_1005077616347296_4827950214625099776_n_660_399.jpg"    alt="ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة " title="ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة " />				</div>
+							<div class="ja-slide-item">
+					<img src="/images/resized/images/IMG_4646_660_400.JPG"    alt="دورة في إدارة الوقت " title="دورة في إدارة الوقت " />				</div>
+					</div>
+
+				<div class="ja-slide-progress"></div>
+		<div class="ja-slide-loader"></div>
+
+		<div class="maskDesc">
+			<div class="inner">
+			</div>
+		</div>
+	</div>
+			<div class="ja-slide-descs">
+							<div class="ja-slide-desc">
+					<a target="_parent"  href="/اخبار-المركز/نشاطات-واخبار-منوعة/1468-2019-02-11-11-52-45.html">
+						<span>البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجت...</span>
+					</a>
+					<p dir="rtl"><span style="font-size: 14pt;"><strong><span style="font-family: arial, helvetica, sans-serif;">&nbsp;<img src="/images/UNDEF_Bilingual_Logo.png" alt="UNDEF Bilingual Logo" width="450" height="104" style="display: block; margin-left: auto; margin-right: auto;" /></span></strong></span></p>
+<p dir="rtl">باشر مركز عمان لدراسات حقوق الإنسان تنفيذ مشروع "دعم الحوار السياسي بين ...</p>										<a target="_parent" class="readon readmore" href="/اخبار-المركز/نشاطات-واخبار-منوعة/1468-2019-02-11-11-52-45.html">
+						Readmore..					</a>
+									</div>
+							<div class="ja-slide-desc">
+					<a target="_parent"  href="/اخبار-المركز/نشاطات-واخبار-منوعة/1465-2019-02-11-11-53-07.html">
+						<span>برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عم...</span>
+					</a>
+					<p><img src="/images/48269418_1017212151800509_4751868962080292864_n.jpg" alt="48269418 1017212151800509 4751868962080292864 n" width="500" height="314" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="rtl">بمناسبة الذكرى الـ 70 للإعلان العالمي لحقوق الإنسان اقام مركز عمان لدراسات حقو...</p>										<a target="_parent" class="readon readmore" href="/اخبار-المركز/نشاطات-واخبار-منوعة/1465-2019-02-11-11-53-07.html">
+						Readmore..					</a>
+									</div>
+							<div class="ja-slide-desc">
+					<a target="_parent"  href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html">
+						<span>حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية ...</span>
+					</a>
+					<p><img src="/images/image00013.jpeg" alt="image00013" width="500" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="rtl">&nbsp;بمناسبة الذكرى السبعين للإعلان العالمي لحقوق الإنسان نظم مركز الحرية للت...</p>										<a target="_parent" class="readon readmore" href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html">
+						Readmore..					</a>
+									</div>
+							<div class="ja-slide-desc">
+					<a target="_parent"  href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html">
+						<span>ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجا...</span>
+					</a>
+					<p><img src="/images/46501656_1005077616347296_4827950214625099776_n.jpg" alt="46501656 1005077616347296 4827950214625099776 n" width="500" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="rtl">ضمن الإحتفال بالذكرى السبعين للإعلان العالمي لحقوق الإنسان نفذ مركز عمان لدراس...</p>										<a target="_parent" class="readon readmore" href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html">
+						Readmore..					</a>
+									</div>
+							<div class="ja-slide-desc">
+					<a target="_parent"  href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html">
+						<span>دورة في إدارة الوقت</span>
+					</a>
+					<p><img src="/images/IMG_4646.JPG" alt="IMG 4646" width="500" height="226" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="rtl">اختتام الدورة التاسعة للمشاركات في الدفعة الــ 13 لبرنامج المعهد الأردني للقيا...</p>										<a target="_parent" class="readon readmore" href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html">
+						Readmore..					</a>
+									</div>
+					</div>
+	
+			<div class="ja-slide-thumbs-wrap ja-vertical_right">
+			<div class="ja-slide-thumbs">
+									<div class="ja-slide-thumb ">
+						<div class="ja-slide-thumb-inner">
+															<img src="/images/resized/images/UNDEF_Bilingual_Logo_60_60.png"  align="left"  alt="البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية" title="البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية" />														<h3>البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجت...</h3>
+																						&nbsp;
+باشر مركز عمان لدراسات حقوق الإنسان تنفيذ مشروع "دعم...													</div>
+					</div>
+									<div class="ja-slide-thumb ">
+						<div class="ja-slide-thumb-inner">
+															<img src="/images/resized/images/48269418_1017212151800509_4751868962080292864_n_60_60.jpg"  align="left"  alt="برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية " title="برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية " />														<h3>برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عم...</h3>
+																						بمناسبة الذكرى الـ 70 للإعلان العالمي لحقوق الإنسان اقام مرك...													</div>
+					</div>
+									<div class="ja-slide-thumb ">
+						<div class="ja-slide-thumb-inner">
+															<img src="/images/resized/images/image00013_60_60.jpeg"  align="left"  alt="حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد" title="حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد" />														<h3>حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية ...</h3>
+																						&nbsp;بمناسبة الذكرى السبعين للإعلان العالمي لحقوق الإنسان ن...													</div>
+					</div>
+									<div class="ja-slide-thumb ">
+						<div class="ja-slide-thumb-inner">
+															<img src="/images/resized/images/46501656_1005077616347296_4827950214625099776_n_60_60.jpg"  align="left"  alt="ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة " title="ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة " />														<h3>ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجا...</h3>
+																						ضمن الإحتفال بالذكرى السبعين للإعلان العالمي لحقوق الإنسان ن...													</div>
+					</div>
+									<div class="ja-slide-thumb ">
+						<div class="ja-slide-thumb-inner">
+															<img src="/images/resized/images/IMG_4646_60_60.JPG"  align="left"  alt="دورة في إدارة الوقت " title="دورة في إدارة الوقت " />														<h3>دورة في إدارة الوقت</h3>
+																						اختتام الدورة التاسعة للمشاركات في الدفعة الــ 13 لبرنامج ال...													</div>
+					</div>
+							</div>
+
+			<div class="ja-slide-thumbs-mask" style=" display:none ">
+				<div class="ja-slide-thumbs-mask-left">&nbsp;</div>
+				<div class="ja-slide-thumbs-mask-center">&nbsp;</div>
+				<div class="ja-slide-thumbs-mask-right">&nbsp;</div>
+			</div>
+
+			<p class="ja-slide-thumbs-handles">
+									<span>&nbsp;</span>
+									<span>&nbsp;</span>
+									<span>&nbsp;</span>
+									<span>&nbsp;</span>
+									<span>&nbsp;</span>
+							</p>
+		</div>
+	
+	
+</div>
+
+<script type="text/javascript">
+	var Ja_direction = '';
+	var cookie_path = '/';
+	var cur_template_name = 'ja_rasite';
+	window.jasliderInst = window.jasliderInst || [];
+	
+	window.addEvent('domready', function(){
+		var Ja_maskAlign_90= 'bottom';
+		if(typeof(tmpl_name) =='undefined'){
+			cookie_path = "ja_rasite_direction";
+		} else{
+			cookie_path = tmpl_name+"_direction";
+		}
+		
+		Ja_direction = Cookie.read(cookie_path);
+		if( Ja_direction == '' || Ja_direction == null){
+			Ja_direction = 'rtl';
+		}
+		var style_l_value = 'auto';
+		if(cur_template_name == 'ja_norite'){
+			style_l_value = '0';
+		}
+		if(Ja_direction == 'rtl'){
+			setStyleLinkWithRTLDirection();
+			$('ja-slide-articles-90').getElement(".ja-slide-main").setStyle('left',style_l_value);
+			$('ja-slide-articles-90').getElement(".ja-slide-main").setStyle('right','auto');
+			if(Ja_maskAlign_90 == 'right'){
+				Ja_maskAlign_90 = 'left';
+			}
+			else if(Ja_maskAlign_90 == 'left'){
+				Ja_maskAlign_90 = 'right';
+			}
+		}
+
+		window.jasliderInst.push(new JASlider('ja-slide-articles-90', {
+			slices: 5,
+			boxCols: 8,
+			boxRows: 4,
+			
+			animation: 'fade',
+			fbanim: 'move',
+			direction: 'horizontal',
+			
+			interval: 5000,
+			duration: 700,
+			transition: Fx.Transitions.Quad.easeInOut,
+			
+			repeat: 'true',
+			autoPlay: 1,
+			
+			mainWidth: 660,
+			mainHeight: 400,
+			
+			rtl:( typeof Ja_direction == 'string') ? Ja_direction : '',
+			
+			startItem: 0,
+			
+			thumbItems: 4,
+			thumbType: 'thumbs',
+			thumbWidth: 310,
+			thumbHeight: 100,
+			thumbSpaces: [0,0],
+			thumbOpacity: 0.8,
+			thumbTrigger: 'click',
+			thumbOrientation: 'vertical_right',
+			
+			
+			maskStyle: 0,
+			maskWidth: 660,
+			maskHeigth:80,
+			maskOpacity: 0.8,
+			maskAlign: Ja_maskAlign_90,
+			maskTransitionStyle: 'opacity',
+			maskTransition: Fx.Transitions.linear,
+			
+			showDesc: 'desc',
+			descTrigger: 'load',
+			edgemargin:0,
+			showControl: 0,
+			
+			showNavBtn: true,
+			navBtnOpacity: 0.4,
+			navBtnTrigger: 'click',
+			
+			showProgress: 0,
+			
+			urls:['/اخبار-المركز/نشاطات-واخبار-منوعة/1468-2019-02-11-11-52-45.html','/اخبار-المركز/نشاطات-واخبار-منوعة/1465-2019-02-11-11-53-07.html','/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html','/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html','/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html'],
+			targets:['target="_parent"','target="_parent"','target="_parent"','target="_parent"','target="_parent"']
+		}));
+	});
+</script>
+<script type="text/javascript">
+	function setStyleLinkWithRTLDirection()
+	{
+		var links = document.getElementsByTagName ('link');
+				
+		var script = document.createElement('link');
+		script.setAttribute('type', 'text/css');
+		script.setAttribute('rel', 'stylesheet');
+		script.setAttribute('href', 'http://achrs.org/modules/mod_jaslideshow/assets/themes/default/mod_jaslideshow_rtl.css');
+		document.getElementsByTagName("head")[0].appendChild(script);
+	}
+</script>		</div>
+    </div>
+	
+		</div>
+		
+		<!-- SPOTLIGHT -->
+												<!-- SPOTLIGHT -->
+    </div>   
+    
+</div></div>
+<div class="ja-rs1-bot"><div class="ja-rs1-bl">&nbsp;</div><div class="ja-rs1-br">&nbsp;</div></div>
+            </div>
+                        </div>
+            
+<script type="text/javascript">
+	window.addEvent('load', function (){ equalHeight ('#ja-topsl .ja-box') });
+</script>
+	<!-- MAIN CONTAINER -->
+	<div id="ja-container" class="wrap ja-lirir1">
+	           <div class="main clearfix">
+           		<div class="ja-rs2-top"><div class="ja-rs2-tl">&nbsp;</div><div class="ja-rs2-tr">&nbsp;</div></div>
+		<div class="ja-rs2-mid"><div class="ja-rs2-ml"><div class="ja-rs2-mr clearfix">
+		<div class="ja-breadcrums">
+			
+		</div>
+		<div id="ja-mainbody" style="width:70%">
+			<!-- CONTENT -->
+			<div id="ja-main" style="width:100%">
+			<div class="inner clearfix">
+				
+				<div id="system-message-container">
+	</div>
+
+								<div id="ja-content-mass-top" class="ja-mass ja-mass-top clearfix">
+					<div class="ja-rs3-top"><div class="ja-rs3-tl">&nbsp;</div><div class="ja-rs3-tr">&nbsp;</div></div>
+					<div class="ja-rs3-mid"><div class="ja-rs3-ml"><div class="ja-rs3-mr">
+							<div class="ja-moduletable moduletable title-green  clearfix" id="Mod111">
+						<h3><span><strong class="first-word"><strong>عربـي </strong></strong>&nbsp;ودولـي</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="ja-sidenews-list clearfix">
+			<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/10-2-2019-1_160_120.jpg"    alt="إعلان تونس لوقف الحرب والعدوان ورفع الحصار وبناء السلام في اليمن" title="إعلان تونس لوقف الحرب والعدوان ورفع الحصار وبناء السلام في اليمن" /></span>
+			
+			<a class="ja-title" href="/عربي-ودولي/2019-02-11-11-40-38/1469-2019-02-11-11-52-19.html">إعلان تونس لوقف الحرب والعدوان ورفع الحصار وبناء السلام في اليمن</a>
+			 
+		  
+							<span class="ja-createdate">19-02-10 - </span>
+						
+			
+احتضنت مدينة تونس خلال الفترة بين 5و7 شباط/ فيفري 2019 ندوة "آفاق السلام في اليمن ودور المجتمع المدني"&nbsp; خلصت فيها إلى إصدار "إعلان تونس لوقف الحرب والعدوان ورفع الحصار وبناء السلام في اليمن" بمبادرة من منظمات حقوقية من عشرة بلدان عربية هي تونس، المغرب الجزائر،مصر، السودان، ا�...			
+					  
+		</div>
+  		<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/stories/news/arabic/arbitrary-arrest_160_120.jpg"    alt="الاحتجاز التعسفي يطال الآلاف في السعودية" title="الاحتجاز التعسفي يطال الآلاف في السعودية" /></span>
+			
+			<a class="ja-title" href="/عربي-ودولي/2019-02-11-11-40-38/1424-الاحتجاز-التعسفي-يطال-الآلاف-في-السعودية.html">الاحتجاز التعسفي يطال الآلاف في السعودية</a>
+			 
+		  
+							<span class="ja-createdate">18-05-11 - </span>
+						
+			
+قالت "هيومن رايتس ووتش" اليوم إن السعودية تحتجز آلاف الأشخاص لأكثر من 6 أشهر، وفي بعض الحالات لأكثر من عقد من الزمن، دون إخضاعهم لإجراءات جنائية أمام المحاكم. على الادعاء العام في السعودية إما			
+					  
+		</div>
+  		<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/stories/f1fe661b17d3137545ba108221a45a219ae79cbc_160_120.jpg"    alt="مصر: الحبس الانفرادي أحدث وسائل التعذيب في السجون المصرية" title="مصر: الحبس الانفرادي أحدث وسائل التعذيب في السجون المصرية" /></span>
+			
+			<a class="ja-title" href="/عربي-ودولي/2019-02-11-11-40-38/1426-مصر-الحبس-الانفرادي-أحدث-وسائل-التعذيب-في-السجون-المصرية.html">مصر: الحبس الانفرادي أحدث وسائل التعذيب في السجون المصرية</a>
+			 
+		  
+							<span class="ja-createdate">18-05-09 - </span>
+						
+			
+يُظهر بحث جديد أجرته منظمة العفو الدولية أن هناك سجناء بتهم ذات دوافع سياسية يُحتجزون رهن الحبس الانفرادي المطوَّل وإلى أجل غير مُسمَّى في مصر، وفي بعض الحالات استمر هذا الحبس عدة سنوات، وهو الأمر الذي يُعد في حد ذاته بمثابة نوع من التعذيب. ويظل السجناء محبوسين في زنازينهم لما...			
+					  
+		</div>
+  </div>		</div>
+    </div>
+						</div></div></div>
+					<div class="ja-rs3-bot"><div class="ja-rs3-bl">&nbsp;</div><div class="ja-rs3-br">&nbsp;</div></div>
+				</div>
+				
+				<div id="ja-contentwrap" class="clearfix ja-liri">
+					<div id="ja-content" class="column" style="width:64.29%">
+						<div id="ja-current-content" class="column" style="width:0%">
+														
+														<div id="ja-content-main" class="ja-content-main clearfix">
+								<div class="ja-rs5-top"><div class="ja-rs5-tl">&nbsp;</div><div class="ja-rs5-tr">&nbsp;</div></div>
+								<div class="ja-rs5-mid"><div class="ja-rs5-ml"><div class="ja-rs5-mr clearfix">
+									
+
+<div class="blog">
+
+	        		<div class="leading clearfix">
+			
+<div class="contentpaneopen haveimage clearfix">
+
+<div class="article-image">
+<span><img src="http://achrs.org/images/multithumb_thumbs/b_500_219_16777215_00_images_8-2019.jpg"         width="500" height="219"    alt="اِقرأ المزيد: لقاء حواري مع البرلمان الطلابي حول الاعلان العالمي لحقوق الإنسان"   class="multithumb_blog"  style="display: block; margin-left: auto; margin-right: auto; border: #000000 initial;"    /></span>
+</div>
+
+<div class="article-main">
+<h2 class="contentheading">
+		<a href="/115-uncategorised/1466-2019-02-11-11-52-59.html">
+		لقاء حواري مع البرلمان الطلابي حول الاعلان العالمي لحقوق الإنسان	</a>
+	</h2>
+
+
+
+
+
+<div class="article-content">
+
+
+
+<p><a href="/115-uncategorised/1466-2019-02-11-11-52-59.html" title="اِقرأ المزيد: لقاء حواري مع البرلمان الطلابي حول الاعلان العالمي لحقوق الإنسان"></a></p>
+<p dir="rtl">في إطار برنامج مركز عمان لدراسات حقوق الإنسان للاحتفال بالذكرى السبعين للإعلان العالمي لحقوق الإنسان، نظم المركز بالتعاون مع مدرسة إيناث النظيف الإعدادية الأولى لقاء حواري مع البرلمان الطلابي حول: الاعلان العالمي لحقوق الإنسان وذلك يوم الأربعاء الموافق 5/12/2018 في قاعة المدرسة.</p>
+
+</div>
+
+
+			<p class="readmore">
+				<a href="/115-uncategorised/1466-2019-02-11-11-52-59.html">
+					اِقرأ المزيد: لقاء حواري مع البرلمان الطلابي حول الاعلان العالمي لحقوق الإنسان</a>
+		</p>
+</div>
+
+</div>
+
+		</div>
+    		 
+	            			<div class="article_row cols2 clearfix">
+									<div class="article_column column1" >
+						
+<div class="contentpaneopen haveimage clearfix">
+
+<div class="article-image">
+<span><img src="http://achrs.org/images/multithumb_thumbs/b_500_0_16777215_00_images_image00013.jpeg"        width="500" height="276"    alt="اِقرأ المزيد: حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد"   class="multithumb_blog"  style="display: block; margin-left: auto; margin-right: auto;"    /></span>
+</div>
+
+<div class="article-main">
+<h2 class="contentheading">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html">
+		حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد	</a>
+	</h2>
+
+
+
+
+
+<div class="article-content">
+
+
+
+<p><a href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html" title="اِقرأ المزيد: حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد"></a></p>
+<p dir="rtl">&nbsp;بمناسبة الذكرى السبعين للإعلان العالمي لحقوق الإنسان نظم مركز الحرية للتنمية وحقوق الإنسان بالتعاون مع مركز عمان لدراسات حقوق الإنسان وباستضافة كريمة من مركز موسى الساكت، حلقة نقاشية بعنوان "الحريات الأكاديمية في الأردن".</p>
+
+</div>
+
+
+			<p class="readmore">
+				<a href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html">
+					اِقرأ المزيد: حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد</a>
+		</p>
+</div>
+
+</div>
+
+					</div>
+									<div class="article_column column2" >
+						
+<div class="contentpaneopen haveimage clearfix">
+
+<div class="article-image">
+<span><img src="http://achrs.org/images/multithumb_thumbs/b_500_226_16777215_00_images_IMG_4646.JPG"         width="500" height="226"    alt="اِقرأ المزيد: دورة في إدارة الوقت "   class="multithumb_blog"  style="display: block; margin-left: auto; margin-right: auto;"    /></span>
+</div>
+
+<div class="article-main">
+<h2 class="contentheading">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html">
+		دورة في إدارة الوقت 	</a>
+	</h2>
+
+
+
+
+
+<div class="article-content">
+
+
+
+<p><a href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html" title="اِقرأ المزيد: دورة في إدارة الوقت "></a></p>
+<p dir="rtl">اختتام الدورة التاسعة للمشاركات في الدفعة الــ 13 لبرنامج المعهد الأردني للقيادات النسائية وتناولت الدورة موضوع "إدارة الوقت" وقامت بالتدريب، مشكورة، الباحثة والمدربة علا كساب.</p>
+
+</div>
+
+
+			<p class="readmore">
+				<a href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html">
+					اِقرأ المزيد: دورة في إدارة الوقت </a>
+		</p>
+</div>
+
+</div>
+
+					</div>
+							</div>
+		
+					<div class="article_row cols2 clearfix">
+									<div class="article_column column1" >
+						
+<div class="contentpaneopen haveimage clearfix">
+
+<div class="article-image">
+<span><img src="http://achrs.org/images/multithumb_thumbs/b_500_0_16777215_00_images_46501656_1005077616347296_4827950214625099776_n.jpg"        width="500" height="277"    alt="اِقرأ المزيد: ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة "   class="multithumb_blog"  style="display: block; margin-left: auto; margin-right: auto;"    /></span>
+</div>
+
+<div class="article-main">
+<h2 class="contentheading">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html">
+		ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة 	</a>
+	</h2>
+
+
+
+
+
+<div class="article-content">
+
+
+
+<p><a href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html" title="اِقرأ المزيد: ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة "></a></p>
+<p dir="rtl">ضمن الإحتفال بالذكرى السبعين للإعلان العالمي لحقوق الإنسان نفذ مركز عمان لدراسات حقوق الإنسان بالتعاون مع مركز " بيت اللقاء لذوي الاحتياجات الخاصة" /مأدبا ندوة بعنوان حقوق الإنسان للأشخاص ذوي الإعاقة.</p>
+
+</div>
+
+
+			<p class="readmore">
+				<a href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html">
+					اِقرأ المزيد: ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة </a>
+		</p>
+</div>
+
+</div>
+
+					</div>
+									<div class="article_column column2" >
+						
+<div class="contentpaneopen haveimage clearfix">
+
+<div class="article-image">
+<span><img src="http://achrs.org/images/multithumb_thumbs/b_500_0_16777215_00_images_20181102_105923.jpg"        width="500" height="281"    alt="اِقرأ المزيد: علاقة الدين بحقوق الإنسان"   class="multithumb_blog"  style="display: block; margin-left: auto; margin-right: auto;"    /></span>
+</div>
+
+<div class="article-main">
+<h2 class="contentheading">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1461-علاقة-الدين-بحقوق-الإنسان.html">
+		علاقة الدين بحقوق الإنسان	</a>
+	</h2>
+
+
+
+
+
+<div class="article-content">
+
+
+
+<p><a href="/اخبار-المركز/الدورات-وورش-العمل/1461-علاقة-الدين-بحقوق-الإنسان.html" title="اِقرأ المزيد: علاقة الدين بحقوق الإنسان"></a></p>
+<p dir="rtl" style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">اختتم اليوم الثالث عشر للمشاركات في الدفعة الــ 13 لبرنامج المعهد الأردني للقيادات النسائية والمخصص لموضوع " علاقة الدين بحقوق الإنسان" تضمنت مفهوم حقوق الإنسان كمفهوم عالمي ودورها الطبيعي ودور مفهوم حرية المعتقد والدين كما وردت في المادة (18) من العهد الدولي للحقوق المدنية والسياسية،&nbsp; إضافة للمقارنة بين الحقوق الواردة في القانون الدولي لحقوق الإنسان ومعايير تقسيم حقوق الإنسان والحقوق الواردة في الدين الاسلامي. كما استعرض المحاضر دراسته حول مدى توافق الفتاوى التي صدرت عن دار الإفتاء العام في الأردن مع حقوق الإنسان. وقام&nbsp; بالتدريب، مشكوراً، الخبير في قضايا حقوق الإنسان والديمقراطية الباحث رياض الصبح. مدير المركز الاستراتيجي للتدريب على حقوق الإنسان.</span></p>
+<p dir="rtl" style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">ويذكر أن برنامج المعهد الأردني لحقوق الإنسان بادر إلى تنفيذه مركز عمان منذ عام 2010، وتخرج منه حتى تاريخه (170) مشاركة من الأردن، العراق، سورية، ليبيا، اليمن، السودان، وفلسطين.</span></p>
+</div>
+
+
+</div>
+
+</div>
+
+					</div>
+							</div>
+		
+		
+		<div class="blog_more">
+		
+<h2>
+	More Articles...</h2>
+
+<ul>
+	</ul>
+	</div>
+	
+	<div class="pagination">
+
+					<p class="counter">
+				الصفحة 1 من 9			</p>
+						<ul class="pagenav"><li><span>&laquo;</span></li><li>&nbsp;<span>البداية</span>&nbsp;</li><li>&nbsp;<span>السابق</span>&nbsp;</li><li>&nbsp;<strong><a href="/?start=40" title="9">9</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=35" title="8">8</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=30" title="7">7</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=25" title="6">6</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=20" title="5">5</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=15" title="4">4</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=10" title="3">3</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=5" title="2">2</a></strong>&nbsp;</li><li>&nbsp;<span>1</span>&nbsp;</li><li>&nbsp;<strong><a href="/?start=5" title="التالي">التالي</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/?start=40" title="النهاية">النهاية</a></strong>&nbsp;</li><li><span>&raquo;</span></li></ul>	</div>
+</div>
+								</div></div></div>
+								<div class="ja-rs5-bot"><div class="ja-rs5-bl">&nbsp;</div><div class="ja-rs5-br">&nbsp;</div></div>
+							</div>
+							
+													</div>
+						
+												<div id="ja-inset1" class="ja-col column ja-inset1" style="width:100%">
+							<div class="ja-rs5-top"><div class="ja-rs5-tl">&nbsp;</div><div class="ja-rs5-tr">&nbsp;</div></div>
+						<div class="ja-rs5-mid"><div class="ja-rs5-ml"><div class="ja-rs5-mr">
+								<div class="ja-moduletable moduletable title-green  clearfix" id="Mod98">
+						<h3><span><strong class="first-word"><strong>نشاطات </strong></strong>&nbsp;واخبار المركز</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="ja-sidenews-list clearfix">
+			<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/UNDEF_Bilingual_Logo_60_60.png"    alt="البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية" title="البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية" /></span>
+			
+			<a class="ja-title" href="/اخبار-المركز/نشاطات-واخبار-منوعة/1468-2019-02-11-11-52-45.html">البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة...</a>
+			 
+		  
+						
+			&nbsp;
+باشر مركز عمان لدراسات حقوق الإنسان تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن"...			
+					  
+		</div>
+  		<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/48269418_1017212151800509_4751868962080292864_n_60_60.jpg"    alt="برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية " title="برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية " /></span>
+			
+			<a class="ja-title" href="/اخبار-المركز/نشاطات-واخبار-منوعة/1465-2019-02-11-11-53-07.html">برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج...</a>
+			 
+		  
+						
+			
+بمناسبة الذكرى الـ 70 للإعلان العالمي لحقوق الإنسان اقام مركز عمان لدراسات حقوق الإنسان حفل ختامي تحت شعار "حماية...			
+					  
+		</div>
+  		<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/image00013_60_60.jpeg"    alt="حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد" title="حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد" /></span>
+			
+			<a class="ja-title" href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html">حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد</a>
+			 
+		  
+						
+			
+&nbsp;بمناسبة الذكرى السبعين للإعلان العالمي لحقوق الإنسان نظم مركز الحرية للتنمية وحقوق الإنسان بالتعاون مع مركز...			
+					  
+		</div>
+  		<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/46501656_1005077616347296_4827950214625099776_n_60_60.jpg"    alt="ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة " title="ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة " /></span>
+			
+			<a class="ja-title" href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html">ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة </a>
+			 
+		  
+						
+			
+ضمن الإحتفال بالذكرى السبعين للإعلان العالمي لحقوق الإنسان نفذ مركز عمان لدراسات حقوق الإنسان بالتعاون مع مركز...			
+					  
+		</div>
+  		<div class="ja-slidenews-item clearfix">
+		
+							<span class="image-desc"><img src="/images/resized/images/IMG_4646_60_60.JPG"    alt="دورة في إدارة الوقت " title="دورة في إدارة الوقت " /></span>
+			
+			<a class="ja-title" href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html">دورة في إدارة الوقت </a>
+			 
+		  
+						
+			
+اختتام الدورة التاسعة للمشاركات في الدفعة الــ 13 لبرنامج المعهد الأردني للقيادات النسائية وتناولت الدورة موضوع...			
+					  
+		</div>
+  </div>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod118">
+						<h3><span><strong class="first-word"><strong>إصـدارت </strong></strong>&nbsp;خاصـة بالمـركـز</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<div class="blocknews">
+	<div id="btcontentshowcase118"  class="bt-contentshowcase">
+				<div class="bt-blocks">
+				
+			<div class="bt-block">				<div class="bt-category">
+						<h3>
+													<a target="_parent"
+								title="اصدارات خاصة بالمركز"
+								href="/اخبار-المركز/اصدارت-المركز.html"> <span>اصدارات خاصة بالمركز</span>
+							</a>
+												</h3>
+				</div>
+				<div class="bt-img">
+						
+					<a target="_parent" href="/اخبار-المركز/اصدارت-المركز/1316-كتيب-شهادات-خريجات-المعهد-الأردني-للقيادات-النسائية.html">
+						<img src="http://achrs.org/cache/mod_bt_contentshowcase/87dc370f7ae30d410daf10a072d8c6f5-Graduate_Testimonies.jpg" alt="كتيب شهادات خريجات المعهد الأردني للقيادات النسائية " />
+					</a>
+										<div class="bt-title">
+													<a target="_parent"	href="/اخبار-المركز/اصدارت-المركز/1316-كتيب-شهادات-خريجات-المعهد-الأردني-للقيادات-النسائية.html"> 
+								كتيب شهادات خريجات المعهد الأردني للقيادات النسائية 							</a>
+												<div class="bt-title-bg"></div>
+					</div>
+				</div>
+				<div class="bt-extra">
+					<span class="bt-hits">811 views</span>
+														</div>
+								<div class="bt-introtext">
+					
+
+أصدر مركز عمان لدراسات حقوق الإنسان كتيب شهادات لخريجات المعهد الأردني للقيادات النسائية. 
+ويحت...									</div>
+							<div class="bt-list">				
+							<div class="bt-item"><a target="_parent" href="/اخبار-المركز/اصدارت-المركز/1292-كتاب-بعنوان-العنف-العربي-العراقي-المعاصر.html">كتاب بعنوان: &quot;العنف العربي العراقي المعاصر&quot;</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/اخبار-المركز/اصدارت-المركز/1091-مقياس-مركز-عمان-للحريات-الأكاديمية-في-الجامعات-العربية.html">مقياس مركز عمان للحريات الأكاديمية في الجامعات العربية</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/اخبار-المركز/اصدارت-المركز/1082-دراسة-تقييمية-للعمالة-المهاجرة-غير-النظامية.html">دراسة تقييمية للعمالة المهاجرة غير النظامية </a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/اخبار-المركز/اصدارت-المركز/932-تقارير-مراقبة-الانتخابات-في-الدول-العربية.html">تقارير مراقبة الانتخابات في الدول العربية</a></div>
+									<p class="read-all"><a href="/اخبار-المركز/اصدارت-المركز.html">Read all news</a></p></div></div>		</div>
+	</div>
+</div>
+<div style="clear: both;"></div>
+		</div>
+    </div>
+							</div></div></div>
+						<div class="ja-rs5-bot"><div class="ja-rs5-bl">&nbsp;</div><div class="ja-rs5-br">&nbsp;</div></div>
+					</div>
+										</div>
+
+										<div id="ja-inset2" class="ja-col column ja-inset2" style="width:35.71%">
+						<div class="ja-rs5-top"><div class="ja-rs5-tl">&nbsp;</div><div class="ja-rs5-tr">&nbsp;</div></div>
+						<div class="ja-rs5-mid"><div class="ja-rs5-ml"><div class="ja-rs5-mr">
+								<div class="ja-moduletable moduletable title-orange  clearfix" id="Mod110">
+						<h3><span><strong class="first-word"><strong>منـاشدات </strong></strong>&nbsp;حقوقيـة</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<div class="blocknews">
+	<div id="btcontentshowcase110"  class="bt-contentshowcase bt-contentshowcase title-orange">
+				<div class="bt-blocks">
+				
+			<div class="bt-block">				<div class="bt-category">
+						<h3>
+													<a target="_parent"
+								title="مناشدات دولية"
+								href="/عربي-ودولي/2019-02-11-11-47-31.html"> <span>مناشدات دولية</span>
+							</a>
+												</h3>
+				</div>
+				<div class="bt-img">
+						
+					<a target="_parent" href="/عربي-ودولي/2019-02-11-11-47-31/1413-أطلقوا-سراح-الناشطة-الفلسطينية-عهد-التميمي-البالغة-من-العمر-16-عاماً.html">
+						<img src="http://achrs.org/cache/mod_bt_contentshowcase/7e642ff48941d42144439f88a57cd62e-عهد-التميمي.jpg" alt=" أطلقوا سراح الناشطة الفلسطينية عهد التميمي البالغة من العمر 16 عاماً" />
+					</a>
+										<div class="bt-title">
+													<a target="_parent"	href="/عربي-ودولي/2019-02-11-11-47-31/1413-أطلقوا-سراح-الناشطة-الفلسطينية-عهد-التميمي-البالغة-من-العمر-16-عاماً.html"> 
+								 أطلقوا سراح الناشطة الفلسطينية عهد التميمي البالغة من العمر 16 عاماً							</a>
+												<div class="bt-title-bg"></div>
+					</div>
+				</div>
+				<div class="bt-extra">
+					<span class="bt-hits">652 views</span>
+														</div>
+								<div class="bt-introtext">
+					
+يُطلق على الناشطة الفلسطينية عهد التميمي (16 عاما) اسم "روزا باركس فلسطين". فل...									</div>
+							<div class="bt-list">				
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-47-31/1391-على-المغرب-إعادة-النظر-في-إدانة-ناطق-باسم-حركة-احتجاجية.html">على المغرب إعادة النظر في إدانة ناطق باسم حركة احتجاجية</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-47-31/1294-نداء-حقوقي-مشترك-بمناسبة-عيد-المرأة-دعوة-دائمة-للمساواة-بحقوق-المواطنة-بدون-تحفظ-ومن-اجل-دور-حقيقي-وفعال-وشامل-للمرأة-السورية-في-عمليات-التفاوض-والسلام.html">نداء حقوقي مشترك بمناسبة عيد المرأة دعوة دائمة للمساواة بحقوق المواطنة بدون تحفظ ومن اجل دور حقيقي وفعال وشامل للمرأة السورية في عمليات التفاوض والسلام</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-47-31/1227-نداء-عاجل-للإلتزام-بالمعاهدات-الدولية-ودعم-مُحاكمة-عادلة-في-القضية-المعروفة-بـ-خلية-العبدلي-والمُقيّدة-برقم-51-2015-أمن-دولة-وملاحظات-على-الحكم-القضائي-الصادر-بتاريخ-12-1-2016.html">نداء عاجل للإلتزام بالمعاهدات الدولية ودعم مُحاكمة عادلة  في القضية المعروفة بـ (خلية العبدلي) والمُقيّدة برقم 51/2015 أمن دولة وملاحظات على الحكم القضائي الصادر بتاريخ 12/1/2016 - </a></div>
+									<p class="read-all"><a href="/عربي-ودولي/2019-02-11-11-47-31.html">Read all news</a></p></div></div>		</div>
+	</div>
+</div>
+<div style="clear: both;"></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod39">
+						<h3><span><strong class="first-word"><strong>المتواجدون </strong></strong>&nbsp;الان</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+			<p>263&#160;زائر يتواجد في الموقع الآن، ولايوجد أعضاء داخل الموقع</p>
+
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable title-green  clearfix" id="Mod95">
+						<h3><span><strong class="first-word"><strong>بيـانات </strong></strong>&nbsp;صحـفية</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="ja-bulletin">
+	<ul class="ja-bulletin title-green clearfix">
+				<li>
+																<div  class="box-right">
+				<a href="/عربي-ودولي/بيانات-صحفية/1467-40-12.html" class="mostread title-green">40  منظمة وشبكة وتحالف حقوقي من 12 دولة عربية يدينون الممارسات القمعية ويطالبون باللإفراج الفوري عن المعتقلين والمعتقلات والاستجابة للمطالب المشروعة للشعب السوداني </a>
+											   <span>19-02-11</span>
+																</div>
+
+		</li>
+			<li>
+																<div  class="box-right">
+				<a href="/عربي-ودولي/بيانات-صحفية/1450-مصر-تحاكم-75-حتى-الموت-في-محاكمة-جماعية-بشعة.html" class="mostread title-green">مصر تحاكم 75 حتى الموت في محاكمة جماعية بشعة</a>
+											   <span>18-09-10</span>
+																</div>
+
+		</li>
+			<li>
+																<div  class="box-right">
+				<a href="/عربي-ودولي/بيانات-صحفية/1445-بيان-مشترك-127-منظمة-حقوقية-تدعو-الى-الافراج-الفوري-عن-نبيل-رجب.html" class="mostread title-green">بيان مشترك: 127 منظمة حقوقية تدعو الى الافراج الفوري عن نبيل  رجب </a>
+											   <span>18-08-30</span>
+																</div>
+
+		</li>
+			<li>
+																<div  class="box-right">
+				<a href="/عربي-ودولي/بيانات-صحفية/1437-المنظمات-الحقوقية-التونسية-تطالب-بالإفراج-عن-معتقلي-حراك-الريف-في-المغرب.html" class="mostread title-green">المنظمات الحقوقية التونسية تطالب بالإفراج عن معتقلي حراك الريف في المغرب </a>
+											   <span>18-07-15</span>
+																</div>
+
+		</li>
+			<li>
+																<div  class="box-right">
+				<a href="/عربي-ودولي/بيانات-صحفية/1435-بلاغ-صادر-عن-جمعية-عدالة-من-اجل-الحق-في-محاكمة-عادلة.html" class="mostread title-green">بلاغ صادر عن جمعية عدالة من اجل الحق في محاكمة عادلة</a>
+											   <span>18-07-02</span>
+																</div>
+
+		</li>
+			</ul>
+</div><script type="text/javascript">
+  var Ja_direction = '';
+  var cookie_path = '/';
+  var cur_template_name = 'ja_rasite';
+  window.addEvent('load', function(){
+
+		   if(typeof(tmpl_name) =='undefined')
+		   {
+			  cookie_path = "ja_rasite_direction";
+		   }
+		   else
+		   {
+			  cookie_path = tmpl_name+"_direction";
+		   }
+		   Ja_direction = Cookie.read(cookie_path);
+		   if(!Ja_direction)
+		   {
+				cookie_path = cookie_path.replace("_direction","_profile");
+			   Ja_direction = Cookie.read(cookie_path);
+		   }
+		   var style_l_value = 'auto';
+		   if(Ja_direction == 'rtl')
+			{
+			  					setStyleLinkWithRTLDirection();
+						}
+	});
+</script>
+<script type="text/javascript" language="javascript">
+ function setStyleLinkWithRTLDirection()
+ {
+    var links = document.getElementsByTagName ('link');
+		var script = document.createElement('link');
+	script.setAttribute('type', 'text/css');
+	script.setAttribute('rel', 'stylesheet');
+	script.setAttribute('href', 'http://achrs.org/modules/mod_jabulletin/assets/mod_jabuletin_rtl.css');
+	document.getElementsByTagName("head")[0].appendChild(script);
+ }
+</script>		</div>
+    </div>
+							</div></div></div>
+						<div class="ja-rs5-bot"><div class="ja-rs5-bl">&nbsp;</div><div class="ja-rs5-br">&nbsp;</div></div>
+					</div>
+										
+				</div>
+
+							</div>
+			</div>
+			<!-- //CONTENT -->
+						
+		</div>
+				<!-- RIGHT COLUMN--> 
+		<div id="ja-right" class="column sidebar" style="width:30%">
+
+			
+						<div class="ja-colswrap clearfix ja-r1">
+								<div id="ja-right1" class="ja-col  column" style="width:100%">
+					<div class="ja-rs3-top"><div class="ja-rs3-tl">&nbsp;</div><div class="ja-rs3-tr">&nbsp;</div></div>
+					<div class="ja-rs3-mid"><div class="ja-rs3-ml"><div class="ja-rs3-mr">
+							<div class="ja-moduletable moduletable  clearfix" id="Mod109">
+						<h3><span><strong class="first-word"><strong>تـقاريـر </strong></strong>&nbsp;ودراسـات</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<div class="blocknews">
+	<div id="btcontentshowcase109"  class="bt-contentshowcase">
+				<div class="bt-blocks">
+				
+			<div class="bt-block">				<div class="bt-category">
+						<h3>
+													<a target="_parent"
+								title="تقارير ودراسات"
+								href="/عربي-ودولي/2019-02-11-11-45-41.html"> <span>تقارير ودراسات</span>
+							</a>
+												</h3>
+				</div>
+				<div class="bt-img">
+						
+					<a target="_parent" href="/عربي-ودولي/2019-02-11-11-45-41/1425-بس-بدّي-إبني-يعيش-مثل-باقي-الأردنية.html">
+						<img src="http://achrs.org/cache/mod_bt_contentshowcase/f79aad6173613a0b957e15fc0e6bd70d-page1_image1.jpg" alt="&quot;بس بدّي إبني يعيش مثل باقي الأردنية&quot;" />
+					</a>
+										<div class="bt-title">
+													<a target="_parent"	href="/عربي-ودولي/2019-02-11-11-45-41/1425-بس-بدّي-إبني-يعيش-مثل-باقي-الأردنية.html"> 
+								&quot;بس بدّي إبني يعيش مثل باقي الأردنية&quot;							</a>
+												<div class="bt-title-bg"></div>
+					</div>
+				</div>
+				<div class="bt-extra">
+					<span class="bt-hits">352 views</span>
+														</div>
+								<div class="bt-introtext">
+					
+في الأردن، الطفل الذي يولد لأم أردنية وأب غير أردني لا يعتبر
+قالت "سميرة"، وهي أم لأربعة أبناء غي...									</div>
+							<div class="bt-list">				
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-45-41/1417-تقرير-منظمة-العفو-الدولية-للعام-2017-2018-حالة-حقوق-الإنسان-في-العالم-خلال-عام-2017.html">تقرير منظمة العفو الدولية للعام 2017/2018 حالة حقوق الإنسان في العالم خلال عام 2017</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-45-41/1408-كنت-أعمل-كالروبوت.html">كنت أعمل كالروبوت</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-45-41/1406-كأنك-تتنشق-موتك.html">&quot;كأنك تتنشق موتك&quot;</a></div>
+							
+							<div class="bt-item"><a target="_parent" href="/عربي-ودولي/2019-02-11-11-45-41/1212-2018-02-07-07-35-11.html">التقرير الدوري للائتلاف المدني السادس والعشرين </a></div>
+									<p class="read-all"><a href="/عربي-ودولي/2019-02-11-11-45-41.html">Read all news</a></p></div></div>		</div>
+	</div>
+</div>
+<div style="clear: both;"></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod115">
+						<h3><span><strong class="first-word"><strong>جديد </strong></strong>&nbsp;المركز</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="latestnews mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/اخبار-المركز/نشاطات-واخبار-منوعة/1468-2019-02-11-11-52-45.html" itemprop="url">
+			<span itemprop="name">
+				البدء في تنفيذ مشروع "دعم الحوار السياسي بين المجتمع المدني والبرلمان في الأردن" والممول من قبل صندوق الأمم المتحدة للديمقراطية			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/اخبار-المركز/نشاطات-واخبار-منوعة/1465-2019-02-11-11-53-07.html" itemprop="url">
+			<span itemprop="name">
+				برعاية رئيس الوزراء الاحتفال الختامي لحملة مركز عمان في الذكرى السبعين للإعلان العالمي لحقوق الإنسان  وتخريج الدفعة الثالثة عشر لبرنامج المعهد الأردني للقيادات النسائية 			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1464-2019-02-11-11-53-15.html" itemprop="url">
+			<span itemprop="name">
+				حلقة نقاشية في مدينة السلط حول الحريات الاكاديمية في الارد			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1463-2019-02-11-11-54-39.html" itemprop="url">
+			<span itemprop="name">
+				ندوة توعوية حول حقوق الإنسان للأشخاص ذوي الاحتياجات الخاصة 			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/اخبار-المركز/الدورات-وورش-العمل/1462-2019-02-11-11-54-44.html" itemprop="url">
+			<span itemprop="name">
+				دورة في إدارة الوقت 			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod117">
+						<h3><span><strong class="first-word"><strong>انضموا </strong></strong>&nbsp;الينا</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="mod_facebook_page ">
+   <div class="fb-page"
+        data-href="https://www.facebook.com/ACHRS.JO/"
+        data-tabs="timeline"
+        data-width="350"
+        data-height="500"
+        data-small-header="true"
+        data-adapt-container-width="true"
+        data-hide-cover="false"
+        data-hide-cta="false"
+        data-show-facepile="true">
+        <div class="fb-xfbml-parse-ignore">
+          <blockquote cite="https://www.facebook.com/ACHRS.JO/">
+            <a href="https://www.facebook.com/ACHRS.JO/">مركز عمان لدراسات حقوق الانسان</a>
+          </blockquote>
+        </div>
+      </div>
+	  <div style="width: 350px;font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;"><a href="https://www.quickrxrefill.com/" target="_blank" style="color: #808080;" title="click here">prescription online</a></div>
+</div>
+ <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=262562957268319";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		</div>
+    </div>
+						</div></div></div>
+					<div class="ja-rs3-bot"><div class="ja-rs3-bl">&nbsp;</div><div class="ja-rs3-br">&nbsp;</div></div>					
+				</div>
+				
+							</div>
+								</div>
+		<!-- //RIGHT COLUMN--> 
+				
+		</div></div></div>
+		<div class="ja-rs2-bot"><div class="ja-rs2-bl">&nbsp;</div><div class="ja-rs2-br">&nbsp;</div></div>
+			 
+		
+				     		      <div id="ja-bot">
+		      	          </div> 
+			</div>
+		
+			
+					
+	
+		
+	
+	</div>
+		
+	            <div id="ja-botsl"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 33.3%;">
+    	<div class="ja-module ja-box-br module title-orange" id="Mod28">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<h3><span><strong class="first-word"><strong>الشرعية </strong></strong>&nbsp;الدولية لحقوق الانسان</span></h3>
+				<div class="jamod-content ja-box-ct clearfix">
+		<ul class="latestnews title-orange mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/الشرعة-الدولية-لحقوق-الإنسان/234-249.html" itemprop="url">
+			<span itemprop="name">
+				العهد الدولي بالحقوق الاقتصادية والاجتماعية والثقافية			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/الشرعة-الدولية-لحقوق-الإنسان/235-350.html" itemprop="url">
+			<span itemprop="name">
+				العهد الدولي الخاص بالحقوق المدنية والسياسية			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/الشرعة-الدولية-لحقوق-الإنسان/233-148.html" itemprop="url">
+			<span itemprop="name">
+				الإعلان العالمي لحقوق الإنسان 			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/الشرعة-الدولية-لحقوق-الإنسان/237-552.html" itemprop="url">
+			<span itemprop="name">
+				البروتوكول الاختياري الثاني الملحق بالعهد الدولي الخاص بالحقوق المدنية والسياسية بهدف العمل علي إلغاء عقوبة الإعدام			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/الشرعة-الدولية-لحقوق-الإنسان/236-451.html" itemprop="url">
+			<span itemprop="name">
+				البروتوكول الاختياري الأول الملحق بالعهد الدولي الخاص بالحقوق المدنية والسياسية بشأن تقديم شكاوي من قبل الأفراد			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+	</div></div></div>
+	</div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 33.3%;">
+    	<div class="ja-module ja-box-br module title-green" id="Mod112">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<h3><span><strong class="first-word"><strong>حقوق </strong></strong>&nbsp;المرأة</span></h3>
+				<div class="jamod-content ja-box-ct clearfix">
+		<ul class="latestnews title-green mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/حقوق-المرأة/986-البرتوكول-الاختياري-الملحق-باتفاقية-القضاء-على-جميع-أشكال-التمييز-ضد-المرأة.html" itemprop="url">
+			<span itemprop="name">
+				البرتوكول الاختياري الملحق باتفاقية القضاء على جميع أشكال التمييز ضد المرأة			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/حقوق-المرأة/988-إعلان-بشأن-حماية-النساء-والأطفال-في-حالات-الطوارئ-والمنازعات-المسلحة.html" itemprop="url">
+			<span itemprop="name">
+				إعلان بشأن حماية النساء والأطفال في حالات الطوارئ والمنازعات المسلحة			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/حقوق-المرأة/241-956.html" itemprop="url">
+			<span itemprop="name">
+				إعلان مشاركة المرأة في تعزيز السلم والتعاون الدوليين			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/حقوق-المرأة/987-إعلان-بشأن-القضاء-على-العنف-ضد-المرأة.html" itemprop="url">
+			<span itemprop="name">
+				إعلان بشأن القضاء على العنف ضد المرأة 			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/وثـائـق-حقـوقـية/حقوق-المرأة/239-1154.html" itemprop="url">
+			<span itemprop="name">
+				اتفاقية القضاء على جميع أشكال التمييز ضد المرأة			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+	</div></div></div>
+	</div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 33.3%;">
+    	<div class="ja-module ja-box-br module" id="Mod113">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<h3><span><strong class="first-word"><strong>القانون </strong></strong>&nbsp;الانساني الدولي</span></h3>
+				<div class="jamod-content ja-box-ct clearfix">
+		<ul class="latestnews mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/124-2012-09-24-18-01-23/975-النظام-الأساسي-للجنة-الدولية-للصليب-الأحمر.html" itemprop="url">
+			<span itemprop="name">
+				النظام الأساسي للجنة الدولية للصليب الأحمر			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/124-2012-09-24-18-01-23/244-659.html" itemprop="url">
+			<span itemprop="name">
+				اللجنة الدولية لتقصي الحقائق			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/124-2012-09-24-18-01-23/243-758.html" itemprop="url">
+			<span itemprop="name">
+				اتفاقية جنيف بشأن حماية المدنيين في وقت الحرب			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/124-2012-09-24-18-01-23/242-857.html" itemprop="url">
+			<span itemprop="name">
+				اتفاقية حنيف بشأن معاملة أسرى الحرب			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/124-2012-09-24-18-01-23/972-حماية-السكان-المدنيين-في-فترة-النزاع-المسلح.html" itemprop="url">
+			<span itemprop="name">
+				حماية السكان المدنيين في فترة النزاع المسلح			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+	</div></div></div>
+	</div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <ul class="ja-links">
+		<li class="top"><a href="#Top" title="Back to top">Top</a></li>
+</ul>
+
+<ul class="no-display">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>
+
+<!-- FOOTER -->
+	<div class="ja-rs4-top"><div class="ja-rs4-tl">&nbsp;</div><div class="ja-rs4-tr">&nbsp;</div></div>
+	
+	<div class="ja-rs4-mid"><div class="ja-rs4-ml"><div class="ja-rs4-mr clearfix">
+	<div class="ja-footnav">
+		<ul class="nav menu mod-list">
+<li class="item-147"><a href="/english" >En</a></li><li class="item-148"><a href="/سياسة-الخصوصية.html" >سياسة الخصوصية</a></li><li class="item-146"><a href="/حول-المركز.html" >حول المركز</a></li></ul>
+
+	</div>
+		
+	<div class="inner">
+		<div class="ja-copyright">
+			
+<small>
+<p dir="rtl"><span style="font-size: 9pt">&nbsp;الاردن - عمان - العبدلي عمارة شرف ط4 
+<a href="/+962%206%20465%20043" title="+962 6 465 043"  rel="nofollow" > -هاتف 
+رقم :&nbsp; 043 55 46 6 962+</a>&nbsp;&nbsp; الفاكس : </span> 
+<a href="/+962%206%20465%20043" title="+962 6 465 043"  rel="nofollow" > 
+<span style="font-size: 9pt">043 55 46 6 962+</span></a><span style="font-size: 9pt">&nbsp; 
+البريد الالكتروني&nbsp; : </span><span lang="en-us">
+<a href="mailto:achrs@achrs.org"><span style="font-size: 9pt">achrs@achrs.org</span></a></span></p>
+</small>
+
+<small>جميع الحقوق محفوظة  مركز عمان لدراسات حقوق الانسان &#169; 2019. تصميم وتطوير <a href="https://www.facebook.com/Y.Abzakh" title="يوسف ابزاخ"  rel="nofollow" > - يـوسـف ابـزاخ</a> </small>
+
+
+		</div>
+	</div>
+	</div></div></div>
+	
+		<div id="ja-poweredby" class="t3-logo t3-logo-light">
+		<a href="http://www.achrs.org" title="Amman Center for Human Rights Studies" target="_blank">Amman Center for Human Rights Studies</a>
+	</div>  	
+		
+	<div class="ja-rs4-bot"><div class="ja-rs4-bl">&nbsp;</div><div class="ja-rs4-br">&nbsp;</div></div>
+<!-- //FOOTER -->            </div>
+                        </div>
+            
+</div>
+
+
+
+</body>
+
+</html>

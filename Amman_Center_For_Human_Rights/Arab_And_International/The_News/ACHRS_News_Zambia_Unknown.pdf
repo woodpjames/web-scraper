@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar-aa" dir="rtl">
+<head>
+	<meta charset="utf-8" />
+	<title>404 - الإظهار غير موجود [الاسم, النوع, البادئة]: category, htm, contentView</title>
+	<link href="/templates/system/css/error.css" rel="stylesheet" />
+			<link href="/templates/system/css/error_rtl.css" rel="stylesheet" />
+			<!--[if lt IE 9]><script src="/media/jui/js/html5.js"></script><![endif]-->
+</head>
+<body>
+	<div class="error">
+		<div id="outline">
+		<div id="errorboxoutline">
+			<div id="errorboxheader">404 - الإظهار غير موجود [الاسم, النوع, البادئة]: category, htm, contentView</div>
+			<div id="errorboxbody">
+			<p><strong>لايمكنك زيارة هذه الصفحة بسبب:</strong></p>
+			<ol>
+				<li><strong>أحد عنصر المفضلة تاريخه منتهى</strong></li>
+				<li>أحد محركات البحث يحتوي على <strong>قائمة قديمة لهذا الموقع</strong>.</li>
+				<li><strong>خطأ في كتابة العنوان</strong></li>
+				<li>ليس لديك <strong>صلاحية الوصول</strong> إلى هذه الصفحة.</li>
+				<li>لم يتم العثور على المورد المطلوب.</li>
+				<li>لقد حدث خطأ أثناء معالجة طلبك.</li>
+			</ol>
+			<p><strong>يرجى المحاولة مع إحدى الصفحات التالية:</strong></p>
+			<ul>
+				<li><a href="/index.php" title="الذهاب إلى الصفحة الرئيسية">الصفحة الرئيسية</a></li>
+			</ul>
+			<p>إذا كانت هناك صعوبات مستمرة، يرجى الاتصال بمدير الموقع وإعلامه بالخطأ أدناه.</p>
+			<div id="techinfo">
+			<p>
+				الإظهار غير موجود [الاسم, النوع, البادئة]: category, htm, contentView							</p>
+						</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>

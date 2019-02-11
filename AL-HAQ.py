@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import requests
 import os
+from newsplease import NewsPlease
 
 filenames_dict = {}
 
@@ -87,6 +88,8 @@ for library in soup.find_all('div', class_='subCategoryContainer'):
                 title = article.text.strip()
                 date = title[-4:]
                 aphi = 'http://www.alhaq.org/' + article.find('a')['href']
+                article = NewsPlease.from_url(aphi)
+                print(aphi, article.title, '\n', article.text)
                 aphirequest = requests.get(aphi)
                 aphisoup = BeautifulSoup(aphirequest.content, features='lxml')
                 aphitext = aphisoup.find('div', class_='itemFullText')
