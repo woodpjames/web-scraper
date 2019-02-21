@@ -1,0 +1,36 @@
+Bolsonaro election raises fears for Brazil’s anti-slavery progress
+22 November 2018
+The election of far-right politician Jair Bolsonaro as President of Brazil has attracted negative headlines around the globe. Media reports have highlighted his racist, misogynistic, and homophobic statements. Human rights organisations have criticised his open praise of Brazil’s dictatorship, approval of torture, and comments inciting violence, including against indigenous peoples.Less publicised have been Bolsonaro’s attacks on Brazil’s anti-slavery regime, which is viewed by the International Labour Organisation as a model of good practice. According to Professor Ricardo Rezende, Coordinator of the Research Group on Contemporary Slave Labour at the Federal University of Rio de Janeiro and the winner of the Anti-Slavery Award in 1992, Brazil’s anti-slavery policies are among the best in the world.Rezende believes that Bolsonaro’s election presents a serious threat to this system, however, leaving those in the anti-slavery movement “confused and anxious”.The Brazilian anti-slavery system is based upon a number of unique features.The first is its definition of ‘slave labour’. Article 149 of Brazil’s Penal Code outlines four elements of this offence. The first two – forced labour and debt servitude – are commonly accepted. The other two grounds are more controversial. Categorised as conditions “analogous to slavery”, these include degrading working conditions, and exhaustive hours.Another Brazilian innovation was the creation in 1995 of a Special Mobile Enforcement Group, known as the ‘flying squad’. This group of 2,000 inspectors is estimated to have freed 53,000 people from slave labour.The impact of raids is amplified via a so-called ‘dirty list’, which names individuals and corporations convicted of profiting from slave labour. While companies are fined, it is the negative impact on their businesses that has been the real penalty. According to Daniela Issa, a scholar of modern slavery in Latin America, this mechanism is “more effective than criminal prosecutions”.Furthermore, Brazil was the first country in the world to develop a comprehensive National Plan on Slave Labour in 2003, followed two years later by a Multi-Sectoral Business Pact.But the most radical measure came in 2014 with the amendment of Brazil’s Constitution to allow the state to seize property used for slave labour. The campaign to introduce Amendment 81 lasted almost 20 years and was driven by civil society mobilisation.According to Leonardo Sakamoto, Director of the NGO Reporter Brasil that combats slave labour, the passage of Amendment 81 was “symbolically one of the biggest victories in the fight against slavery”.The amendment was vigorously resisted by powerful landowners and the ‘rural caucus’ in Congress, however. This grouping of MPs dedicated to promoting agribusiness grew in power after the 2016 impeachment of leftist President Dilma Rousseff, when its support was crucial for interim President Michel Temer.In October 2017 the caucus used that influence to halt the publication of the dirty list, restrict inspections, and remove references to ‘analogous conditions’. This decree was blocked by the Supreme Court, however.The reprieve appears temporary, given Bolsonaro’s election on a right-wing platform that specifically targeted Brazil’s anti-slave labour regime.Firstly, during the campaign he attacked the ‘analogous conditions’ definition. In the view of Rezende, Bolsonaro is “promoting confusion” by arguing that the law allows for “180 forms” of slave labour that include unsatisfactory working conditions. This is not the case, according to Issa, who notes that conditions must pose a risk to a worker’s life or health.Bolsonaro also attacked Brazil’s Public Prosecutor’s office, claiming that its “regulatory activism” hurts Brazil’s economy.The most explicit threats have related to Amendment 81. Bolsonaro’s programme for government contained few specifics, but his pledge to revoke the amendment was a notable exception, says Sakamoto.Bolsonaro again engaged in scare-mongering, claiming that employers stood to lose their homes. However, the amendment contains various safeguards that make this scenario “almost impossible”, says Sakamoto.Bolsonaro’s attacks align with the agenda of the ‘rural caucus’, with whom he has grown “very close”, says Rezende. This impression is strengthened by the fact that as a Congressman, Bolsonaro voted in favour of Amendment 81 in 2004 but now vehemently opposes it.The president’s plans are likely to face opposition from the Supreme Court and the incoming Congress (where the rural caucus has less seats), as well as from civil society. Nevertheless, Bolsonaro has a strong anti-establishment mandate and has hinted at a willingness to override legal constraints.An insight into the future conflict over Brazil’s anti-slavery system came with Bolsonaro’s decision to disband the Labour Ministry that carries out workplace inspections, only to backtrack days later in the face of public outcry.What is clear, according to Rezende, is that under Bolsonaro instances of slave labour look set to rise.Subscribe to our emails to hear latest news about modern slavery, our work against it around the world, and different ways you can take action. You can unsubscribe whenever you want.
+
+
+<!--
+function validate_signup(frm) {
+	var emailAddress = frm.Email.value;
+	var errorString = '';
+	if (emailAddress == '' || emailAddress.indexOf('@') == -1) {
+		errorString = 'Please enter your email address';
+	}
+
+    
+var els = frm.getElementsByTagName('input');
+for (var i = 0; i < els.length; i++)
+{
+    if (els[i].className == 'text' || els[i].className == 'date' || els[i].className == 'number')
+    {
+        if (els[i].value == '')
+            errorString = 'Please complete all required fields.';
+    }
+    else if (els[i].className == 'radio')
+    {
+        var toCheck = document.getElementsByName(els[i].name);
+        var radioChecked = false;
+        for (var j = 0; j < toCheck.length; j++) { if (toCheck[j].name == els[i].name && toCheck[j].checked) radioChecked = true; } if (!radioChecked) errorString = 'Please complete all required fields.'; } } var isError = false; if (errorString.length > 0)
+        isError = true;
+
+    if (isError)
+        alert(errorString);
+	return !isError;
+}
+
+
+//-->

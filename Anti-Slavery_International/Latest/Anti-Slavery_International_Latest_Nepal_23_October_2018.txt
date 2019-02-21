@@ -1,0 +1,36 @@
+Meet Nepal’s change-makers
+23 October 2018
+23 October 2018For as long as she could remember, Samjhana wanted to finish school and get an education. She completed secondary school and even managed to convince her father to let her go to college in Nepal’s capital Kathmandu, far from her village.But when her father fell into debt to pay for arranging her brother’s job abroad, she was left with few options. She found a job as a painter but it was barely enough to survive on. She was desperate.This is when someone approached her with an offer she couldn’t refuse: make big money to smuggle drugs to India. Nepalese people can freely travel to India over a porous border, so it seemed quite safe.But in India, she was driven to a house that turned out to be a brothel, where she was locked up, beaten and raped repeatedly, day after day.Only when she faked sickness and jumped out of a running rickshaw, she managed to escape.Although Samjhana’s story might sound like it could be from a movie, it’s one of many similar stories commonly heard across Nepal.Trafficking and child labour are rife in Nepal. Poverty means that children often work from a young age, and it’s common to go abroad in search of better opportunities. This leads to risky offers that end in exploitation.In a country where only 66% of girls attend secondary school, many are forced to marry early, like Samjhana’s sisters, and are expected to stay at home and care for their family. The only other option is low-paid and under-valued jobs.It’s no surprise that these young girls are prone to accepting offers promising a way out of this situation. Samjhana was a young girl who tried her best to find a decent job, she was even interviewed for a job with the police, but was told she had to pay a bribe to get the job.When the earthquake struck Nepal in 2015, the situation got even worse. Many children who lost their homes, livelihoods and schools, have been forced to look for work far from their home communities, making them an even easier target for traffickers.Girls who travel to cities to find work are at particular risk of sexual exploitation. But even if they escape, they return to face stigma and marginalisation, which makes them remain silent about the abuse they suffer and often condemns them to a continued cycle of exploitation.When Samjhana returned from India, she was ashamed and scared. “I had no idea what to do. My future was black”, she says. It took her a long time to rebuild her life. She got married and has two sons now.When she came across Anti-Slavery’s project to support survivors, she really flourished. Together with our partner SASANE we recently opened an innovative project to support girls and women who are survivors of trafficking by training survivors to become paralegals, who then help other survivors, creating a virtuous circle.The training has already begun, and besides gaining concrete skills, it contributes hugely to building the confidence of the participants. The first group of women has already passed the exam and gained their qualifications.The second part of the project organises placements in police stations, where not only the young women can build up their professional experience, but they also help improve the police’s response to new trafficking cases.While SASANE also trains police officers on the issues surrounding child trafficking, the paralegals’ everyday work is invaluable to better support victims who escape trafficking and end up in the unfamiliar surroundings of a police station.For Samjhana, her dreams to work for the police finally came true. “I’ve learnt a lot about legal issues and people treat me with respect because I am working with the police”, she says.For other girls, it is proving to be a life changing experience. Ultimately, we hope to support survivors to rebuild their lives, prevent more children from becoming exploited and contribute to long term sustainable solutions to end trafficking in Nepal.Anti-Slavery doesn’t limit its work to direct support for the slavery victims, but holistically addresses trafficking in Nepal:Subscribe to our emails to hear latest news about modern slavery, our work against it around the world, and different ways you can take action. You can unsubscribe whenever you want.
+
+
+<!--
+function validate_signup(frm) {
+	var emailAddress = frm.Email.value;
+	var errorString = '';
+	if (emailAddress == '' || emailAddress.indexOf('@') == -1) {
+		errorString = 'Please enter your email address';
+	}
+
+    
+var els = frm.getElementsByTagName('input');
+for (var i = 0; i < els.length; i++)
+{
+    if (els[i].className == 'text' || els[i].className == 'date' || els[i].className == 'number')
+    {
+        if (els[i].value == '')
+            errorString = 'Please complete all required fields.';
+    }
+    else if (els[i].className == 'radio')
+    {
+        var toCheck = document.getElementsByName(els[i].name);
+        var radioChecked = false;
+        for (var j = 0; j < toCheck.length; j++) { if (toCheck[j].name == els[i].name && toCheck[j].checked) radioChecked = true; } if (!radioChecked) errorString = 'Please complete all required fields.'; } } var isError = false; if (errorString.length > 0)
+        isError = true;
+
+    if (isError)
+        alert(errorString);
+	return !isError;
+}
+
+
+//-->

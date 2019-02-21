@@ -1,0 +1,36 @@
+Australia’s Modern Slavery Bill – brief analysis
+10 October 2018
+Vulnerable people have been identified as trafficked or exploited in many contexts across Australia including in sexual exploitation, domestic work, various industries from hospitality to construction, as well as within family relationships. A recent case resulting in a conviction for child trafficking involved a person’s intention to traffic babies into Australia for the purpose of making child exploitation material and distributing that material through the internet.Australians may also be inadvertently supporting slavery in global and domestic supply chains through the purchase and use of goods and services. This includes many every day products like tea, electronics, cars and clothing.The Australian response to slavery has evolved to include specialist law enforcement teams, access to visas, a government funded support program for the victims, and a national consultative forum between civil society and government.To combat slavery in supply chains, the Australian Government is currently considering a Modern Slavery Bill. The Bill contains provisions similar to the transparency in supply chain provisions found in the UK’s Modern Slavery Act.The Bill requires entities based or operating in Australia, with annual revenue above $100 million to report annually on the risks of modern slavery in their operations and supply chains. It also requires entities to report on the actions they have taken to address those risks, including due diligence and remediation processes.The Bill will require large organisations to submit their Modern Slavery Statement to a government run, publicly available repository. It defines ‘entities’ broadly and it is not limited to commercial organisations. The Australian Government will also submit a statement about the risk of slavery in public procurement.Businesses have the responsibility to respect and protect human rights, and we hope the Bill will see more transparency and accountability for businesses. This should also mean that consumers can make better and more informed choices about the products and services they’re purchasing.However, this Bill does not currently include penalties for entities that fail to report on their supply chains. This is a similar position to that found in the UK; which we consider to be a limitation of the UK Modern Slavery Act.In the UK, only half of the estimated 9,000-11,000 companies required to report have done so. Of those that have reported, only 19% meet all the minimum requirements set out in the UK Modern Slavery Act. Additionally, many of the companies reporting in the UK, do not go beyond general commitments and most statements lack details about risk assessment and due diligence processes.The current Bill does not also include the establishment Anti-Slavery Commissioner, as is the case in the UK and as recommended by a Parliamentary Inquiry last year.Anti-Slavery Australia welcomes the Australian Government’s commitment to establishing a Modern Slavery Act in Australia. However, not only can the Bill can be improved upon, but more can be done to strengthen Australia’s wider anti-slavery policies, particularly on protecting the survivors.Australia currently has a Support for Trafficked People Program that provides assistance to all victims of human trafficking and slavery-like practices, including accommodation, medical treatment and counselling for an initial 45 day ‘reflection and recovery’ period (this can be extended once, by another 45 days). However, to be able access this program, individuals need to be referred by the Federal Police, and continued support beyond this is contingent on participation in the criminal investigation.“Not only can the Bill can be improved upon, but more can be done to strengthen Australia’s wider anti-slavery policies, particularly on protecting the survivors”We advocate for the de-linking of the access to ongoing support and visa pathways from the survivors’ participation in the criminal justice process; the establishment of a national compensation scheme for survivors; improvements to victim identification and increased training to frontline officers of government agencies to identify and respond to human trafficking cases.We are also very concerned that Australia is still yet to develop a national protocol and guidelines to address the specific rights, interests and needs of children who are at-risk or have been trafficked.We will continue to work with the Government to strengthen the Modern Slavery Bill, improve victim identification and to ensure that all survivors in Australia receive comprehensive support.Anti-Slavery Australia is a specialist legal, research and policy centre dedicated to the abolition of human trafficking, slavery and slavery-like practices in Australia, including forced labour and forced marriage. Follow Anti-Slavery Australia on Twitter at @AntiSlaveryOz or visit www.antislavery.org.au for more information.Subscribe to our emails to hear latest news about modern slavery, our work against it around the world, and different ways you can take action. You can unsubscribe whenever you want.
+
+
+<!--
+function validate_signup(frm) {
+	var emailAddress = frm.Email.value;
+	var errorString = '';
+	if (emailAddress == '' || emailAddress.indexOf('@') == -1) {
+		errorString = 'Please enter your email address';
+	}
+
+    
+var els = frm.getElementsByTagName('input');
+for (var i = 0; i < els.length; i++)
+{
+    if (els[i].className == 'text' || els[i].className == 'date' || els[i].className == 'number')
+    {
+        if (els[i].value == '')
+            errorString = 'Please complete all required fields.';
+    }
+    else if (els[i].className == 'radio')
+    {
+        var toCheck = document.getElementsByName(els[i].name);
+        var radioChecked = false;
+        for (var j = 0; j < toCheck.length; j++) { if (toCheck[j].name == els[i].name && toCheck[j].checked) radioChecked = true; } if (!radioChecked) errorString = 'Please complete all required fields.'; } } var isError = false; if (errorString.length > 0)
+        isError = true;
+
+    if (isError)
+        alert(errorString);
+	return !isError;
+}
+
+
+//-->

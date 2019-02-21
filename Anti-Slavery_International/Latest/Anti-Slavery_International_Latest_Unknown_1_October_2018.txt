@@ -1,0 +1,36 @@
+Let’s bring Turkmen Cotton Crimes out of the shadows
+1 October 2018
+Anti-Slavery International, together with the Cotton Campaign coalition, have been campaigning to end forced labour in the cotton sectors of Uzbekistan and Turkmenistan for ten years. These Central Asian countries are among the world’s biggest exporters of cotton, and for many years they both relied on the forced labour of hundreds of thousands of their citizens who toil in the fields under arduous conditions, facing the wrath of the government if they refuse.In these years we’ve seen some changes in Uzbekistan, including a near-end to systematic child labour and an apparent emergence of political will to end forced labour in its cotton production, a development that would have been unthinkable just a few years ago. Our work is by no means finished: we still don’t think it’s safe for businesses to source cotton from the country and we won’t stop campaigning until we ensure that people are no longer forced to pick cotton.However, it’s important to acknowledge how far we have come on since we started campaigning and to learn some lessons from this, as we are now turning our attention to Turkmenistan. Previously there has been a greater focus on Uzbekistan because the scale of forced labour and of cotton exports was bigger, while Turkmenistan remained in the shadows. The situation is now much worse in Turkmenistan, with a far more oppressive regime and no signs of progress towards ending forced and child labour.“It is astounding that in this day and age, children are still forced by a state into the fields against their will.”While child labour has been almost eradicated in the Uzbekistan cotton sector, in Turkmenistan many children were forced to pick cotton during the 2017 harvest, toiling in hazardous conditions despite a national ban. It is astounding that in this day and age, children are still forced by a state into the fields against their will.Masses of adults are also forced to pick cotton to fulfil the government’s annual quotas. It’s already underway this harvest: authorities have already ordered public sector workers, such as cleaners and guards, from schools, hospitals and bank to the fields, and it’s likely that teachers and doctors will soon follow. Those who refuse are obligated to hand over high fees to pay for replacement workers.Gathering information about the cotton harvest is incredibly difficult. In Uzbekistan, activists have been able to conduct monitoring more openly, and we managed to send undercover journalists to collect evidence, photos and videos to publicise their findings. But we cannot send undercover reporters to Turkmenistan as this would be too risky for them, and more importantly for Turkmen citizens, who would be in danger if the authorities found they were collaborating.For instance, Gaspar Matalaev is currently serving a three-year prison sentence on false charges after his 2016 report on Turkmenistan’s labour practices was published. While in detention, Gaspar is reported to have been tortured, held in isolation and refused access to independent legal representation. If you’re wondering why we are focusing attention on just one activist, the Turkmen regime is so oppressive that Gaspar is one of the few who dared to raise his head above the parapet to speak out. Many other activists operate secretly, in fear of their lives.Learning lessons from the progress in Uzbekistan, we know that it is important to use as many avenues as possible – including foreign governments, the International Labour Organisation (ILO), the United Nations (UN) and businesses – to put the Turkmen government under a real pressure.A pledge not to knowingly source cotton from Uzbekistan, signed by over 250 brands, has helped move the Uzbek Government to commit to reform of the state system of forced labour. Now we’re throwing light on the situation in Turkmenistan and encouraging businesses to pledge to eliminate Turkmen cotton from their operations.We have another big opportunity today (1 October) when the Turkmen president visits New York to meet with international governments at the UN General Assembly. Activists from the Cotton Campaign will protest in New York, and we’re supporting them by raising awareness of the issue and urging the UN to deliver a strong message to the Turkmen government to end systematic forced labour and to free Gaspar Matalaev.The biggest problem has always been the lack of widespread awareness of this issue, so the Turkmen Government could enjoy relative peace to carry out its Cotton Crimes year on year. So please share this blog and retweet our messages on social media to let people know what the citizens of Turkmenistan face. With your help, we can bring this issue into the light.Follow Louise on Twitter: @louise_eldSubscribe to our emails to hear latest news about modern slavery, our work against it around the world, and different ways you can take action. You can unsubscribe whenever you want.
+
+
+<!--
+function validate_signup(frm) {
+	var emailAddress = frm.Email.value;
+	var errorString = '';
+	if (emailAddress == '' || emailAddress.indexOf('@') == -1) {
+		errorString = 'Please enter your email address';
+	}
+
+    
+var els = frm.getElementsByTagName('input');
+for (var i = 0; i < els.length; i++)
+{
+    if (els[i].className == 'text' || els[i].className == 'date' || els[i].className == 'number')
+    {
+        if (els[i].value == '')
+            errorString = 'Please complete all required fields.';
+    }
+    else if (els[i].className == 'radio')
+    {
+        var toCheck = document.getElementsByName(els[i].name);
+        var radioChecked = false;
+        for (var j = 0; j < toCheck.length; j++) { if (toCheck[j].name == els[i].name && toCheck[j].checked) radioChecked = true; } if (!radioChecked) errorString = 'Please complete all required fields.'; } } var isError = false; if (errorString.length > 0)
+        isError = true;
+
+    if (isError)
+        alert(errorString);
+	return !isError;
+}
+
+
+//-->

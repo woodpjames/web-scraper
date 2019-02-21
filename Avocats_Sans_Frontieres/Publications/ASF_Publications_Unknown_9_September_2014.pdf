@@ -1,0 +1,557 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>ASF  &raquo; Page not found</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.asf.be/wp-content/themes/asf-box2014/style.css?id=1" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.asf.be/wp-content/themes/asf-box2014/print.css?id=1" />
+<link rel="alternate" type="application/rss+xml" title="ASF" href="https://www.asf.be/feed/" />
+
+
+<!--favicon-->
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.asf.be/wp-content/themes/asf-box2014/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.asf.be/wp-content/themes/asf-box2014/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.asf.be/wp-content/themes/asf-box2014/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.asf.be/wp-content/themes/asf-box2014/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.asf.be/wp-content/themes/asf-box2014/images/favicon-16x16.png">
+<link rel="manifest" href="https://www.asf.be/wp-content/themes/asf-box2014/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.asf.be/wp-content/themes/asf-box2014/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.4.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-20530621-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-20530621-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.asf.be\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='q-a-plus-css'  href='https://www.asf.be/wp-content/plugins/q-and-a/css/q-a-plus.css?ver=1.0.6.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.asf.be/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.asf.be/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='meteor-slides-css'  href='https://www.asf.be/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='quotescollection-css'  href='https://www.asf.be/wp-content/plugins/quotes-collection/css/quotes-collection.css?ver=2.0.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/www.asf.be","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.4.2'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var meteorslidessettings = {"meteorslideshowspeed":"300","meteorslideshowduration":"5000","meteorslideshowheight":"300","meteorslideshowwidth":"980","meteorslideshowtransition":"scrollUp"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/meteor-slides/js/slideshow.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmza_google_api_status = {"message":"Enqueued","code":"ENQUEUED"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var quotescollectionAjax = {"ajaxUrl":"https:\/\/www.asf.be\/wp-admin\/admin-ajax.php","nonce":"df83c5e1b2","nextQuote":"Next quote \u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/quotes-collection/js/quotes-collection.js?ver=2.0.10'></script>
+<link rel='https://api.w.org/' href='https://www.asf.be/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.asf.be/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.asf.be/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<script type="text/javascript" src="https://www.asf.be/wp-content/plugins/embed-facebook/slidewindow/slidewindow_min.js"></script>
+<script type="text/javascript">currPath = "https://www.asf.be/wp-content/plugins/embed-facebook/slidewindow/"; strImgOf="";</script>
+<!-- Q & A -->
+		<noscript><link rel="stylesheet" type="text/css" href="https://www.asf.be/wp-content/plugins/q-and-a/css/q-a-plus-noscript.css?ver=1.0.6.2" /></noscript><!-- Q & A --><style type="text/css">
+.qtranxs_flag_en {background-image: url(//www.asf.be/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+.qtranxs_flag_nl {background-image: url(//www.asf.be/wp-content/plugins/qtranslate-x/flags/nl.png); background-repeat: no-repeat;}
+.qtranxs_flag_fr {background-image: url(//www.asf.be/wp-content/plugins/qtranslate-x/flags/fr.png); background-repeat: no-repeat;}
+</style>
+<meta name="generator" content="qTranslate-XT 3.5.2" />
+<script language="javascript" type="text/javascript">
+	var baseurl = 'https://www.asf.be';
+</script>
+</head>
+
+<body class="error404">
+
+
+
+<div id="wrapper">
+<div id="header">
+
+	<div class="le_logo" style="float:left;">
+	<a href="https://www.asf.be">
+		<img src="https://www.asf.be/wp-content/themes/asf-box2014/images/logo_asf_en.jpg" 
+		alt="logo ASF | logo AdZG"></a>
+	</div>
+
+
+	<div style="float:right;height:120px;">
+		<div id="menu-top">
+			<div class="column" style="padding:5px;">
+			
+<ul class="language-chooser language-chooser-dropdown qtranxs_language_chooser" id="qtranslate-chooser">
+<li class="lang-en active"><a href="https://www.asf.be/en" hreflang="en" title="English (en)"><span>English</span></a></li>
+<li class="lang-nl"><a href="https://www.asf.be/nl" hreflang="nl" title="Nederlands (nl)"><span>Nederlands</span></a></li>
+<li class="lang-fr"><a href="https://www.asf.be/fr" hreflang="fr" title="Français (fr)"><span>Français</span></a></li>
+<script type="text/javascript">
+// <![CDATA[
+var lc = document.getElementById('qtranslate-chooser');
+var s = document.createElement('select');
+s.id = 'qtranxs_select_qtranslate-chooser';
+lc.parentNode.insertBefore(s,lc);
+
+		var sb = document.getElementById('qtranxs_select_qtranslate-chooser');
+		var o = document.createElement('option');
+		var l = document.createTextNode('English');
+		o.selected = 'selected';
+		o.value = 'https://www.asf.be/en';
+		o.appendChild(l);
+		sb.appendChild(o);
+		
+		var sb = document.getElementById('qtranxs_select_qtranslate-chooser');
+		var o = document.createElement('option');
+		var l = document.createTextNode('Nederlands');
+		
+		o.value = 'https://www.asf.be/nl';
+		o.appendChild(l);
+		sb.appendChild(o);
+		
+		var sb = document.getElementById('qtranxs_select_qtranslate-chooser');
+		var o = document.createElement('option');
+		var l = document.createTextNode('Français');
+		
+		o.value = 'https://www.asf.be/fr';
+		o.appendChild(l);
+		sb.appendChild(o);
+		s.onchange = function() { document.location.href = this.value;}
+lc.style.display='none';
+// ]]>
+</script>
+</ul><div class="qtranxs_widget_end"></div>
+			</div>
+		<div class="menu-menu-top-container"><ul id="menu-menu-top" class="menu"><li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-380"><a href="http://www.asf.be">Home</a></li>
+<li id="menu-item-368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368"><a href="https://www.asf.be/blog/category/news/">News</a></li>
+<li id="menu-item-12331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12331"><a href="https://www.asf.be/resources/">Resources</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="https://www.asf.be/about-asf/jobs/">Jobs</a></li>
+<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="https://www.asf.be/about-asf/contact-2/">Contact</a></li>
+</ul></div>		</div><!-- close menu-top -->
+
+		<div id="menu-main">
+		<ul id="menu-main-menu" class="menu"><li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://www.asf.be/about-asf/">What is <br />ASF?</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://www.asf.be/action/">ASF <br />in action</a></li>
+<li id="menu-item-5956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5956"><a href="https://www.asf.be/supporting-justicestarts-here/">Support <br />ASF</a></li>
+<li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://www.asf.be/international-legal-network/">International Legal Network</a></li>
+</ul>		</div><!-- close menu-main -->
+
+	</div>
+
+<div class="clear"></div>
+</div><!-- close header -->
+
+<div id="container">
+  <div class="donate">
+		<a id="donate-link" href=https://www.asf.be/support/make-a-donation/ onmouseover="showQuote()" onmouseout="hideQuote()">Make a <br /><strong>Donation</strong></a>		<div id="donate-quote">
+			<a class="donate-link-quote" href="https://www.asf.be/support/make-a-donation/"><div class="quotescollection-quote" id="tf_quotescollection_1"><p>DR Congo: 82% of prison detainees are awaiting trial<br />Help us reduce illegal mass pre-trial detention</p></div>		</a>
+	  </div>
+	</div>
+	<div id="asflogo">
+		<img id="bg_logoasf" src="https://www.asf.be/wp-content/themes/asf-box2014/images/bg_asflogo_en.png" alt="logo ASF | logo AdZG">
+	</div>
+	<div id="social">
+				<ul>
+			<li>
+				<a href="https://www.facebook.com/ASF.AdZG" target="_blank">
+					<img src="https://www.asf.be/wp-content/themes/asf-box2014/img/facebook.png" width="32" height="32" border="0" alt="ASF on Facebook" />
+				</a>
+			</li>
+			<li>
+				<a href="https://www.linkedin.com/company/avocats-sans-fronti-res" target="_blank">
+					<img src="https://www.asf.be/wp-content/themes/asf-box2014/img/linkedin.png" width="32" height="32" border="0" alt="ASF on LinkedIn" />
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/ASF_NGO" target="_blank">
+					<img src="https://www.asf.be/wp-content/themes/asf-box2014/img/twitter.png" width="32" height="32" border="0" alt="ASF on Twitter" />
+				</a>
+			</li>
+		</ul>
+		<ul>
+		<li><a href="https://youtube.com/asfinmotion" target="_blank">
+			<img src="https://www.asf.be/wp-content/themes/asf-box2014/img/youtube.png" width="32" height="32" border="0" alt="'. __('ASF on Youtube', 'asf') .'" />
+		</a></li>
+		<li><a href="https://www.flickr.com/photos/avocatssansfrontieres/" target="_blank">
+			<img src="https://www.asf.be/wp-content/themes/asf-box2014/img/flickr.png" width="32" height="32" border="0" alt="'. __('ASF on Flickr', 'asf') .'" />
+		</a></li>
+		<li><a href="https://www.instagram.com/avocats_sans_frontieres/" target="_blank">
+			<img src=" https://www.asf.be/wp-content/themes/asf-box2014/img/icon-instagram.png" width="32" height="32" border="0" alt="ASF Instagram" />
+		</a></li>
+		</ul>
+			</div>
+<div id="wrapper">
+	<div id="container">
+
+		<div id="content"><!-- page index -->
+			<div style="width:640px">
+							</div>
+		</div><!-- close content -->
+		<div class="widget_text block inner white100"><h1 class="blocktitle inside">Run the Brussels 20 km with ASF</h1><div class="textwidget custom-html-widget"><p><a href="https://www.asf.be/en/human-rights-are-good-for-your-health-20-km-2019/" class="">Join our team on 19 May 2019</a></p>
+<a href="https://www.asf.be/en/human-rights-are-good-for-your-health-20-km-2019/"><img alt="" width="250" height="auto" src="https://www.asf.be/wp-content/uploads/2019/01/20km2019_FBEvent.jpg"></a>
+</div></div><div class="block inner white100"><div id="search">
+	<form action="https://www.asf.be/" method="get" role="search" id="searchform">
+	<input class="search" type="text" name="s" value="" />
+	<input class="searchbutton" type="submit" value="Search" />
+	</form>    
+</div></div><div class="block inner white100"><h1 class="blocktitle inside">This month&#8217;s video</h1>			<div class="textwidget"><p>Burundi: know &amp; assert your rights</p>
+<p><iframe src="https://www.youtube.com/embed/EjDe-itpSD0" frameborder="0" allowfullscreen=""></iframe></p>
+</div>
+		</div>	</div><!-- end container -->
+</div><!-- end wrapper -->
+<div class="push">&nbsp;</div>
+
+<div class="donate">
+	<a class="option red" href="https://www.asf.be/support/make-a-donation/">
+	<strong>Support</strong> ASF	</a>
+	<a class="option" href="https://www.asf.be/support/make-a-donation/">
+	<span style="font-size:12px;">So that everyone can have access to justice</span>
+	</a>
+	<a class="option" style="border:0" href="https://www.asf.be/support/make-a-donation/">
+	Make a Donation<br />
+	<span style="font-size:12px; line-height:14px">IBAN: BE89 6300 2274 9185 – BIC: BBRUBEBB</span>
+	</a>
+	<div class="clear"></div>
+</div>
+
+	<div class="clear"></div>
+
+
+	
+
+
+<div class="clear"></div>
+</div><!-- close container -->
+
+
+<div id="footer">
+
+<div class="column c5x"><!-- page menuscroll -->
+		<div class="inner">
+			<div class="box_list">
+			<h1 class="blocktitle inside">Thematic</h1>
+			<ul class="navigation">			
+					<li class="cat-item cat-item-74" ><a href="https://www.asf.be/blog/category/theme/access-to-justice-and-development/" title="View all posts filed under Access to justice and development">Access to justice and development</a>
+</li>
+	<li class="cat-item cat-item-68" ><a href="https://www.asf.be/blog/category/theme/business-and-human-rights/" title="View all posts filed under Business &amp; human rights">Business &amp; human rights</a>
+</li>
+	<li class="cat-item cat-item-67" ><a href="https://www.asf.be/blog/category/theme/capacitybuilding/" title="View all posts filed under Capacity building">Capacity building</a>
+</li>
+	<li class="cat-item cat-item-51" ><a href="https://www.asf.be/blog/category/theme/childrens-rights/" title="View all posts filed under Children&#039;s rights">Children&#039;s rights</a>
+</li>
+	<li class="cat-item cat-item-55" ><a href="https://www.asf.be/blog/category/theme/pretrial-detention/" title="View all posts filed under Detention">Detention</a>
+</li>
+	<li class="cat-item cat-item-39" ><a href="https://www.asf.be/blog/category/theme/economic-and-social-rights/" title="View all posts filed under Economic, social and cultural rights">Economic, social and cultural rights</a>
+</li>
+	<li class="cat-item cat-item-64" ><a href="https://www.asf.be/blog/category/theme/freedrom-of-expression/" title="View all posts filed under Freedrom of expression">Freedrom of expression</a>
+</li>
+	<li class="cat-item cat-item-36" ><a href="https://www.asf.be/blog/category/theme/human-rights-defenders/" title="View all posts filed under Human rights defenders">Human rights defenders</a>
+</li>
+	<li class="cat-item cat-item-41" ><a href="https://www.asf.be/blog/category/theme/international-justice/" title="View all posts filed under International justice">International justice</a>
+</li>
+	<li class="cat-item cat-item-50" ><a href="https://www.asf.be/blog/category/theme/legal-aid/" title="View all posts filed under Legal aid">Legal aid</a>
+</li>
+	<li class="cat-item cat-item-158" ><a href="https://www.asf.be/blog/category/theme/localjustice/" title="View all posts filed under Local justice">Local justice</a>
+</li>
+	<li class="cat-item cat-item-53" ><a href="https://www.asf.be/blog/category/theme/migration/" title="View all posts filed under Migration">Migration</a>
+</li>
+	<li class="cat-item cat-item-60" ><a href="https://www.asf.be/blog/category/theme/pro-bono/" title="View all posts filed under Pro bono">Pro bono</a>
+</li>
+	<li class="cat-item cat-item-40" ><a href="https://www.asf.be/blog/category/theme/rwandan-genocide/" title="View all posts filed under Rwandan genocide">Rwandan genocide</a>
+</li>
+	<li class="cat-item cat-item-54" ><a href="https://www.asf.be/blog/category/theme/sexual-violence/" title="View all posts filed under Sexual violence">Sexual violence</a>
+</li>
+	<li class="cat-item cat-item-61" ><a href="https://www.asf.be/blog/category/theme/support-asf/" title="View all posts filed under Support ASF">Support ASF</a>
+</li>
+	<li class="cat-item cat-item-56" ><a href="https://www.asf.be/blog/category/theme/torture/" title="View all posts filed under Torture">Torture</a>
+</li>
+	<li class="cat-item cat-item-42" ><a href="https://www.asf.be/blog/category/theme/transitional-justice/" title="View all posts filed under Transitional justice">Transitional justice</a>
+</li>
+	<li class="cat-item cat-item-58" ><a href="https://www.asf.be/blog/category/theme/victims-rights/" title="View all posts filed under Victim&#039;s rights">Victim&#039;s rights</a>
+</li>
+	<li class="cat-item cat-item-52" ><a href="https://www.asf.be/blog/category/theme/womens-rights/" title="View all posts filed under Women&#039;s rights">Women&#039;s rights</a>
+</li>
+			</ul>
+			</div>
+		</div>
+</div>		
+
+
+<div class="column c5x">
+		<div class="inner">
+			<div class="box_list">
+				<h1 class="blocktitle inside">Country</h1>
+				<ul class="navigation">
+					<li class="cat-item cat-item-24"><a href="https://www.asf.be/blog/category/country/burundi/" >Burundi</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="https://www.asf.be/blog/category/country/central-african-republic/" >Central African Republic</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://www.asf.be/blog/category/country/chad/" >Chad</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="https://www.asf.be/blog/category/country/colombia/" >Colombia</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="https://www.asf.be/blog/category/country/congo/" >DR Congo</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="https://www.asf.be/blog/category/country/egypt/" >Egypt</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="https://www.asf.be/blog/category/country/indonesia/" >Indonesia</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="https://www.asf.be/blog/category/country/israelpalestine/" >Israel/Palestine</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://www.asf.be/blog/category/country/ivory-coast/" >Ivory Coast</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="https://www.asf.be/blog/category/country/kenya/" >Kenya</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="https://www.asf.be/blog/category/country/liberia/" >Liberia</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="https://www.asf.be/blog/category/country/morocco/" >Morocco</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="https://www.asf.be/blog/category/country/myanmar/" >Myanmar</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://www.asf.be/blog/category/country/nepal/" >Nepal</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://www.asf.be/blog/category/country/others/" >Others</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://www.asf.be/blog/category/country/rwanda/" >Rwanda</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://www.asf.be/blog/category/country/timor-leste/" >Timor Leste</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="https://www.asf.be/blog/category/country/tunisie/" >Tunisia</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://www.asf.be/blog/category/country/ouganda/" >Uganda</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="https://www.asf.be/blog/category/country/zambia/" >Zambia</a>
+</li>
+				</ul>
+			</div>
+			<hr class="clear" />
+		</div>
+</div>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery(' > a', jQuery('.navigation ul.children').parent() ).click(
+		function(){
+				jQuery('~  ul.children',jQuery(this)).toggle(
+					function(){
+						console.log(jQuery(this).filter(':visible').length);
+						if(jQuery(this).filter(':visible').length==0){
+							jQuery(this).parent('li').removeClass('opened');
+						} else {
+						jQuery(this).parent('li').addClass('opened');
+						}
+					}
+				);
+				return false;
+		});
+	});
+</script>
+
+<!-- Close Menu Scroll Thematic & Country -->
+
+<div class="column c5x"><div class="inner"><h1 class="blocktitle inside">ASFnews</h1>			<div class="textwidget"><!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://eepurl.com/mWf7T" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+
+<p>Stay tuned: subscribe to our newsletter</p>
+
+<input class="button" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+</div>
+<!--End mc_embed_signup--></div>
+		</div></div>
+
+<div class="clear"></div>
+</div><!-- close footer -->
+
+<div id="footnote">
+	<div class="column">
+
+		<div class="column">
+			
+<ul class="language-chooser language-chooser-text qtranxs_language_chooser" id="qtranslate-chooser">
+<li class="lang-en active"><a href="https://www.asf.be/en" hreflang="en" title="English (en)" class="qtranxs_text qtranxs_text_en"><span>English</span></a></li>
+<li class="lang-nl"><a href="https://www.asf.be/nl" hreflang="nl" title="Nederlands (nl)" class="qtranxs_text qtranxs_text_nl"><span>Nederlands</span></a></li>
+<li class="lang-fr"><a href="https://www.asf.be/fr" hreflang="fr" title="Français (fr)" class="qtranxs_text qtranxs_text_fr"><span>Français</span></a></li>
+</ul><div class="qtranxs_widget_end"></div>
+		</div>
+
+		<div class="column">
+		<ul class="menu-footnote">
+			<div class="menu-menu-bottom-container"><ul id="menu-menu-bottom" class="menu-footnote"><li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://www.asf.be/about-asf/contact-2/">Contact</a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="https://www.asf.be/legal-notices/">Legal notices &#038; privacy policy</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://www.asf.be/sitemap/">Sitemap</a></li>
+</ul></div>		</ul>
+		</div>
+
+	</div>
+
+	<div style="float:right">
+		<p>
+			&copy; 2019, Avocats Sans Frontières. 
+			All rights reserved. 
+			Webmaster: <a href="https://www.media-animation.be" title="Média Animation asbl">Média Animation asbl</a>
+		</p>
+	</div>
+
+</div><!-- close footnote -->
+
+
+</div><!-- close wrapper -->
+
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/q-and-a/js/q-a-plus.js?ver=1.0.6.2'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.asf.be\/wp-json\/","nonce":"870da46caa","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/api-request.min.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/wp-api.min.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.asf.be\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.asf.be\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.asf.be/wp-content/themes/asf-box2014/js/script.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.asf.be/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/*
+jQuery(document).ready(function(){
+	if(_gaq){
+		jQuery('a.downloadpdf').click(
+			function(e){_gaq.push(['_trackEvent', 'Publications', 'download', jQuery(this).data("lien")]);}
+		);
+
+		jQuery('a.readonlinepdf').click(
+			function(e){_gaq.push(['_trackEvent', 'Publications', 'readonline', jQuery(this).data("lien")]);}
+		);
+
+	}
+});
+*/
+</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+Trump’s migration policy increases trafficking risks
+27 July 2018
+The policy instituted by President Donald Trump’s administration of separating children from family members has made headlines around the world. Separation from parents can cause serious psychological damage that can leave children vulnerable to human trafficking, as acknowledged Trafficking in Persons (TIP) Report 2018, an annual report by the US State Department on the state of trafficking across the world.Yet family separation is just one of the changes instituted under the Trump administration’s ‘zero tolerance’ migration policy that is placing more people in danger of trafficking and exploitation. “Under Trump migration is not down,” says Yolanda Gonzalez, Coordinator of the Jesuit Migration Network, “it is just more costly and more dangerous.”For example, Attorney General Jeff Session recently announced his intention to challenge ‘credible fear’ of domestic and gang violence as grounds for claiming asylum in the US. Since 2012 the numbers seeking asylum on this basis has increased from 13,880 to 78,564, according to the US Citizenship and Immigration Services, which the Trump administration views as proof that the system is being abused.Yet the claim overlooks the circumstances in the ‘northern triangle’ countries of Central America (El Salvador, Guatemala and Honduras), which account for almost half of all asylum applications to the US.Maria (name changed to protect her identity) works in one of these countries with female victims of domestic violence and trafficking by powerful criminal gangs . Sessions’ announcement has placed a “time bomb” under the lives of women who, as Maria puts it, “are not going in search of the American Dream; they are going to protect their lives and the lives of their children”.The reality Maria describes is backed up by statistics. According to the UN, El Salvador and Honduras have the highest homicide rates in the world. Figures provided by Amnesty International show that women, children and LGBTI people are especially at risk. Scholars confirm that the flow of asylum seekers reflects the human rights conditions in these countries.Along with the rising violence has come an upsurge in human trafficking. According to Yolanda, the US-funded ‘War on Drugs’ has forced gangs in Central America and Mexico to seek out “niche markets,” with human trafficking now “one of the most lucrative areas of organised crime.”This situation is acknowledged by the US State Department in the recent TIP Report 2018, which notes that gangs are trafficking people into drug running, crime and sexual exploitation, with young girls particularly targeted. This situation is feeding an exodus northwards. “Women and children are the new face of forced migration,” asserts Yolanda.Many of the practices instituted by the Trump government appear to fly in the face of State Department recommendations.Chief among these is the criminalisation of migrants which, according to one expert, makes it “impossible” to fight trafficking. This practice extends to victims that are forced to commit crimes by traffickers. This shift is not confined to migrants, as demonstrated by the recent decision to cut supports for all survivors of trafficking in the US. “The TIP report recommends measures to combat human trafficking,” claims Maria, “but at the same time the US government is encouraging it.”Another practice contributing to trafficking is the blockading of official Ports of Entry on the US-Mexico border. US Customs and Border Protection insist that asylum seekers submit their applications for asylum at these ports, but have started denying entry on grounds that they do not have sufficient space due to the chaos caused by attempts to prosecute all migrants.The effect is to force asylum seekers to remain in northern Mexico, where homicide rates are even higher than in the northern triangle, and where 32,236 disappearances were registered between 2007 and 2016.Lacking documents, in an unfamiliar country, without contacts or support, many are reduced to camping at the border in a region where kidnappings for the purposes of sexual exploitation, harvesting of human organs, and recruitment into criminal labour are common. As a recent report by the Center for Migration Studies notes, “kidnapping is a key stage in the human trafficking process”.If the US government wants to retain any credibility in fighting human trafficking, it should immediately halt the criminalisation of trafficking victims, restore funding and supports for victims, and ensure the safety of all asylum seekers by lifting border blockades and complying with international legal norms on refugees.Chris O’Connell is a Research Fellow on secondment to Anti-Slavery International from Dublin City University (DCU) under the CAROLINE fellowship (Collaborative Research Fellowships for a Responsive and Innovative Europe), funded by the Irish Research Council.Subscribe to our emails to hear latest news about modern slavery, our work against slavery around the world, and different ways you can get involved. You can unsubscribe whenever you want.
+
+
+<!--
+function validate_signup(frm) {
+	var emailAddress = frm.Email.value;
+	var errorString = '';
+	if (emailAddress == '' || emailAddress.indexOf('@') == -1) {
+		errorString = 'Please enter your email address';
+	}
+
+    
+var els = frm.getElementsByTagName('input');
+for (var i = 0; i < els.length; i++)
+{
+    if (els[i].className == 'text' || els[i].className == 'date' || els[i].className == 'number')
+    {
+        if (els[i].value == '')
+            errorString = 'Please complete all required fields.';
+    }
+    else if (els[i].className == 'radio')
+    {
+        var toCheck = document.getElementsByName(els[i].name);
+        var radioChecked = false;
+        for (var j = 0; j < toCheck.length; j++) { if (toCheck[j].name == els[i].name && toCheck[j].checked) radioChecked = true; } if (!radioChecked) errorString = 'Please complete all required fields.'; } } var isError = false; if (errorString.length > 0)
+        isError = true;
+
+    if (isError)
+        alert(errorString);
+	return !isError;
+}
+
+
+//-->
