@@ -2,6 +2,7 @@ import os
 import requests
 import xlsxwriter
 from bs4 import BeautifulSoup
+import pycountry
 
 fileNamesDict = {}
 
@@ -11,7 +12,10 @@ class Toolkit:
     # Used to name and compile text files
     @staticmethod
     def text(fileLocation: object, nameQualifier: object, date: object, country: object, title: object, soup: object) -> object:
-        dateForFileName = date.replace(' ', '_')
+        dateForFileName = date.strip().replace(' ', '_').replace('/', '_').replace('.', '_').replace(',', '')
+        for place in pycountry.countries:
+            if place.name in title:
+                country = str(place.name)
         countryForFileName = country.replace(' ', '_')
         textFileName = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + ".txt"
         if textFileName in fileNamesDict:
@@ -23,16 +27,19 @@ class Toolkit:
             textFileName = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + "_" + str(
                 count) + ".txt"
         with open(textFileName, 'w', encoding='utf-8') as file:
-            file.write(title + '\n')
-            file.write(date + '\n')
-            for para in soup.find_all('p'):
-                file.write(para.text.strip())
+            file.write(title.strip() + '\n')
+            file.write(date.strip() + '\n')
+            file.write(soup.text.strip().rstrip('\n') + ' ')
 
     # This is a project to combine PDF Naming Convention & PDF Content
     @staticmethod
-    def pdf(fileLocation, nameQualifier, country, date, pdf):
+    def pdf(fileLocation, nameQualifier, country, date, pdf, title=''):
         dateForFileName = date.replace(' ', '_').replace(',', '_').replace('__', '_')
         countryForFileName = country.replace(' ', '_')
+        if title != '':
+            for place in pycountry.countries:
+                if place.name in title:
+                    countryForFileName = str(place.name).replace(' ', '_')
         filename = fileLocation + nameQualifier + "_" + countryForFileName + "_" + dateForFileName + ".pdf"
         if filename in fileNamesDict:
             fileNamesDict[filename] = fileNamesDict[filename] + 1

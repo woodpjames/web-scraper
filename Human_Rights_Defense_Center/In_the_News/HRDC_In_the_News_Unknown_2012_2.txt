@@ -1,0 +1,223 @@
+Profile of PLN editor Paul Wright
+2012
+Profile of PLN editor Paul Wright
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Profile of PLN editor Paul Wright
+
+      Seattle Weekly, July 13, 2012.
+      
+        http://archive.seattleweekly.com/home/929095-12...
+
+From Murderer to Editor: Paul Wright's Story
+By Rick Anderson Fri., Jul 13 2012 at 12:00AM
+
+Back in the 1980s, Paul Wright was being written up in police reports and newspaper crime columns. Today, he's featured in the current issue of the Columbia Journalism Review. Having served 17 years for murder, he has learned to knock off his adversaries with mere words of wisdom. Or as CJR headlines its story: "How a convicted murderer found his true calling as a jailhouse reporter and prisoners' rights crusader."
+"I was looking for a way to make fast money," Wright tells the magazine about the 1987 murder he committed in Federal Way while he was an Army MP.
+I chose to rob a drug dealer. Cops ripping off drug dealers isn't uncommon; I wasn't the first or last guy to have that idea. I was arrested about a week before I was due to get out of the Army. I don't really think that what I did, or my time in prison, defines me as a person, but for a lot of people it does. I can't do anything about that.
+But prison did define his future, Seattle Weekly reported back in 2004. Wright started up a newspaper in prison with another inmate, Ed Mead, a former member of the George Jackson Brigade - this state's version of the radical Weather Underground. As SW said:
+The two men shared a revolutionary Marxist perspective and a desire to put out a newspaper that did muckraking reporting on prison conditions and provided legal advice for inmates. The paper [Prison Legal News] started as 10 photocopied pages distributed by hand and has grown to a 40-page monthly with 3,600 subscribers throughout the U.S. and many other countries.
+CJR lets Wright detail his evolution from convicted murder to freed editor of the now 56-page monthly PLN, with subscribers in 50 states and internationally. He recalls in particular a story he published about white guards at Clallam Bay prison beating up a black inmate.
+I wrote press releases to all the media outlets I knew--this was in 1990--and got no response. So we ran the story in PLN...The officials were miffed, so a couple weeks later, they put me in what they called "administrative segregation"--solitary confinement--for, like, three weeks...
+One of the ironies was that I got no media interest in the beatings themselves, but my being retaliated against for writing about the beatings made it to the front page of The Seattle Times. I'm glad that the shoot-the-messenger thing gets some media play, but I think it's kind of a skewed sense of priorities. 
+Still, after the Times ran their story, the beatings slowed down for a while. The media does have some control over these issues. There are a lot of examples where doing big exposés and detailed series on stuff has led to concrete changes in the prison systems. We've worked with The Seattle Weekly, CounterPunch, and a lot of other outlets over the years.
+
+You can read some of those SW stories here. (Though Wright moved his PLN operations in 2010 from Seattle to Vermont where he now lives, he has continued to unearth news from inside Washington prisons, leading to reports such as this one last year on the overcharging of state inmates for long distance calls).
+"We're advocacy-oriented," Wright says, "but the facts are what they are. I'm proud that in 22 years we've never had to retract a story. We don't editorialize; there really isn't a lot to say. If you as the reader don't have a problem with people dying of medical neglect for easily treatable illnesses, or with prisoners being raped by the people who are supposed to be guarding them, or billions of tax dollars being funneled off to private corporations, nothing I can tell you is going to change your mind."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

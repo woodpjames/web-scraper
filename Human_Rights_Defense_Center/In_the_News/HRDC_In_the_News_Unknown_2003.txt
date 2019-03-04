@@ -1,0 +1,208 @@
+PLN-authored book, "Prison Nation," wins Gustavus Myers Award
+2003
+PLN-authored book, "Prison Nation," wins Gustavus Myers Award
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN-authored book, "Prison Nation," wins Gustavus Myers Award
+
+      Myers Center, Jan. 1, 2003.
+      
+        http://www.myerscenter.org
+
+PLN-authored book, "Prison Nation," wins Gustavus Myers Award 2003Gustavus Myers Award - 2003Tara Herivel and Paul Wright, Editors, Prison Nation: The Warehousing of America's Poor(Routledge 2003)This Myers Award recognizes the substantive contributions of a bevy of writers. Tara Herivel, a Washington State attorney, collaborated with Paul Wright, the editor of the independent monthly magazine Prison Legal News, in selecting articles on various aspects of the prison industry. Wright is currently incarcerated, and will be released this December after serving thirteen years in a Washington State prison. Most entries are prisoner-written; progressive analysts outside write others. Insiders to the criminal justice system such as Stephen Bright, Southern Center for Human Rights, for example, discuss how the system devalues good defense work, and how judges assign cases to attorneys who are the least competent and the most likely to quickly plead out their clients. The topics of articles range from lack of effective legal representation to the impact of prisons on communities; from poor medical care for prisoners and other abuses committed by prison staff to general societal stigmatization of the poor as "superfluous people." Prison Nation is a call to the well-intentioned citizen to become more fully aware and active in posing alternatives to the prison industrial complex.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

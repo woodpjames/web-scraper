@@ -1,0 +1,762 @@
+
+
+<!DOCTYPE html>
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Child Soldiers International | Louder than words
+</title><meta id="metaDescription" name="description" content="September 2012 - An agenda for action to end state use of child soldiers" /><meta id="metaKeywords" name="keywords" content="child soldiers, children, war, army, armed forces, OPAC, detention, international, coalition to stop, charity, human rights" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta id="siteName" property="og:site_name" content="Child Soldiers International"></meta><meta id="ogTitle" property="og:title" content="Louder than words - £0.00"></meta><meta id="ogDescription" property="og:description" content="September 2012 - An agenda for action to end state use of child soldiers"></meta><meta id="ogType" property="og:type" content="website"></meta><meta id="ogUrl" property="og:url" content="https://www.child-soldiers.org/shop/louder-than-words-1"></meta><meta id="ogImage" property="og:image" content="https://www.child-soldiers.org/handlers/getimage.ashx?idmf=1288f58a-d37f-4fd3-8f0f-77f8f64341b1&amp;w=1200&amp;h=630"></meta>
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" id="twittercard" content="summary_large_image" />
+    <meta id="twitterSite" name="twitter:site" content="childsoldiersin"></meta><meta id="twitterCreator" name="twitter:creator" content="childsoldiersin"></meta>
+
+<link id="rssFeed" href="/handlers/rss.ashx?feed=1" rel="alternate" type="application/rss+xml" title="RSS Feed" /><link id="normalizeCss" rel="stylesheet" href="/baseui/v2_4/css/normalize.css?v=3-0-9710-0" /><link id="boilerplateCss" rel="stylesheet" href="/baseui/v2_4/css/boilerplate.css?v=3-0-9710-0" /><link id="baseFrameworkCss" rel="stylesheet" href="/baseui/v2_4/css/baseframework.css?v=3-0-9710-0" /><link id="platformStylesheet" rel="stylesheet" href="/baseui/v2_4/handlers/css.ashx?v=219" /><link id="platformHTMLEditorStylesheet" rel="stylesheet" href="/baseui/v2_4/handlers/css.ashx?type=1&amp;v=16" /><link id="canonicalTag" rel="canonical" href="https://www.child-soldiers.org/shop/louder-than-words-1" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>window["riversion"] = 2.4; window.jQuery || document.write('<script src="/baseui/v2_4/js/jquery-1.11.0.min.js"><\/script>');</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    
+        <script type="text/javascript">
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-77861048-1', 'www.child-soldiers.org');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+
+        </script>
+    <script src="https://use.typekit.net/veg7jwj.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    
+        <!-- GoogleTagManager Meta dataLayer for global header  -->
+        <script>
+            dataLayer.push({"cmsVersion":"2.4","pageBrandName":"Child Soldiers International","setDomainName":"www.child-soldiers.org","ga.id":"UA-77861048-1","page.id":"louder-than-words-1","referralOverride":"","event":"onload_ga_pageview"});
+        </script>
+        <!-- End GoogleTagManager Meta dataLayer -->
+
+        
+        <!-- Google Tag Manager RIT-->
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer','GTM-N3D983');</script>
+        <!-- End Google Tag Manager -->
+    
+<script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+        function r(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = u.createElement(o), i, f; for (s.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;)r("track" + i.pop()); return r("setAuthenticatedUserContext"), r("clearAuthenticatedUserContext"), config.disableExceptionTracking || (i = "onerror", r("_" + i), f = e[i], e[i] = function (config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t["_" + i](config, r, u, e, o), s }), t
+    }({
+        instrumentationKey: "9e2868a6-141d-4797-9de2-0164be0b2fd7",
+        appUserId: "null",
+        accountId: "www.child-soldiers.org"
+    });
+
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+</script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u"></script></head>
+<body class=" shop-louder-than-words-1 productPage productsPostBody pf_noHeaderMedia">
+
+    
+            <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+            <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+            <script>
+                window.addEventListener("load", function () {
+                    window.cookieconsent.initialise({
+                        "palette": {
+                            "popup": {
+                                "background": "#000000"
+                            },
+                            "button": {
+                                "background": "#28a745"
+                            }
+                        },
+                        "theme": "classic",
+                        "position": "bottom",
+                        "type": "info",
+                        "showLink": "false",
+                        "layouts": {
+                            "ritlayout": "{{message}}{{dismiss}}"
+                        },
+                        "layout": "ritlayout",
+                        "content": {
+                            "message":
+                                "Like most websites we use cookies to deliver a personalised service. To use the website as intended please accept cookies.",
+                            "dismiss": "Accept Cookies"
+                        },
+                        "elements": {
+                            "dismiss": '<a aria-label="dismiss cookie message" tabindex="0" class="cc-btn cc-dismiss" id="cc-dismiss">{{dismiss}}</a>'
+                        }
+                    });
+                });
+            </script>
+    <header id="pageHeader" class="pageHeader" role="banner">
+        
+
+        <div class="menuAdminContainer">
+            <ul id="menuAdmin">
+                
+                
+                    <li class="menuAdminRegister">
+                        <a href="/Lobby/SignUp.aspx?ReturnURL=%2fshop%2flouder-than-words-1" title="Become a registered member of our platform">Sign up</a>
+                    </li>
+                    <li class="menuAdminLogin">
+                        <a href="/login?ReturnURL=%2fshop%2flouder-than-words-1" title="Log in to contribute or update your details" rel="nofollow">Log in</a>
+                    </li>
+                
+                
+                <li class="menuAdminBasket"><a href="/checkout" title="View your basket"><span>Basket: </span><span class="basket-summary">(0 items)</span></a></li>
+                
+                <li id="menu7f82ab58-230d-4abf-9a6e-2c38030ef7c0" role="none" class="menuAdminPagesshopdepartmentfrenchlanguageresources"><a 
+                role='menuitem' 
+                href='/pages/shop/department/french-language-resources' 
+                 
+                >
+                Français
+                </a></li>
+            </ul>
+        </div>
+
+        <div class="content headerContent">
+            <a class="mainLogo" href="/" title="Home" tabindex="" accesskey="1">Child Soldiers International</a>
+
+            
+                <div class="mainCallToAction">
+                    <ul class="socialIcons">
+<li><a class="twitter" alt="Twitter" target="_blank" href="https://twitter.com/childsoldiersin">Twitter</a></li>
+<li><a class="facebook" alt="Facebook" target="_blank" href="https://www.facebook.com/pages/Child-Soldiers-International/452083868155588">Facebook</a></li>
+</ul>
+<a href="/donate/where-ever-the-need-is-greatest" target="_self" class="header-donate"><span class="post_link">DONATE</span></a>
+                </div>
+            
+
+            <form class="header-search" action="/pages/search.aspx" method="get">
+                <fieldset class="searchContainer" role="search">
+                    <label for="siteSearch" class="siteSearch">Search</label>
+                    <input type="search" title="Search" id="siteSearch" placeholder="Search" name="q" />
+                    <button type="submit" tabindex="" onclick="submitSearch('6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u')">Search</button>
+                </fieldset>
+            </form>
+
+            <ul class="headerFollowContainer" aria-label="Social media links">
+                
+                
+                    <li class="headerFollow"><a class="twitter" href="https://twitter.com/childsoldiersin" title="Follow us">Twitter</a></li>
+                
+                
+            </ul>
+        </div>
+
+        <a class="skipLink" href="#startcontent" accesskey="2">Skip over main navigation</a>
+
+        <a class="menuMainAlt" href="#menu">Menu</a>
+
+        <nav id="menuMain" class="menuMain" role="navigation">
+            <ul class="topLevel level1" role="menubar" aria-label="Main menu">
+                <li id="menu74740a82-b661-4384-9121-a68c1fa4a7c5" role="none" class="level1 menu1"><a 
+                role='menuitem' 
+                href='/world-index' 
+                 
+                >
+                World Index
+                </a></li><li id="menub102271c-7618-4292-8599-0a2dc7b1e566" role="none" class="level1 menu2 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=the-issue' 
+                     
+                    title='The Issue drop down menu'>
+                    The Issue
+                    </a><ul class="subMenu level2 menu2" role="menu" aria-label="The Issue"><li id="menu0fe7aabd-32cf-4d4b-99b5-123e53ee24e4" role="none" class="level2 menu2_1"><a 
+                role='menuitem' 
+                href='/who-are-child-soldiers' 
+                 
+                >
+                Who are child soldiers?
+                </a></li><li id="menu03614674-dad9-481f-b811-1ae12945a4b0" role="none" class="level2 menu2_2"><a 
+                role='menuitem' 
+                href='/where-are-there-child-soldiers' 
+                 
+                >
+                Where are child soldiers?
+                </a></li><li id="menu302e64fc-891c-4d7c-9782-99a931fd4497" role="none" class="level2 menu2_3"><a 
+                role='menuitem' 
+                href='/how-is-recruiting-children-harmful' 
+                 
+                >
+                How is recruiting children harmful?
+                </a></li><li id="menucc3bbebd-88eb-4f70-b4de-28a366769862" role="none" class="level2 menu2_4"><a 
+                role='menuitem' 
+                href='/international-laws-and-child-rights' 
+                 
+                >
+                International laws and child rights
+                </a></li><li id="menu53631109-ee3f-4b5f-a8f6-06e87b8161e4" role="none" class="level2 menu2_5"><a 
+                role='menuitem' 
+                href='/Pages/FAQs/Category/faqs/' 
+                 
+                >
+                FAQs
+                </a></li></ul></li><li id="menu4a634d7a-5fc0-4131-83f1-e58eaecc5760" role="none" class="level1 menu3 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=countries' 
+                     
+                    title='Projects drop down menu'>
+                    Projects
+                    </a><ul class="subMenu level2 menu3" role="menu" aria-label="Projects"><li id="menu324917e8-de35-45ab-aca9-8fa71b60614c" role="none" class="level2 menu3_1 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=africa' 
+                     
+                    title='Current drop down menu'>
+                    Current
+                    </a><ul class="subMenu level3 menu3_1" role="menu" aria-label="Current"><li id="menu744b4afa-a579-4672-9324-064839d8d41b" role="none" class="level3 menu3_1_1"><a 
+                role='menuitem' 
+                href='/central-african-republic' 
+                 
+                >
+                Central African Republic
+                </a></li><li id="menu207403d2-d146-44b9-bc51-608c4fcebae8" role="none" class="level3 menu3_1_2"><a 
+                role='menuitem' 
+                href='/democratic-republic-of-congo' 
+                 
+                >
+                Democratic Republic of Congo
+                </a></li><li id="menub3fc2a00-7505-453f-84b3-b53abd82f9c6" role="none" class="level3 menu3_1_3"><a 
+                role='menuitem' 
+                href='/south-sdan' 
+                 
+                >
+                South Sudan
+                </a></li><li id="menu446a7c3f-2f56-452b-9574-5560aac46823" role="none" class="level3 menu3_1_4"><a 
+                role='menuitem' 
+                href='/myanmar' 
+                 
+                >
+                Myanmar
+                </a></li><li id="menu892eba79-371a-46e3-a834-fc044737dbea" role="none" class="level3 menu3_1_5"><a 
+                role='menuitem' 
+                href='/uk' 
+                 
+                >
+                UK
+                </a></li></ul></li><li id="menu9722861a-d520-47b4-82e5-ec347265be32" role="none" class="level2 menu3_2 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=asia' 
+                     
+                    title='Past drop down menu'>
+                    Past
+                    </a><ul class="subMenu level3 menu3_2" role="menu" aria-label="Past"><li id="menu11f4b5a1-88df-4742-8e84-f5f10b8f3457" role="none" class="level3 menu3_2_1"><a 
+                role='menuitem' 
+                href='/afghanistan' 
+                 
+                >
+                Afghanistan
+                </a></li><li id="menub83673df-50ed-47a8-8473-e6c35c3634ef" role="none" class="level3 menu3_2_2"><a 
+                role='menuitem' 
+                href='/india' 
+                 
+                >
+                India
+                </a></li><li id="menu6b7b5150-edaa-4969-b4cc-a7e87f039687" role="none" class="level3 menu3_2_3"><a 
+                role='menuitem' 
+                href='/palestinian-territories' 
+                 
+                >
+                Occupied Palestinian Territories
+                </a></li><li id="menu56ddf505-e25b-4fe4-898f-36a35e716d23" role="none" class="level3 menu3_2_4"><a 
+                role='menuitem' 
+                href='/thailand' 
+                 
+                >
+                Thailand
+                </a></li></ul></li></ul></li><li id="menu81bfe626-0cfa-4938-8daa-91a244353357" role="none" class="level1 menu4"><a 
+                role='menuitem' 
+                href='/pages/shop/department/all' 
+                 
+                >
+                Resources
+                </a></li><li id="menuec97bf46-ae8d-4a55-9153-6b54dedbdc43" role="none" class="level1 menu5 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/News/Default.aspx?CategoryTitle=news' 
+                     
+                    title='News drop down menu'>
+                    News
+                    </a><ul class="subMenu level2 menu5" role="menu" aria-label="News"><li id="menucc196bef-98e8-4ba3-bdc0-5c34542fc039" role="none" class="level2 menu5_1"><a 
+                role='menuitem' 
+                href='/Pages/News/Category/press-releases/' 
+                 
+                >
+                Press releases
+                </a></li><li id="menu980dbb9b-2297-4666-bad2-30699ed86f6a" role="none" class="level2 menu5_2"><a 
+                role='menuitem' 
+                href='/Pages/News/Category/in-the-media/' 
+                 
+                >
+                In the media
+                </a></li><li id="menu46047d1a-09f2-47a2-8a7b-fba1b022fedc" role="none" class="level2 menu5_3"><a 
+                role='menuitem' 
+                href='/Pages/News/Category/blog/' 
+                 
+                >
+                Blog and insights
+                </a></li><li id="menucc513548-216e-4dd4-bea8-cade094f3ff0" role="none" class="level2 menu5_4"><a 
+                role='menuitem' 
+                href='/News/video-work' 
+                 
+                >
+                Videos
+                </a></li></ul></li><li id="menude7db07b-01fe-40e2-a592-b41e04e832b6" role="none" class="level1 menu6 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=about-us' 
+                     
+                    title='About drop down menu'>
+                    About
+                    </a><ul class="subMenu level2 menu6" role="menu" aria-label="About"><li id="menu7e272c20-f7bd-4cb4-a95c-6582d804e62d" role="none" class="level2 menu6_1"><a 
+                role='menuitem' 
+                href='/how-we-work-1' 
+                 
+                >
+                How we work
+                </a></li><li id="menuf1eacd71-8d64-42e8-8dd6-c20c38ba1609" role="none" class="level2 menu6_2"><a 
+                role='menuitem' 
+                href='/Pages/Category/our-people/' 
+                 
+                >
+                Our people
+                </a></li><li id="menu69be7cd0-9386-40df-92d9-f3b5d11d7b57" role="none" class="level2 menu6_3"><a 
+                role='menuitem' 
+                href='/who-we-are-1' 
+                 
+                >
+                Our history
+                </a></li><li id="menu0ce88315-2cd6-48d8-b6d6-14fcae2326b0" role="none" class="level2 menu6_4"><a 
+                role='menuitem' 
+                href='/work-for-us' 
+                 
+                >
+                Work for us
+                </a></li></ul></li><li id="menua120f76b-9df6-407d-a41e-5345376f4ba1" role="none" class="level1 menu7 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Display.aspx?Title=red-hand-day-campaign' 
+                     
+                    title='Get involved drop down menu'>
+                    Get involved
+                    </a><ul class="subMenu level2 menu7" role="menu" aria-label="Get involved"><li id="menu1992f4cc-1ad3-4c1b-8af0-46bdbf9343f6" role="none" class="level2 menu7_1"><a 
+                role='menuitem' 
+                href='/donate/where-ever-the-need-is-greatest/5' 
+                 
+                >
+                Donate now
+                </a></li><li id="menuc7eda96a-13bb-4d36-b069-0d91bd79f012" role="none" class="level2 menu7_2"><a 
+                role='menuitem' 
+                href='/fundraise-for-us-1' 
+                 
+                >
+                Fundraise for us
+                </a></li><li id="menu1402af80-6c61-44e8-87a4-908f67c711b3" role="none" class="level2 menu7_3"><a 
+                role='menuitem' 
+                href='/ways-to-give' 
+                 
+                >
+                Ways to give
+                </a></li><li id="menu0ebd6b09-0b4a-413a-a4f6-538aaf1b9086" role="none" class="level2 menu7_4"><a 
+                role='menuitem' 
+                href='/give-as-you-shop' 
+                 
+                >
+                Give as you shop
+                </a></li><li id="menu8812f034-f637-452e-bce7-dc481f0f4e78" role="none" class="level2 menu7_5"><a 
+                role='menuitem' 
+                href='/corporate-support' 
+                 
+                >
+                Corporate support
+                </a></li><li id="menu46a2ae4a-6620-4e92-ae47-3f5665baabf7" role="none" class="level2 menu7_6"><a 
+                role='menuitem' 
+                href='/schools' 
+                 
+                >
+                Schools
+                </a></li><li id="menu4b30042c-d8f0-4804-8ba3-cfc5058793c3" role="none" class="level2 menu7_7"><a 
+                role='menuitem' 
+                href='/red-hand-day-campaign' 
+                 
+                >
+                Red Hand Day Campaign for schools
+                </a></li><li id="menu29a80a82-3016-48a7-9891-52e6eb859028" role="none" class="level2 menu7_8"><a 
+                role='menuitem' 
+                href='/where-your-money-goes' 
+                 
+                >
+                Where your money goes
+                </a></li></ul></li>
+                <li class="hasSubmenu menuAdminAltItems">
+                    <a href="#" role="menuitem">
+                        Login
+                    </a>
+
+                    <ul class="subMenu">
+                        
+                        
+                            <li class="menuAdminLogin"><a href="/login?ReturnURL=%2fshop%2flouder-than-words-1" title="Log in to contribute or update your details" role="menuitem" rel="nofollow">Log in</a></li>
+                        
+                        
+                        
+                        <li id="menu7f82ab58-230d-4abf-9a6e-2c38030ef7c0" role="none" class="menuAdminPagesshopdepartmentfrenchlanguageresources"><a 
+                role='menuitem' 
+                href='/pages/shop/department/french-language-resources' 
+                 
+                >
+                Français
+                </a></li>
+                    </ul>
+                </li>
+
+                <li class="menuAdminBasket menuAdminAltItems"><a href="/checkout" title="View your basket"><span>Basket: </span><span class="basket-summary">(0 items)</span></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <form name="bodyForm" method="post" action="./louder-than-words-1?Title=louder-than-words-1" id="bodyForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="9e+SVf6ca8ZDmFmw+ivd+lfeBPxNs0iVOINh4ApnKGQbnq0xHlysJuy1DvaFTKAAZcWmMXGmCw3hMrgUc1hw9zlfA96U62KXii1U1fdalQsyZKz9JEWzOfk4SPEw83JIi5oVMyoPY1f6bHW7ehtuYjO/uckigX28wTLvnHVPpQfj3EYF4N78stB0L43hcEg4iMVAMw==" />
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvskI8qan1JxXeJ05WqQvkqU2hYL6fvzBuAs5f6OqGvZ-qFKepTgVFpCK4e7Pm3fzpRc1NtyaLRtEq8ZIeOO9nQCGlV_FSGcG6Tw0f71DpweGvLy_74i6dUwqM3GEDEMvQU3qbrE1&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/modernizr-2.6.2.min.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/general.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/Accessibility.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/core.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="../app_clientscript/webkit.js?v=3-0-9710-0" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A3E5A283" />
+        
+
+        <a name="startcontent" id="startcontent"></a>
+        
+	
+	
+    
+    <script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u', { action: 'shop_item_page' });
+        });
+    </script>
+    
+
+<script type="text/javascript" src="/baseui/v2_4/js/zoom/jquery.zoom.min.js?v=3-0-9710-0"></script>
+<script type="text/javascript" src="/baseui/v2_4/js/shop.js?v=3-0-9710-0"></script>
+
+<script>
+    $(document).ready(function () {
+        $('img.selectedProductBanner')
+            .wrap('<span style="display: inline-block"></span>')
+            .css('display', 'block')
+            .each(function () {
+                var span = $(this).parent();
+                var idmf = $(this).attr("data-idmf");
+
+                span.zoom({
+                    url: '/handlers/getimage.ashx?w=800&h=800&IDMF=' + idmf + '&f=1'
+                });
+            });
+    });
+</script>
+
+<div class="pageWrapper productPostPage" itemscope itemtype="http://schema.org/Product">
+    <div class="content continueShoppingWrapper">
+        <a href="/shop" class="button continueShopping" role="button">Continue shopping</a><!--Back to search results or department depending on route in-->
+    </div>
+
+    <article class="content post" role="article">
+        <div class="contentBlockWrapper">
+            <section class="contentBlock">
+                <div class="productContentWrapper">
+                    <section class="productBannerWrapper ">
+                        
+                        <img data-idmf="1288f58a-d37f-4fd3-8f0f-77f8f64341b1" itemprop="image" class="banner productBanner selectedProductBanner" src="/handlers/getimage.ashx?w=252&h=252&IDMF=1288f58a-d37f-4fd3-8f0f-77f8f64341b1&f=1" alt="" />
+                        
+
+                        <ul class="productBannerList">
+                            
+                        </ul>
+                    </section>
+
+                    <section class="productText">
+                        <h1 itemprop="name">Louder than words</h1>
+
+                        <aside class="productDetails" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                            <span itemprop="price" class="productPrice">&#163;0.00</span>
+                            
+
+                            <fieldset class="productPurchase" >
+                                <!--ghost out/disable if out of stock-->
+                                <div class="formQuestion productQuantity">
+                                    <label for="productQuantity">Quantity <em class="alert">*</em></label>
+                                    <span class="alert validateRequired hidden" role="alert" aria-hidden="true">Please enter the <strong>quantity</strong> required</span><!--Switch 'aria-hidden' to "false" if validation fails-->
+                                    <input  type="text" pattern="[0-9]*" maxlength="3" title="productQuantity" required aria-required="true" aria-invalid="false" id="productQuantity" value="1" /><!--switch 'aria-invalid' to "true" if validation fails-->
+                                    <strong class="alert hidden" role="status" id="liveOutOfStocklouder-than-words-1" aria-hidden="true">Only 1 items in stock</strong>
+                                </div>
+
+                                <div class="productActions">
+                                    
+                                        <a onclick="return addItemToBasket('louder-than-words-1', '6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u', parseInt($('#productQuantity').val()), this);" href="#" class="button callToActionBtn addToBasket" role="button">Add to basket</a>
+                                    
+
+                                    <a href="/checkout" class="button goToCheckout" role="button">Checkout</a>
+                                    <span class="oneUp hidden">Added</span>
+                                </div>
+                            </fieldset>
+                        </aside>
+
+                        <div itemprop="description" class="content productDescription">
+                            <p>The report &ldquo;Louder than words: An agenda for action to end state use of child soldiers&rdquo; is published to mark the tenth anniversary year of the entry into force of the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict. It examines the record of states in protecting children from use in hostilities by their own forces and by state-allied armed groups. It finds that, while governments&rsquo; commitment to ending child soldier use is high, the gap between commitment and practice remains wide. Research for the report shows that child soldiers have been used in armed conflicts by 20 states since 2010, and that children are at risk of military use in many more.</p>
+<p>The report argues that ending child soldier use by states is within reach but that achieving it requires improved analysis of &ldquo;risk factors&rdquo;, and greater investment in reducing these risks, before the military use of girls and boys becomes a fact. Real prevention means tackling risk where it begins &ndash; with the recruitment of under-18s. A global ban on the military recruitment of any person below the age of 18 years &ndash; long overdue &ndash; must be at the heart of prevention strategies, but to be meaningful it must be backed by enforcement measures that are applied to national armies and armed groups supported by states.</p>
+<p>The report contains detailed analysis of the laws, policies and practices of over 100 &ldquo;conflict&rdquo; and &ldquo;non-conflict&rdquo; states providing examples of good practice and showing where flaws in protection put children at risk. It also shows how states can do more to end child soldier use globally via policies and practices on arms transfers and military assistance, and in the design of security sector reform programs. On the basis of this analysis a &ldquo;10-Point Checklist&rdquo; is included to assist states and other stakeholders in assessing risk and identifying the legal and practical measures needed to end child soldier use by government forces and state-allied armed groups.</p>
+<p>Download this <a onclick="ga('send', 'event', 'Download','Louder_than_words.pdf',this.href);" href="/Handlers/Download.ashx?IDMF=da92581e-7130-40e6-bf3a-a86b944f17dd" target="_blank" rel="noopener noreferrer">report here</a>.</p>
+<p>Download the 10-point checklist in <a onclick="ga('send', 'event', 'Download','Louder_than_words_checklist.pdf',this.href);" href="/Handlers/Download.ashx?IDMF=120a12c8-5077-43ef-864f-ae3bebee59d8" target="_blank" rel="noopener noreferrer">English</a>, <a onclick="ga('send', 'event', 'Download','Louder_than_words_checklist_French.pdf',this.href);" href="/Handlers/Download.ashx?IDMF=5efcc6a1-9d02-4b13-9ef4-56431d08e51e" target="_blank" rel="noopener noreferrer">French</a>, <a onclick="ga('send', 'event', 'Download','Louder_than_words_checklist_Spanich.pdf',this.href);" href="/Handlers/Download.ashx?IDMF=15c416c1-3314-4525-99ae-4d17a11781e0" target="_blank" rel="noopener noreferrer">Spanish</a> and <a onclick="ga('send', 'event', 'Download','Louder_than_words_checklist_Arabic.pdf',this.href);" href="/Handlers/Download.ashx?IDMF=b27b7ca2-ebc0-4b0c-bd5d-3559a528cf20" target="_blank" rel="noopener noreferrer">Arabic</a>.</p>
+                        </div>
+
+                        <footer class="postFooterWrapper">
+                            <div class="content postFooter productFooter">
+                                
+
+                                
+
+                                
+                                    <div class="footerDepartments">
+                                        <strong>Departments</strong>
+
+                                        <ul class="footerDepartmentsList">
+                                            
+                                                    <li><a href="/pages/shop/department/child-recruitment">Child recruitment</a></li>
+                                                
+                                                    <li><a href="/pages/shop/department/accountability">Accountability</a></li>
+                                                
+                                        </ul>
+                                    </div>
+                                
+                                
+                                    <a href="javascript: addItemToBasket('louder-than-words-1', '6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u'); void(0);" class="button addToBasket" role="button">Add to basket</a>
+                                
+
+                                
+
+<div class="shareWrapper">
+	<strong>Share this page</strong>
+
+	<ul class="shareList" role="toolbar" aria-label="Sharing options">
+		<li><a href="/cdn-cgi/l/email-protection#b08fc3c5d2dad5d3c48dfcdfc5d4d5c2958280c4d8d1de958280c7dfc2d4c396d2dfd4c98dd8c4c4c0c38a9f9fc7c7c79ed3d8d9dcd49dc3dfdcd4d9d5c2c39edfc2d79fdcdfc5d4d5c29dc4d8d1de9dc7dfc2d4c39d81" id="emailLink" class="shareEmail">Email</a></li>
+		<li><a href="https://www.facebook.com/sharer.php?u=https://www.child-soldiers.org/louder-than-words-1&t=Louder%20than%20words" id="facebookLink" target="_blank" class="facebook">Facebook</a></li>
+		<li><a href="https://twitter.com/intent/tweet?text=Louder%20than%20words&url=https://www.child-soldiers.org/louder-than-words-1" id="twitterLink" target="_blank" class="twitter">Twitter</a></li>
+	</ul>
+</div>
+                            </div>
+                        </footer>
+                    </section>
+
+                    <div class="productReviews">
+                        
+                    </div>
+                </div>
+
+                <aside class="postAside productPostWidgets" role="complementary">
+                    <div class="content">
+                        
+                            <section class="associated relatedProducts">
+                                <h3>Related products</h3>
+
+                                <ul class="associatedListing">
+                                    
+                                            <li>
+                                                
+                                                    <a href="/shop/afghanistan-briefing-ongoing-recruitment-and-use-of-children-by-parties-to-the-armed-conflict-in-af" title="View: Afghanistan briefing: Ongoing Recruitment and Use of Children">
+                                                        <img class="banner widgetBanner productBanner" src="/handlers/getimage.ashx?w=300&h=90&f=1&IDMF=ee205751-99c6-44b6-81ad-367fdc130cb3" alt="" />
+                                                    </a>
+                                                
+                                                <h3><a href="/afghanistan-briefing-ongoing-recruitment-and-use-of-children-by-parties-to-the-armed-conflict-in-af">Afghanistan briefing: Ongoing Recruitment and Use of Children</a></h3>
+                                                <span class="productPrice">&#163;0.00</span>
+                                                
+                                                <!--Switch 'aria-hidden' to "false" if product is sold out-->
+                                                <div class="associated-listing-description">
+                                                    <p></p>
+                                                </div>
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    <a href="/shop/a-law-unto-themselves-confronting-the-recruitment-of-children-by-armed-groups" title="View: A law unto themselves? Confronting the recruitment of children by armed groups">
+                                                        <img class="banner widgetBanner productBanner" src="/handlers/getimage.ashx?w=300&h=90&f=1&IDMF=e2d86990-c081-46d3-9662-9f095316d6f9" alt="" />
+                                                    </a>
+                                                
+                                                <h3><a href="/a-law-unto-themselves-confronting-the-recruitment-of-children-by-armed-groups">A law unto themselves? Confronting the recruitment of children by armed groups</a></h3>
+                                                <span class="productPrice">&#163;0.00</span>
+                                                
+                                                <!--Switch 'aria-hidden' to "false" if product is sold out-->
+                                                <div class="associated-listing-description">
+                                                    <p></p>
+                                                </div>
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    <a href="/shop/briefing-to-the-un-security-council-working-group-on-the-recruitment-and-use-of-children-in-the-drc-1" title="View: Briefing to the UN Security Council Working Group on the recruitment and use of children in the DRC">
+                                                        <img class="banner widgetBanner productBanner" src="/handlers/getimage.ashx?w=300&h=90&f=1&IDMF=08195989-b251-4637-af21-18ae11b96878" alt="" />
+                                                    </a>
+                                                
+                                                <h3><a href="/briefing-to-the-un-security-council-working-group-on-the-recruitment-and-use-of-children-in-the-drc-1">Briefing to the UN Security Council Working Group on the recruitment and use of children in the DRC</a></h3>
+                                                <span class="productPrice">&#163;0.00</span>
+                                                
+                                                <!--Switch 'aria-hidden' to "false" if product is sold out-->
+                                                <div class="associated-listing-description">
+                                                    <p></p>
+                                                </div>
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    <a href="/shop/cameroon-alternative-report-to-the-committee-on-the-rights-of-the-child-2016" title="View: Cameroon - Alternative Report to the Committee on the Rights of the Child">
+                                                        <img class="banner widgetBanner productBanner" src="/handlers/getimage.ashx?w=300&h=90&f=1&IDMF=c4f5933e-eed3-4274-98fb-3161d0f99530" alt="" />
+                                                    </a>
+                                                
+                                                <h3><a href="/cameroon-alternative-report-to-the-committee-on-the-rights-of-the-child-2016">Cameroon - Alternative Report to the Committee on the Rights of the Child</a></h3>
+                                                <span class="productPrice">&#163;0.00</span>
+                                                
+                                                <!--Switch 'aria-hidden' to "false" if product is sold out-->
+                                                <div class="associated-listing-description">
+                                                    <p></p>
+                                                </div>
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    <a href="/shop/children-and-youth-affected-by-armed-conflict-1" title="View: Children and youth affected by armed conflict">
+                                                        <img class="banner widgetBanner productBanner" src="/handlers/getimage.ashx?w=300&h=90&f=1&IDMF=ea2951da-96b0-4c69-93db-c686d560c4c2" alt="" />
+                                                    </a>
+                                                
+                                                <h3><a href="/children-and-youth-affected-by-armed-conflict-1">Children and youth affected by armed conflict</a></h3>
+                                                <span class="productPrice">&#163;0.00</span>
+                                                
+                                                <!--Switch 'aria-hidden' to "false" if product is sold out-->
+                                                <div class="associated-listing-description">
+                                                    <p></p>
+                                                </div>
+                                            </li>
+                                        
+                                </ul>
+                            </section>
+                        
+
+                        
+
+                        
+                    </div>
+                </aside>
+            </section>
+        </div>
+    </article>
+</div>
+
+
+
+
+    </form>
+
+    <footer id="pageFooterWrapper" class="pageFooterWrapper">
+        <div class="pageFooter">
+            
+
+<aside class="footerTwitter" role="complementary">
+    <h2>Latest tweet</h2>
+    <ul>
+        
+    </ul>
+</aside>
+
+            
+                    <section class="footerBox footerBox1 Tweets">
+                        <a class="twitter-timeline" href="https://twitter.com/ChildSoldiersIn" data-widget-id="710436673373540353">Tweets by @ChildSoldiersIn</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+                    </section>
+                
+                    <section class="footerBox footerBox2 Links&NewsletterSign-up-footerbox2">
+                        <br /><a href="/work-for-us">Jobs</a> <br /><a href="/terms-and-conditions">Terms and conditions<br /></a><a href="https://www.child-soldiers.org/data-protection">Data protection</a><br /><a href="/annual-accounts">Annual accounts</a><br /><a href="/research-policy">Research policy</a><br /><a href="/environmental-policy">Environmental policy</a><br /><a href="/complaints">Complaints policy<br /></a><a href="https://www.child-soldiers.org/child-protection-policy-code-of-conduct">Child protection policy</a><br />
+<h2><br />Sign up for our email updates and newsletters</h2>
+<p><span class="mceNonEditable"><section class="featureForm Newsletter Sign upsForm signedIn"></section><section class="featureForm Newsletter Sign upsForm">
+										<div id="newsletterFieldsab96d8ae-5aaa-46b4-a3c7-ac7805086f4e">
+											
+
+											<div class="formQuestion firstName">
+											<label class="" for="newsletterfirstName">First name</label> 
+											<input type="text" title="first name" required=""  id="newsletterfirstNameab96d8ae-5aaa-46b4-a3c7-ac7805086f4e" tabindex="">
+										</div>
+
+										<div class="formQuestion lastName">
+											<label class="" for="newsletterlastName">Last name</label> 
+											<input type="text" title="last name" required=""  id="newsletterlastNameab96d8ae-5aaa-46b4-a3c7-ac7805086f4e" tabindex="">
+										</div>
+
+										<div class="formQuestion email">
+											<label class="" for="newsletteremail">Email</label> 
+											<input type="text" title="email" required=""  id="newsletteremailab96d8ae-5aaa-46b4-a3c7-ac7805086f4e" tabindex="">
+										</div>
+
+											<input type="hidden" id="newslettergroupidab96d8ae-5aaa-46b4-a3c7-ac7805086f4e" value="739fdbd2-a5b5-4066-9294-75113dfced11" /> 
+                                            <div class="honeybee-container">
+                                                <input type="text" id="honeybeeritn" name="honeybeeritn" value="e693ec21" />
+                                                <input type="text" id ="honeybeeritn2" name ="honeybeeritn2" value ="e693ec21" />
+                                            </div>
+                                            <style> .honeybee-container { display:none; } </style>
+
+                                            <button class="groupSignUpBtn" type="button" tabindex="" onclick="return newsletterSignUp('ab96d8ae-5aaa-46b4-a3c7-ac7805086f4e');">Send</button>
+										</div>
+
+										<div id='newsletterSuccessab96d8ae-5aaa-46b4-a3c7-ac7805086f4e' class='newsletterSuccess hidden'></div>
+									</section></strong></span><br /><br />For more information on how your data is stored and used please see our <a href="https://www.child-soldiers.org/data-protection" target="_blank" rel="noopener noreferrer">privacy policy</a><br /><br /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&copy; <span style="font-size: 10pt;">Copyright 2016 Child Soldiers International All rights reserved</span></p>
+                    </section>
+                
+                    <section class="footerBox footerBox3 Contact&info-footerbox3">
+                        <h2>Contact</h2>
+<p><a href="/cdn-cgi/l/email-protection#375e59515877545f5e5b531a44585b535e5245441958455017">mailto:<span class="__cf_email__" data-cfemail="dbb2b5bdb49bb8b3b2b7bff6a8b4b7bfb2bea9a8f5b4a9bc">[email&#160;protected]</span></a><br />T: +44 (0) 20 7324 4690<br />F: +44 (0) 20 7324 4656&nbsp;<br />Child Soldiers International<br />The Grayston Centre<br />Ground Floor<br />28 Charles Square<br />London&nbsp;UK <br />N1 6HT&nbsp;<br /><br />Registered Charity No. 1095237<br />Registered Company No. 04458380<br />US tax status: Foreign public charity s509(a)(1) and s170(b)(1)(A)(vi)<br /><br />Child Soldiers International is an accredited NGO with <a href="https://www.un.org/ecosoc/en/" target="_blank" rel="noopener noreferrer">ECOSOC</a> consultative status&nbsp;<br /><br /><br /><img width="189" height="173" title="" class="mediaImage" alt="" src="/GetImage.aspx?IDMF=ec167228-ec29-4a7a-88c9-fd64ff9f2743&amp;w=867&amp;h=791&amp;src=mc" /><br /><br /><img width="219" height="186" title="" class="mediaImage" alt="" src="/GetImage.aspx?IDMF=ec85e0fe-b595-4b4b-81fc-2641b8fecd93&amp;w=210&amp;h=178&amp;src=mc" /><br /><br /><img title="" class="mediaImage" alt="" src="/GetImage.aspx?IDMF=7578c2e8-a681-4f91-b07a-ebf5994ee313&amp;w=269&amp;h=115&amp;src=mc" /></p>
+                    </section>
+                
+        </div>
+    </footer>
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/clients/childsoldiers/scripts/main.min.js"></script>
+    
+    
+
+    
+
+    
+
+    
+</body>
+</html>

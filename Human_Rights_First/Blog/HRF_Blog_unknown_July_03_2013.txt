@@ -1,0 +1,5 @@
+American Leadership on Human Rights Is... #HRFJuly4
+July 03, 2013
+ Have plans for the 4th of July? Keep your smartphone handy and share your celebration with us. Tweet #HRFJuly4 // <![CDATA[
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+// ]]>In 1776, Americans declared independence based on a set of ideals: our core freedoms. These ideals are universal human rights. At Human Rights First, we believe that America is strongest when our policies and actions match our values. This is why we push the United States to lead on human rights. For us, this means fighting terrorism without sacrificing our values, protecting the persecuted, preventing mass atrocities, and standing with others around the world who demand their freedom. This 4th of July, we asked our supporters what American leadership on human rights looks like and we're featuring some of the most interesting answers below. 

@@ -1,0 +1,226 @@
+Article profiles HRDC's Prison Ecology Project
+2015
+Article profiles HRDC's Prison Ecology Project
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Article profiles HRDC's Prison Ecology Project
+
+      Pacific Standard, July 30, 2015.
+      
+        http://www.psmag.com/nature-and-technology/envi...
+
+
+Environmental Justice for Prisoners
+Why doesn’t the Environmental Protection Agency count incarcerated populations in its impact statements?
+
+LAUREN KIRCHNER 5 HOURS AGO - July 30, 2015
+New York’s Rikers Island Jail: built on a toxic waste landfill site. The State Correctional Institute-Fayette in Pennsylvania: built next to a fly ash dump from an abandoned coal mine. Thirteen state and federal prisons in Colorado: built near water wells laced with radioactive material left over from the mining of uranium. The Northwest Detention Center in Washington: sits within a volcanic hazard zone.
+These and other environmental hazards are what inspired the the Human Rights Defense Center to launch the Prison Ecology Project (the HRDC has also published Prison Legal News for 25 years and running). The project’s coordinator, Panagioti Tsolkas, says he and his colleagues began looking at the environmental impact of prisons on the communities where they were built—but realized that that was only one half of the equation. There was the human environment to consider, as well. The group is now fighting to bring attention to the ways in which prison inmates are threatened by the environmental problems in the areas where—whether they like it or not—they are housed.
+After determining that the EPA’s Interagency Working Group on Environmental Justice was the right group to direct their concerns, the HRDC’s executive director Paul Wright wrote to the “EJ2020 Action Agenda,” an environmental justice initiative by the EPA that was inviting public comment. “If we can recognize the problem with forcing people to live in close proximity to toxic and hazardous environmental conditions, then why are we ignoring prisoners who are forced to live in detention facilities impacted by such conditions?” he wrote in a July 14 letter.
+For instance, the Bureau of Prisons is planning a new federal prison in Letcher County, Kentucky. The HRDC has previously opposed the project, not only because of the environmental impact of bringing in over 1,000 prison inmates and staff into a concentrated area, but also because of the pollution that already exists there that will harm its population.
+“That one was ripe for this conversation,” says Tsolkas of the proposed Kentucky prison. “[I]t’s a maximum security prison, built on top of a former mining site, and the area is renowned for having contaminated water, likely related to the mining and gas drilling there. It's a real hard-hit post-coal economy, so they've kind of got people in a pinch.”
+He is referring to the ways in which new prison construction projects can be appealing to struggling small towns and rural areas—not just for the promise of jobs, but for the potential for increased representation or funding that can come from padding population numbers with incarcerated people. According to the non-profit Prison Policy Initiative’s “Prison Gerrymandering Project,” the Census bureau counts prison inmates toward the population totals of the towns where their prisons are, even though (in almost all states) the inmates themselves cannot actually vote. This weird accounting can skew how a town is represented in government, and where the lines of a legislative district get drawn.
+Curiously, though, while legislative and school districts often include prison populations in their totals, the EPA does not take prison populations into account when it is assessing the environmental impact of a new prison construction project during the permitting process. Different government organizations seem to account for prison populations in different ways. But why?
+Tsolkas and Wright do not know. “We're hoping that by putting it out there, the answers will start coming in, but we haven't gotten an explanation yet,” Tsolkas says.
+When contacted for a reaction to the Prison Ecology Project’s concerns for this article, the EPA responded with a statement: “EPA appreciates receiving this important comment and we are considering it carefully as we review all the public comments submitted regarding the EJ 2020 draft framework.”
+The period for public comment for the EPA’s EJ2020 project is now closed. So is the Bureau of Prison’s period for public comment for the proposed prison in Kentucky. Still, Tsolkas acknowledges that his group’s goals stretch farther than an admission from the government about the potential harm involved in the construction of this one particular prison.
+“I would like to think it could be really powerful, in stopping that prison from moving forward,” Tsolkas says, “and maybe even call into question some of the policies that are driving mass incarceration.”
+To help underscore their points, his group is citing Title VI of the Civil Rights Act, which forbids a government agency to use federal funds for anything that would result in racial or ethnic discrimination—along with statistics that demonstrate how minority groups in the United States disproportionately come into contact with every aspect of the criminal justice system.
+“You can't construct something specifically using federal dollars if constructing that would be an act of discrimination against a certain population,” says Tsolkas. “Which I think would apply to every prison in the country.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

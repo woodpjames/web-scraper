@@ -1,0 +1,98 @@
+Corrupción como violación de derechos humanos
+06.November.2017
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.element, li.element, div.element
+	{mso-style-name:element;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:595.0pt 842.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+Acabar con la corrupción y defender los derechos humanos son dos ejes de acción que, históricamente, han sido abordados de manera independiente; mientras se entiende la corrupción desde la ética de la función pública y desde la perspectiva de la justicia penal, los derechos humanos han sido relegados —como si pertenecieran a una esfera aparte—, a los tratados internacionales y al movimiento a favor de estos.Pese a ello, cada día es más evidente la relación que existe entre la lucha contra la corrupción y la que lleva a miles de personas a defender los derechos humanos. Resulta ineludible, en estos tiempos, señalar el impacto negativo que tiene la corrupción sobre los derechos civiles, políticos, económicos, sociales y culturales; y los hechos que han salido recientemente a la luz pública ponen sobre la mesa el debate de la necesidad de realizar un abordaje conjunto.Es necesario analizar la corrupción desde una perspectiva de derechos humanos: apuntar a las consecuencias estructurales que tiene el fenómeno en la garantía real de derechos como la salud, la educación, el acceso a la justicia y las libertades individuales más básicas de las personas.Desviación de fondos. El Comité de Derechos Humanos de las Naciones Unidas ha señalado que las prácticas corruptas tienen un impacto directo en las personas, pues desvían fondos para el desarrollo y suponen, por consiguiente, una reasignación de recursos que puede interferir con el respeto de los derechos humanos, en especial de las personas más vulnerables.Así, las personas pertenecientes a minorías, los pueblos indígenas, las personas migrantes, las personas con discapacidad, las personas refugiadas, las personas privadas de libertad, las mujeres, los niños y quienes viven en condiciones de pobreza son a menudo los primeros en sufrir sus consecuencias.Además, la corrupción tiene implicaciones colectivas, relacionadas con la percepción de la democracia, sus instituciones y el Estado de derecho, pues si las autoridades de un Gobierno están dominadas por la corrupción, se derrumba la confianza de las personas en las instituciones y, con el tiempo, en el orden democrático y el Estado de derecho.Por lo tanto, podemos decir que un acto de corrupción no solo es aquel mediante el cual una persona aprovecha su posición en la función pública para beneficiar a otra o a sí misma. Un acto de corrupción es aquel a través del cual estas personas, con su hacer, han facilitado que, por ejemplo, una de cada diez escuelas en el país tenga serias deficiencias estructurales que no han sido abordadas por la falta de recursos financieros.Menos recursos. Puede ser también que, con sus prácticas corruptas, no se destinen recursos financieros suficientes para desarrollar políticas públicas encaminadas a combatir las condiciones de pobreza que enfrenta el 20 % de la población del país. De esta forma, se establece y comprende la relación directa entre la corrupción y sus nefastas consecuencias en la garantía y protección de los derechos humanos.Así, cada acto de corrupción significa que alguno de nosotros ha sido menoscabado, en mayor o menor medida, en nuestros derechos más fundamentales.Precisamente por esto, la lucha por los derechos humanos debe ir de la mano de la lucha contra la corrupción. La impunidad, como en cualquier violación a derechos, perpetúa los actos y envía el mensaje de que los mecanismos de justicia no son eficaces, independientes o imparciales, y que, por lo tanto, no garantizan los derechos humanos de la población.Texto original publicado en La Nación

@@ -1,0 +1,237 @@
+Profile of Prison Legal News by PLN contributing writer
+2016
+Profile of Prison Legal News by PLN contributing writer
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Profile of Prison Legal News by PLN contributing writer
+
+      NY Daily News, July 19, 2016.
+      
+        http://www.nydailynews.com/life-style/prison-pu...
+
+Prison publication provides a voice for those behind bars 
+
+BY CHRISTOPHER ZOUKIS
+DAILY NEWS CONTRIBUTOR
+ 
+Tuesday, July 19, 2016, 8:00 PM
+ 
+
+When the mainstream media publish news about prisons, one voice almost never gets heard — the voice of the incarcerated.
+Instead, the stories feature mostly official sources — government officials, prison officials, law enforcement officials — and sometimes victims.
+The result: Badly slanted articles that don't give a full picture of any given issue.
+But fortunately, a monthly publication called Prison Legal News fills that void, and even uses prisoners like me to write articles and add perspective to what is going on inside prison walls.
+Founded in 1990 by then inmate Paul Wright, the publication acts as an advocacy tool for improving the prison system, but first and foremost, it's a serious news outlet.
+Prison Legal News, along with its non-profit parent, the Human Rights Defense Center, serves an important role in the national debate on prisoners and criminal justice. It's the premier outlet for news about prison reform and legislative developments that pertain to prisoners. The publication also strives to include the views of those prisoners and their supporters.
+But it goes beyond that. Prison Legal News often brings lawsuits against jail and prison systems and officials for illegal censorship.
+As you can imagine, this tends to concern those who operate jails and prisons and they try to ban the publication whenever they can. They will remove copies because of the staples that bind the pages, because of pen pal advertisements or because of articles critical of prison administrators.
+Meanwhile, those of us behind bars who produce articles for Prison Legal News face enormous obstacles. Prison officials are, many times, unsympathetic to prison journalists and often subject them to enhanced scrutiny and retaliation.
+As an example, I spent five months in solitary confinement as a result of my prison education advocacy efforts. This resulted in seven incident reports during a time when I published two books on the issue.
+I was also sanctioned for years, losing telephone and email privileges, visitations, commissary visits and more.
+In the end, I prevailed and all incident reports were overturned and expunged from my record. But even after battling to get all misconduct cleared from my name, I continue to be monitored, even years later, by the Federal Bureau of Prisons.
+Beyond the possibility of retaliation, inmates who write for Prison Legal News face innumerable hurdles just to get the job done. Securing source material and other research is itself a challenge.
+And everything must be mailed in to the prison or emailed through a monitored email system that permits limited quantities of text.
+When articles are submitted for publication, they can't just be emailed to the publication directly. They have to be emailed to an outside source who then submits them on a prison journalist's behalf.
+The prison email system doesn't permit even basic formatting or the use of elements such as underlines or hyperlinking. I've developed a system with my outside contacts so they can handle that for me.
+But despite the obstacles and the repercussions prison journalists face, it is pertinent that good reporting continue to come out from the inside and that prisoners have a say in the national debate on topics like prison reform and legislative developments that pertain to prisoners.
+It's a great duty. It's a sense of purpose that drives prison journalists forward.
+Christopher Zoukis, author of "College for Convicts: The Case for Higher Education in American Prisons" (McFarland & Co., 2014) and the "Prison Education Guide" (Prison Legal News Publishing, 2016), is the founder of PrisonEducation.com andPrisonLawBlog.com. He is incarcerated at the medium-security Federal Correctional Institution Petersburg in Virginia.
+Ed. Note: Christopher Zoukis is a contributing writer for PLN.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

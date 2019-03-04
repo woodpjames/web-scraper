@@ -1,0 +1,208 @@
+"Don't Know What to Get for the Convict on Your List? Consult Prison Legal News"
+2008
+"Don't Know What to Get for the Convict on Your List? Consult Prison Legal News"
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+"Don't Know What to Get for the Convict on Your List? Consult Prison Legal News"
+
+      Seattle Weekly, Jan. 1, 2008.
+      
+        http://seattleweekly.com/2008-07-09/news/don-t-...
+
+"Don't Know What to Get for the Convict on Your List? Consult Prison Legal News" - Seattle Weekly 2008Don't Know What to Get for the Convict on Your List? Consult Prison Legal News.By Rick AndersonPublished on July 09, 2008What's on a prison inmate's reading list? Hepatitis and Liver Disease: What You Need to Know, for one. Finding the Right Lawyer, for another—though it may be a little late for that. More appropriate, perhaps, is Represent Yourself in Court. These are among the volumes for sale in the monthly Prison Legal News Book Store. That there is such a bookstore is, if nothing else, an indication of just how well murderer and editor Paul Wright has done since leaving his Washington state prison cell in 2003. "We're doing great, getting more ads, and adding staff," Wright, 42, said one recent afternoon over coffee at a Dexter Avenue Starbucks. He co-founded the non-profit PLN in 1990, on a $50 budget, while serving 17 years for the shooting of a drug dealer in Federal Way. The 48-page May PLN marked the 19th anniversary and the 219th consecutive issue of Wright's publication ($18 annually), read by a mostly captive audience of 7,000 (more than two-thirds are behind bars). Besides offering prison and legal news and a library of paperbacks through its bookstore, PLN's advertisers include lawyers, pen-pal services, innocence projects, and "1000s of Hot! Hot! Hot!" pics of girls with just enough clothing to slip past prison censors.The May issue included a report on the $541,000 settlement won by PLN from the Washington Department of Corrections for illegally withholding public records. That brings to $1.3 million the amount PLN has won from Corrections in the past decade, most recently for the department's refusal to disclose disciplinary actions taken against 14 medical-services workers involved in the deaths or injuries of 10 prisoners."Most of that money was eaten up by attorneys," says Wright, who lives on the East Coast but travels here frequently to oversee national publication of PLN from its Seattle headquarters. "These are stories worth fighting for," he adds, referring to one about a prisoner whose wound was "treated" with Krazy Glue.PLN now has six full-time employees. Unlike in the past, when most stories were rewrites of already-printed items from traditional publications, Wright now can assign original pieces. "We're going to do more investigative stories," he says, in part because such pieces aren't on the mainstream media's radar. Some past PLN reports are collected in an anthology, The Celling of America, available from the PLN bookstore, of course—along with 10 Insider Secrets to a Winning Job Search. Secret Number One: Parole.[Minor corrections made to this article by PLN staff]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

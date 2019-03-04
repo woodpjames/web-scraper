@@ -1,0 +1,246 @@
+As a result of HRDC suit, MS jail allows non-religious reading materials
+2019
+As a result of HRDC suit, MS jail allows non-religious reading materials
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+As a result of HRDC suit, MS jail allows non-religious reading materials
+
+      U.S. News & World Report, Feb. 15, 2019.
+      
+        https://www.usnews.com/news/best-states/mississ...
+
+
+County Jail Agrees Inmates Can Receive Nonreligious Books
+A south Mississippi county has agreed to allow inmates to receive non-religious reading materials, ending a lawsuit.
+
+
+Feb. 15, 2019
+
+
+
+
+
+
+ 
+BY JEFF AMY, ASSOCIATED Press
+
+
+
+
+
+
+JACKSON, Miss. (AP) — A south Mississippi county has agreed to allow inmates to receive non-religious reading materials, ending a lawsuit.
+
+
+U.S. District Judge Keith Starrett dismissed the case Friday, after Forrest County and a prisoners' rights group reached a settlement earlier this month.
+
+
+Forrest County Sheriff Billy McGee agrees prisoners can receive books and publications from the Human Rights Defense Center and other recognized distributors. The center publishes Prison Legal News.
+
+McGee agrees that he will only turn away publications "inconsistent" with legitimate interests. The center says McGee previously only allowed Bibles and Christian religious tracts.
+
+
+McGee also agrees that if the jail refuses to deliver something, he will let the sender appeal.
+
+
+The Mississippi Department of Corrections recently settled a lawsuit allowing a distributor to mail donated books to state prisoners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

@@ -1,0 +1,208 @@
+PLN's nationwide prison phone research profiled
+2011
+PLN's nationwide prison phone research profiled
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN's nationwide prison phone research profiled
+
+      Seattle Weekly, Jan. 1, 2011.
+      
+        http://blogs.seattleweekly.com/dailyweekly/2011...
+
+PLN's nationwide prison phone research profiled - Seattle Weekly 2011Prisons Charge Inmates Criminal Rates to Use the Phone, Newspaper ChargesSeattle TimesBy Nina Shapiro, Wed., Apr. 13 2011 @ 10:59AM In the age of Skype, long-distance calling rates have declined so remarkably that it now costs mere pennies a minute to hear the voice of loved ones around the country, and indeed around the world. Unless, that is, you're a prisoner.In a just-published report, Prison Legal News reveals that most states are charging their inmates exorbitant calling fees. Washington has the dubious distinction of having the highest long-distance rate in the country: $4.95 plus 85 cents per minute, according to the most recent figures supplied to SW by the state Department of Corrections. (Prison Legal News, whose report stems from several years of research, uses figures from a few years back.) Even local calls here cost a hefty $3.50 plus tax.Those are the fees for collect calls; prisoners can also call directly with prepaid plans, but the rates are not much lower. Either way, it's prisoners' families who usually pay the cost, according to Prison Legal News, which adds that the high rates lead to less communication and therefore less motivation for inmates to rehabilitate.The monthly newspaper, edited by a former Washington state inmate named Paul Wright, charges that the fees are so high because states take "kickbacks" from the telephone companies that service their prisons. Washington skims 51 percent off the top, according to the paper.DOC spokesperson Chad Lewis counters that the "commissions," as the state calls their share of the revenue, are not what they seem. "The vast majority of revenue from collect calls actually goes to the Offender Betterment Fund, which provides funds for family-centered programs, recreation equipment, TVs in inmate dayrooms, and more that taxpayer dollars can't be used to purchase. In short, the telephone revenue benefits the offenders, not DOC."Wright, however, points out that a state law directs 25 percent of the Offender Betterment Fund to a pool of money that provides restitution to crime victims. Much of the remaining money in the fund, Wright claims, "goes to pay the salaries of DOC employees like grievance coordinators . . . Those are funds that should be spent by the DOC, not stolen from the families of prisoners."Asked for more precise details on what the DOC does with its phone revenues, Lewis and another spokesperson say they'll need to research the matter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

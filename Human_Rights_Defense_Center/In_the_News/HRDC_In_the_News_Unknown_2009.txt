@@ -1,0 +1,208 @@
+PLN's public records request behind resignation of WA DOC's execution team
+2009
+PLN's public records request behind resignation of WA DOC's execution team
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN's public records request behind resignation of WA DOC's execution team
+
+      Seattle Weekly, Jan. 1, 2009.
+      
+        http://blogs.seattleweekly.com/dailyweekly/2009...
+
+PLN's public records request behind resignation of WA DOC's execution team - Seattle Weekly 2009Behind Those Death Row ResignationsBy Rick Anderson in State of WashingtonThursday, Apr. 9 2009 @ 10:44AMThe March 31 resignations of a four-member execution team at the Washington State Penitentiary in Walla Walla appeared to have been provoked by the likelihood their identities would surface in a court battle over the constitutionality of injections. News reports indicated the four anonymous volunteers, who administer the injections to death-row inmates, quit their posts over concern attorneys for three condemned inmates could leak the personal information being gathered for legal challenges.The reports may be only half right, says Paul Wright. It was likely because of him the team resigned, he suspects. And the four volunteers should be worried their names will be made public, since he might reveal them in his magazine. A former inmate who served 17 years for second-degree murder of a drug dealer, Wright (above) is now editor and publisher of Prison Legal News. He filed a public records request with the state Department of Corrections in January asking for the identities of those who participate in executions."The history of state murder is there's never a shortage of executioners. But if we are going to have the death penalty the public should know who its killers are," he says. A controversial figure who regularly challenges the state to release sensitive documents, Wright sometimes has to go to court over them, but successfully: he won a record $541,000 fine from the state in 2007 after officials illegally withheld disciplinary records of prison medical providers.The latest request came after the resignation late last year of the department's top medical officer Dr. Marc Stern, who said it was unethical for him - a physician sworn to save lives - to supervise executions. Wright, whose publication has frequently reported on questionable medical procedures in U.S. prison, says, "Knowing doctors, I figured if one resigned, at least a dozen would be happy to kill people. Hence the records request."In part, he wants to find out who on the team is a doctor. If any show up on the records he obtains, says Wright, "I will review their medical discipline, criminal and litigation histories, and see what turns up. And PLN will most likely alert medical licensing authorities to the fact that medical personnel are violating their professional and ethical responsibilities." And yes, he'll publish their names.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

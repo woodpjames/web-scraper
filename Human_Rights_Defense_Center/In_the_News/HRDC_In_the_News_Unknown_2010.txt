@@ -1,0 +1,208 @@
+PLN prevails in WA public records request re DOC employment dispute
+2010
+PLN prevails in WA public records request re DOC employment dispute
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN prevails in WA public records request re DOC employment dispute
+
+      Seattle Weekly, Jan. 1, 2010.
+      
+        http://blogs.seattleweekly.com/dailyweekly/2010...
+
+PLN prevails in WA public records request re DOC employment dispute - Seattle Weekly 2010Monroe Sex-Offender Records Dispute Revealed In Newest Lawsuit Won by Prison NewspaperBy Rick Anderson, Thursday, Jun. 24 2010 @ 10:33AMThe monthly Prison Legal News has notched another victory in opening state Department of Corrections records, this time prying loose details of a labor grievance between DOC and a Monroe prison sex-offender treatment specialist fired for "significant factual inaccuracies" in inmate records. Though she was later reinstated by an arbitrator, the misconduct charges included cutting and pasting sexual histories from one prisoner's file into the file of another inmate.PLN Editor Paul Wright says he was concerned about the incident and is trying to determine if there are others like it. Compiling incorrect histories could affect the type of treatment an inmate receives, he says. It could also be a factor in deciding whether a criminal sex offender will be civilly, and indeterminately, committed to the Special Commitment Center at McNeil Island upon finishing his prison term.DOC spokesperson Rowlanda Cawthon says the Twin Rivers (Monroe) treatment specialist, Urszula Gaweda, was fired in 2006. According to DOC records, she "copied and pasted" from file to file and failed to correct the errors when told about them. Ruben Cedeno, prisons deputy secretary, concluded after an investigation that discharge was merited."In summary, the evidence shows you repeatedly failed to maintain and secure adequate offender records, committed errors in offender records, then resisted correcting the errors, and that you either knew, or had reason to know that your actions severely compromised offender care."But Gaweda was reinstated in 2007 and given $21,000 back pay in a grievance settlement supported by Gaweda's union, Teamsters Local 117. "The arbitrator's ruling required the Department of Corrections to overturn its decision and reinstate her," says Cawthon. "We have been working diligently with the employee to make changes" and there have been no repeat incidents, she said.Editor Wright and PLN have regularly contested DOC's reluctance to release some public records. In 2007, PLN was awarded $541,000 from the state for illegally withholding disciplinary records of state prison medical providers.In this case, DOC notified Gaweda that PLN was seeking records about her job dispute and she went to court in Snohomish County to block the release. A judge ruled she failed to show how disclosure would "substantially and irreparably damage" her or the state, and ordered DOC to hand over the records.Neither Gaweda nor her attorney responded to telephone and e-mail requests for comment. Last week the court also ruled Gaweda would have to pay PLN's $2,000 legal fees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

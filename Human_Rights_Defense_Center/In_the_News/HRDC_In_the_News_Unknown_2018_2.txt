@@ -1,0 +1,222 @@
+Article examines censorship of Prison Legal News
+2018
+Article examines censorship of Prison Legal News
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Article examines censorship of Prison Legal News
+
+      The Outline, June 14, 2018.
+      
+        https://theoutline.com/post/4932/prison-legal-n...
+
+This magazine is banned in prisons
+Stopping the incarcerated from reading Prison Legal News is a First Amendment threat.
+By Michael Waters
+JUN—14—2018 02:25PM EST
+ 
+A court overseeing Florida, Georgia, and Alabama last month upheld a ban on the main source of legal reporting available to incarcerated Americans: Prison Legal News. The 28-year-old magazine is known for publishing articles on free speech, sexual assault, and wrongful convictions, and thousand of incarcerated people rely on it for news and legal advice from the outside.
+Since 2009, the Florida Department of Corrections has withheld issues of the magazine not because of the reporting contained within its pages, but because of the ads. According to officials, the ads encourage “three-way calling” and “pen pal solicitation,” both of which are illegal for inmates.
+Judge Ed Carnes justified censoring the magazine by arguing that the magazine’s ads “not only tempt inmates to violate the rules and commit crimes, but also enable them to do so.” He claimed that, when left to their own devices, prisoners gravitate toward immorality — “Inmates have the time, talent, and tendency to use their phone, pen pal, and correspondence privileges to conduct criminal activity, thwarting efforts to protect inmates and the public.” The ads therefore “threaten other inmates and the public.”
+This isn’t the first time the magazine has faced legal challenges. Since its founding in 1990, when two inmates at a maximum security prison in Washington state pooled $300 to launch it from their cell block, co-founder Paul Wright has sued over 50 U.S. prisons for censorship.
+Since his release in 2003, Wright has produced the magazine through the Human Rights Defense Center. Each month, roughly 22,500 copies of Prison Legal News — which has grown to be roughly 72 pages long — circulate to a network of libraries and individuals, almost three-quarters of whom are currently incarcerated. One of its most influential investigations examined the astronomical costs of phone calls in some prisons. Because of PLN’s reporting, the FCC reduced the maximum price to access the phone system. Other stories have burst open the pervasive issue of sexual assault in prison.
+In 2014, in one of the most high-profile censorship attempts, the Arizona Department of Corrections withheld certain issues of Prison Legal News from its prisoners, claiming that the articles might provoke “riots/work stoppages/resistance” and “unacceptable sexual or hostile behaviors” because of "sexually explicit material” in the magazine. Though the Arizona Department of Corrections did not specify which articles it believed were sexually explicit, Prison Legal News is pretty sure it has identified their concern: a series of reports the magazine ran about guards sexually assaulting prisoners. The offending headlines included “Ninth Circuit Holds Staff Sexual Abuse Presumed Coercive; State Bears Burden of Rebutting Presumption” and “Tenth Circuit Holds ‘Consensual’ Sex Defeats Prisoner’s Eighth Amendment Claim.”
+South Carolina also tried to ban the magazine in 2012, arguing in part that the staples holding together its pages could be used as physical weapons. Earlier this year, Wright also sued Illinois after it started censoring certain issues of the magazine.
+Though Florida is the only state with an outright ban on the magazine in place, legal advocates worry that last month’s court decision will set a precedent that threatens the First Amendment rights of the incarcerated across the nation.
+In an interview with The Crime Report, civil rights lawyer Moira Meltzer-Cohen noted that though “this is litigation about a publisher’s right of access to a particular audience,” she believes “this case can’t be decided or read in the absence of concerns regarding the access of incarcerated persons to legal information that directly impacts them.”
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

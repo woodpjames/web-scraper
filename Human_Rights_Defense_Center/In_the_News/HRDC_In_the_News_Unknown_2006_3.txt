@@ -1,0 +1,208 @@
+PLN participates in Yale rally against CCA stock holdings
+2006
+PLN participates in Yale rally against CCA stock holdings
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN participates in Yale rally against CCA stock holdings
+
+      New Haven Register, March 28, 2006.
+      
+        http://www.nhregister.com/site/news.cfm?newsid=...
+
+PLN participates in Yale rally against CCA stock holdings - New Haven Register 2006PLN participates in Yale rally against CCA stock holdings (2nd article)03/28/2006New Haven Register200 urge Yale to divest prison investmentsMary E. O'Leary , Register Topics EditorNEW HAVEN Yale University's investment in the largest private prison company in the country was framed as a moral issue by some 200 students and union members Monday who rallied and marched to an investor advisory committee ready to hear their concerns.The university last year had $1.5 million in stock in Corrections Corp. of America through Farallon Capital Institutional Partner II, a hedge fund.The fund, however, recently sold off two-thirds of Yale s stock to take a gain, when stock prices increased by an estimated $14 a share in less than a year.The students and several speakers objected to their tuition money being invested in the private prison industrial complex, even though it had dropped to $500,000 of Yale s $15.2 billion endowment.The protest at Yale over Farallon and prison investments was one of 10 to take place Monday and today on campuses across the country."We are treating people as commodities. We are not just giving them inmate numbers, we are giving them inmate numbers and putting a dollar sign in front of them," said Alex Friedman, a former prisoner in a CCA prison in Tennessee, one of several speakers at the rally on Beinecke Plaza."Their (CCA) only motive is to make money. It is not to protect public safety. It is not to protect the inmate under their control. ... It is to make money and, unfortunately, it sounds like Yale's investment policy follows those same thoughts," Friedman told the crowd.The students have been critical of the university s investments through funds like Farallon and the slow process set up to deal with concerns from faculty and students.In 30 years, Yale has divested twice: once from firms in South Africa because of Apartheid; last month it listed seven oil firms it will not buy stock in because the money underwrites genocide in the Sudan.To divest, the investment must be responsible for a "grave social injury," but critics say the standard is too subjective.Yale President Richard C. Levin has defended the CCA investment and compared it to the outsourcing of other governmental functions.CCA is the subject of hundreds of suits over prisoner abuse, medical neglect, escapes and criticism for high staff turnover and less public oversight, and has been investigated by Amnesty International.Friedman said Yale's investment might be a "drop in the bucket, but it s a drop that taints the entire bucket. You can t just have a little injustice.""Universities have a moral responsibility not to support companies that engage in this callous industry," said Friedman, who spent 10 years in prison for an armed robbery committed when he was 18. He is now an associate editor of Prison Legal News.Graduate history student Sam Vong, a Chinese immigrant from South Vietnam, said the purpose of private prison companies is not social justice, but rather "to squeeze a profit from the imprisonment of poor people and people of color," who already are disenfranchised and disempowered."He said farms in California, where he grew up, are increasingly being replaced by prisons offered as bad solutions to rural poverty.Vong opposed a House bill that would make felons out of people who illegally cross the borders into the country, thus creating a new class of criminals to feed the private prison network.A delegation of students was scheduled to speak to the university s Advisory Committee on Investor Responsibility Monday afternoon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

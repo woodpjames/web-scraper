@@ -1,0 +1,208 @@
+Washington DOC censors PLN over Nazi guard expose
+1999
+Washington DOC censors PLN over Nazi guard expose
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Washington DOC censors PLN over Nazi guard expose
+
+      The Stranger, Jan. 1, 1999.
+      
+        http://www.thestranger.com/seattle/Content?oid=...
+
+Washington DOC censors PLN over Nazi guard expose - The Stranger 1999BANISHMENT NUMBER 2From the Jul 23 – Jul 28, 1999 issueDept. of Corrections Censors Newsletterby Josh Feit, The Stranger (Seattle, WA)NEVER MIND TRYING TO SNEAK A WEAPON into a Washington state prison. Lately, it seems you can't even get a newspaper into the joint. In April, the monthly edition of Prison Legal News -- a national newsletter about issues affecting the corrections system -- along with the March 11 Seattle Weekly, was banned by the Washington Department of Corrections (DOC). The verboten editions of the Weekly and PLN featured the same article, which details Neo-Nazi and racist activity among the state's prison guards. The controversial story was written by my boss, current Stranger editor Jennifer Vogel, who used to write for the Weekly. DOC Deputy Secretary of Operations Eldon Vail told The Stranger that he made the decision to ban the article because it named names. "It would present a safety concern for those individuals," Vail says. "Managing racial tension is a major challenge in the prisons. I don't want to do anything to throw gasoline on that fire." About 100 state prisoners subscribe to PLN. If you think banning newspapers sounds like a blatant case of censorship, you're not alone. Tacoma attorney Frank Cuthbertson, who is currently working with PLN to file a federal suit against the DOC, wrote in a May 27 letter to DOC Secretary Joseph Lehman: "Please be advised that this statewide restriction represents an unconstitutional infringement on the First Amendment rights of prisoners throughout the state." More simply put, Cuthbertson told The Stranger, "This is just super egregious." PLN co-editor Paul Wright -- a convicted murderer and state inmate who has battled censorship by the DOC in the past -- says the DOC's argument for the ban actually works to highlight the theme of the article: that virulent racists are encouraged, coddled, and protected by the department. Wright has come up with his own solution for preventing race-based violence: "Stop hiring Nazis in the first place." Wright also points out that radical right-wing newspapers like the White Aryan Resistance newsletter are allowed into the prison -- a fact Vail admits. "What is and isn't constitutional in the prison system isn't always clear," says Vail. "It's a balancing act." It's true, according to the ACLU, that the courts have allowed prisons to ban materials thought to be incendiary or an impediment to treatment. The DOC routinely confiscates pornography, for example, and is currently settling a suit with Wright over the ban of a Maoist newspaper. Vogel plans to join the lawsuit against the DOC, while Seattle Weekly attorney Bruce Johnson says his paper is still considering whether to become a plaintiff.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

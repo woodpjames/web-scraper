@@ -1,0 +1,256 @@
+Article on benefit event for HRDC
+2015
+Article on benefit event for HRDC
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Article on benefit event for HRDC
+
+      Broward/Palm Beach New Times, March 6, 2015.
+      
+        http://blogs.browardpalmbeach.com/pulp/2015/03/...
+
+Lake Worth's Outspokin Hosts Benefit Show for Human Rights Center
+ 
+By Terra Sullivan Fri., Mar. 6 2015 at 12:26 PM
+ 
+On a weekly basis, stacks upon stacks of letters from Florida prisoners filter into the Lake Worth headquarters of the Human Rights Defense Center, a non-profit organization that advocates on behalf of the human rights of people held in U.S. detention facilities.
+Some of the letters are simple thank yous to the center for sending copies of its magazinePrison Legal News, while others are first-hand correspondences, detailing allegations of abuse, physical violence, and deplorable living conditions.
+"We have been getting hundreds of letters from Florida prisons on a weekly basis since Human Rights Defense Center went to trial last month against the whole Florida Department of Corrections having a blanket ban on our magazine," says Special Projects Coordinator Panagioti Tsolkas.
+One letter that stands out in particular to Tsolkas was from a prisoner at a county jail in Moore Haven, Florida. The jail is used as an immigrant detention center. "He reported rampant abuses, including physical violence against detainees. These facilities are commonly the worst of all worlds, since they are overseen by small town sheriff's offices where no one is paying attention... Many of these people are not inside for criminal offenses that result in comparable prison sentences for non-immigrants, but they end up in the worst facilities in the country regardless."
+While details of Florida's unsavory prison conditions have been chronicled since the days of "Old Sparky," in the last few years alone, there's been extra scrutiny on deadly abuse in Florida prisons. It's been chronicled at length in a Miami Herald investigation - including the story of Darren Rainey, a 50-year-old mentally ill inmate at the Dade Correctional Institution who died after he was locked in a scalding hot shower for more than an hour by prison guards as punishment for defecating in his cell. There was also the story of Randall Jordan-Aparo, a 27-year-old man being held on credit card fraud charges who was found lifeless in his 13-by-8 cell after guards at the Franklin Correctional Facility fired nine blasts of noxious gas into the confined space.
+These accounts among countless others have helped to boost community involvement in raising awareness about what is going on behind prison walls.
+"Since the event we did on Human Rights Day last December, we've had a steady flow of volunteers who come and help us with our outreach efforts to prisoners all across the US, well as help with typing hand-written submissions we receive to the PLN magazine or website. We have been working closely with the Prison Books project to provide opportunities for people to get involved with prisoner solidarity work in a practical and meaningful way," Tsolkas says.
+Saturday, there is one more way to get involved when a handful of anti-prison groups gather at Outspokin community space for a night of acoustic music and spoken word to benefit the Human Rights Center's Prison Ecology Project, which aims to connect the links between mass incarceration and environmental degradation and the South Florida Prison Book Project which helps promote literacy for the imprisoned.
+Set times look a little something like this: 
+
+
+Bed Burner 6:10 p.m. - 6:30 p.m.
+
+
+
+
+Autumn Springs- 6:35 p.m. - 6:50 p.m.
+
+
+
+
+Unity Rise- 6:55 p.m. - 7:15 p.m.
+
+
+
+
+Sadye (The Runaway Circus) 7:15 p.m. - 7:25p.m.
+
+
+
+
+Polished Balsa Wood 7:35 p.m. - 7:55 p.m.
+
+
+
+
+The Alligator 8:00 p.m. - 8:20 p.m.
+
+
+
+
+Grant Peeples 8:30 p.m. - 9 p.m.
+
+
+Raze the Walls! benefit show for Lake Worth Anti-Prison Groups starts at 6 p.m. sharp at Outspokin, 131 South F St., Lake Worth. Entry is a $5 donation and a good book to spare. Visit sflprisonbookproject.org and humanrightsdefensecenter.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

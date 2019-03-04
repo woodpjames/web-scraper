@@ -1,0 +1,208 @@
+PLN editor selected as Freedom Fighter of the Month
+2006
+PLN editor selected as Freedom Fighter of the Month
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN editor selected as Freedom Fighter of the Month
+
+      High Times, July 1, 2006.
+      
+        http://www.drugwar.com/paulwrightHT.shtm
+
+PLN editor selected as Freedom Fighter of the Month - High Times 2006High Times Magazine's Freedom Fighter for July, 2006Paul WrightBy Preston Peet(Originally published in High Times Magazine,July, 2006 issue, pg. 20)When he entered the Washington State penal system in 1987, after receiving a 304-month sentence for shooting a drug dealer during a robbery (the jury rejected his claim of self-defense), Prison Legal News founder and editor Paul Wright immediately recognized a dire need for a publication by and for prisoners, and despite having no previous journalism schooling or experience, he set out to fill the void. The first hand-typed, photocopied, 10-page issue of PLN was published in Wright and Ed Mead, cooperating from two different prisons, in May 1990. The first three issues were banned in all Washington prisons, the first 18 in all Texas prisons. Still, the monthly magazine quickly grew to 48 pages, and each new issue now enters prisons and jails in all fifty states, despite frequent censorship troubles.Though the primary focus of PLN is not the War on Some Drugs and Users, Wright explains to HIGH TIMES that his magazine frequently reminds readers that "the sham nature of the War on Drugs is best illustrated by the fact that the government is unable to keep drugs out of its most secure prisons, despite having total control of all access, 24/7 surveillance of the inhabitants, etc., because the government really isn't interested in keeping drugs out of its prisons, as it's an important control mechanism."Prison Legal News endorses total drug decriminalization: "The price of drugs would plummet-eliminating both the organized-crime and government-corruption issues-and prison and jail population would shrink to a fraction of their current size," Wright says, stressing that his magazine's mission includes not only reducing the numbers in prison but also improving the treatment of those locked up. "PLN stands for the idea that everyone imprisoned in America has basic human rights and that the government should be held accountable for their treatment."PLN's full contact info and subscription rates:$18 for prisoners; $25 for non prisoners; $60 for lawyers and organizations, for 12 issues. PLN will send a sample copy free on request or readers can check out PLN on its website at: www.prisonlegalnews.org. Or PLN can be contacted at:2400 NW 80th St. # 148, Seattle, WA 98117. 206-246-1022.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

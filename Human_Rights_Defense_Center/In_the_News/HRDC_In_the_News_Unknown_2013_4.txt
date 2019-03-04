@@ -1,0 +1,234 @@
+PLN cited by Courthouse News
+2013
+PLN cited by Courthouse News
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN cited by Courthouse News
+
+      Courthouse News, Jan. 1, 2013.
+      
+        http://www.courthousenews.com/2013/04/12/56614.htm
+
+PLN cited by Courthouse News - Courthouse News 2013Friday, April 12, 2013Prison Legal NewsBy ROBERT KAHN  President Obama's 2014 budget for the Department of Justice, unveiled Wednesday, contains $8.5 billion for prisons and $4.4 billion for "national security."
+That's insane.
+Who is our government trying to protect, from whom? To look at the budget, you'd think it's old white folks from young dark ones.
+Our national prison policy is a disgrace: racist, needlessly brutal, shortsighted - not much better than China's or Russia's.
+Nearly two-thirds of the 2.3 million people in U.S. prisons and of the 5 million on probation or parole are black or Hispanic.
+We use prisons to disproportionately beat down and warehouse the poor and the colored - above all, young black men.
+And each year, we sell off thousands more people to private prison companies, who become lords of living human beings, with virtually no oversight from government or the public.
+Prisons epitomize what has become U.S. policy from both parties: Contract torture and abuse to private business, and see if other private businesses can keep track of it.
+But prison is supposed to be bad, right?
+Anyway, those people are guilty, right? Most of them.
+So who cares?
+Aside from the people at Prison Legal News.
+I dropped in at the Vermont-based magazine - which employs two lawyers to litigate prison and First Amendment issues, along with a bare-bones office staff.
+It took me back to my days as a younger, better me, when I did legal work for refugees inside U.S. immigration prisons.
+Prison work is exhausting - being the only lifeline for desperate people. The people at Prison Legal News work their butts off, for people the world has given up on.
+The executive director, Paul Wright, started the monthly magazine 23 years ago, inside prison. Somehow he's kept it going all this time.
+It's an admirable publication, covering important legal issues accurately and concisely. I read every word of a recent 56-page issue and didn't find a single typo - which is more than I can say for The New York Times these days.
+I think people who commit bad crimes should be put in prison. But I don't think they should be raped and tortured by other prisoners and guards.
+I don't think young people who sell small amounts of drugs should be locked up for 15 years.
+I don't think prison guards should be allowed to kick prisoners' teeth in - I disagree with Clarence Thomas about that.
+Every day as I edit this page I see lawsuits about jails and prisons: rapes by guards, beatings, Taserings, medical neglect - multiple cases, every day.
+Seldom do they make the page, even as a 1-sentence brief. It takes a serial rapist jail guard to get my attention.
+And I'm what you'd call a bleeding-heart liberal.
+I've known criminals. Lots of them are smart and funny guys. Some are not, of course. I'm sure 10 percent or so of those 2.3 million should be in prison for a long time.
+But what a waste.
+Most of those 2.3 million people have something to offer the world. It would be cheaper, safer in the long run, and infinitely more productive to stop throwing money at prisons and private prison companies, and invest it in alternatives: education, monitored release, proper training and pay for the parole and probation officers who have to supervise hundreds of people at a time.
+I'm howling into the wind here. I can barely hear myself. But I know our prison system is a disgrace, and so is the Justice Department's plan to spend $4 billion more on prisons this year than on national security.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

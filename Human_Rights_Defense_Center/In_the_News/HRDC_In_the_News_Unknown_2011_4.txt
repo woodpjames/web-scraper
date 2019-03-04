@@ -1,0 +1,208 @@
+PLN exposes prison phone price gouging
+2011
+PLN exposes prison phone price gouging
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN exposes prison phone price gouging
+
+      Liberation, Jan. 1, 2011.
+      
+        http://www.pslweb.org/liberationnews/news/study...
+
+PLN exposes prison phone price gouging - Liberation 2011Study exposes prison phone price gougingPrisoners' families pay super-high rates, prisons get kickbacksBy Steve JohnsonApril 26, 2011 If anything at all can be cherished while one is imprisoned, telephone calls are certainly one of those luxuries. Locked away, unable to leave the dungeons that shape their experiences, prisoners have very few if any rights or privileges that are not won through struggle. Telephones in detention facilities are monitored, and the right to use the telephone is subject to restriction by the facility where the prisoner is housed.Prisoners do not make free telephone calls. Their calls are made collect—at the expense of the person with whom they communicate. The prison telephone industry charges high rates for those collect calls. Anyone who communicates by telephone with prisoners knows this reality all too well.A study by Prison Legal News exposes the ugly underside to the prison, jail and immigration detention facility telephone business. PLN has revealed that not only are prisoners ripped off by the prisoner telephone industry but the jails, prisons and detention centers routinely make super profits off of the calls. In fact, when incarceration facilities negotiate telephone contracts, a large number of facilities let it be known that the contracts will probably be awarded to the company that negotiates the largest kickback to the detention facility. This legal form of bribery appears to be one of the foundations of the prisoner telephone industry.PLN's Prison Phone Justice website provides a rare glimpse into the structure of the business. What is glaringly clear in the report is that incarceration facilities see prisoner telephone calls as a profit center, and this perspective drives the process of awarding contracts for prisoner telephone services.“These contracts are priced not only to unjustly enrich the telephone companies by charging much higher rates than those paid by the general public, but are further inflated to cover the commission payments, which suck over $152 million per year out of the pockets of prisoners’ families—who are the overwhelming recipients of prison phone calls.Averaging a 42 percent kickback nationwide, this indicates that the phone market in state prison systems is worth more than an estimated $362 million annually in gross revenue.' (Prison Legal News)“Prison phone kickbacks takes dollars from families that could go for groceries & school supplies” is a tweet that appears on the Prison Phone Justice website. This tweet goes directly to the essence of the problem.The situation of telephone pricing abuse at the hands of the prisoner telephone industry and the detention center commission kickbacks “has been a major concern for prisoners’ families, who are unfairly exploited by telephone companies and the government agencies that receive kickbacks from those companies,” said PLN associate editor Alex Friedmann. “This is an issue of fundamental fairness.”According to the report: “PLN found that 42 states accept kickback commissions from prison phone companies, which include Unisys, Securus and Global Tel*Link (partly owned by investment banking firm Goldman Sachs). In some cases the commissions exceed 60 percent of prison phone revenue.”And further: “Prison phone companies don’t ‘compete’ in the usual sense. They don’t have to offer lower phone rates to match those of their competitors, as prison phone contracts typically are based on the highest commission paid, not the lowest phone rates. Free market competition is thus largely absent in the prison phone industry, at least from the perspective of the consumer—mainly prisoners’ families.”The report noted that not all states demand commissions from the prisoner telephone industry. California and New York are states that previously accepted the payments, but stopped in 2011. Prison telephone costs were reduced by 61 percent and 69 percent, respectively. (PLN Press Release, Prison Phone Research, April 12)This story of prison phone profiteering is an egregious example of capitalist exploitation and inhumanity. The capitalist system is guilty of the most vicious crimes against suffering humanity, yet it creates a criminal justice system in which the system itself will never be tried as a defendant. Those who are tried in this system routinely come from the working class, the oppressed communities and the poor. What right do jails, prisons and immigrant detention facilities have to profit off the telephone calls that prisoners make? That is the question that justice demands be answered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

@@ -1,0 +1,208 @@
+PLN profiled in Washington state alternative publication article
+2009
+PLN profiled in Washington state alternative publication article
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN profiled in Washington state alternative publication article
+
+      Vancouver Voice, Jan. 1, 2009.
+      
+        http://vanvoice.com/article/19343-voice-voiceless
+
+PLN profiled in Washington state alternative publication article - Vancouver Voice 2009Voice for the voicelessBy Sarah CateThe power of the printed word lies in its tangibility and evocation of thought, and is the subject to be celebrated in this article.In a recent editorial by The Voice's editorial board, the role of the printed word was beautifully carved out. While news is becoming more and more electronically accessed, print newspapers, periodicals and magazines are still the basis of this expansion and continue to be important pieces of art. As was stated in the editorial, a printed issue is "a story in itself, a composition of journalism and art with myriad pieces assembled to create one solid product." A stellar example of this can be found in the independent monthly news magazine, Prison Legal News.Printed in Seattle, Washington, Prison Legal News reports on legal cases and prison conditions that the incarcerated face in the United States. About 65 percent of the publication's subscribers are state and federal prisoners. The rest of the readership ranges from attorneys, journalists and academicians, to family members of prisoners and concerned private individuals. It is read in every state and around the world. A journalistic composition is a crucial means of citizen protest and information dissemination, especially in the unique environment of the prison.Prison Legal News serves as a means of organizing activists, advocating for prisoner's rights and exposing the realities of incarceration. No matter where personal opinions on the issue fall, everyone benefits from being exposed to such information. Far too frequently, this aspect of our society is cast aside and suppressed from our consciousness and engagement. Yet, it affects each and every one of us every day. When we suppress and hide reality, it festers and can unknowingly become destructive. Written expression plays a significant role in prisons by counteracting ignorance and injustice. However, the ability for prisoners to write and express themselves has had a varied history in the U.S. prison system.In the 1960s and 1970s there was a surge of creativity and voice from the prisons. Arguably, this was the first time that the American public was introduced to the true nature of the prison system. This surge of voices from prisons reached the American consciousness through various forms of media: publication of memoirs, letter collections, movies, songs and newspapers. Then, following this time, there was a concerted effort to stop this voice. States enacted laws making it illegal for those in prison to receive royalties for things they had published. Creative writing courses in the prison were either eliminated or defunded and federal regulations were drafted that made it so that any prisoner thought to have anti-establishment views was restricted from having any access to the media.In the face of censorship and concerted efforts to extinguish the voices of prisoners, the persistence of Prison Legal News is remarkable. Started in 1990, and still in publication today, it has beaten the odds to flourish in one of the most oppressed and silenced arenas of our nation. The Northwest should foster and celebrate this important publication we are so fortunate to have in our midst. The printed word helps every voice be heard, so that we can better understand reality and better conduit change. [VV]Sarah Cate is a contributor to The Voice and a political science grad student at the University of Oregon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

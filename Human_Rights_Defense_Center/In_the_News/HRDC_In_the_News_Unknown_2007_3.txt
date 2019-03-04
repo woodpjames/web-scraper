@@ -1,0 +1,208 @@
+Coverage of PLN Editor Paul Wright's keynote address at IL conference
+2007
+Coverage of PLN Editor Paul Wright's keynote address at IL conference
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Coverage of PLN Editor Paul Wright's keynote address at IL conference
+
+      The News-Gazette, Jan. 1, 2007.
+      
+        http://www.news-gazette.com/news/local/2007/11/...
+
+Coverage of PLN Editor Paul Wright's keynote address at IL conference - The News-Gazette 2007Ex-convict who launched magazine to speakBy Paul WoodThursday November 1, 2007URBANA – An ex-con who turned his life around and started a nationally distributed magazine is the keynote speaker at a roundtable on prisons and censorship that starts Friday.Paul Wright, 42, is the editor of Prison Legal News, which has 7,000 subscribers – 70 percent of them behind bars – including linguist/activist Noam Chomsky and billionaire philanthropist George Soros. It also has a Web site, www.prisonlegalnews.org.Since his release in 2003 from 17 years in prison for a murder conviction, Wright has lived in Vermont.On Friday, a panel discussion on "Empowerment vs. Incarceration" featuring Wright, Buzz Alexander of the Prison Creative Arts Project and Carol Ammons of Champaign-Urbana Citizens for Peace and Justice will be held from 3 to 4:30 p.m. in the Great Hall of the University YMCA, 1001 S. Wright St., C.On Saturday, Wright will deliver the keynote address at 1 p.m. at the Independent Media Center, 202 S. Broadway Ave., U., followed by Alexander's workshop on "Making Art in Prison" from 3 to 5 p.m., also at the center.That will be followed by music and poetry, with Desafinado performing from 7:30 to 8:30 p.m. and open mike poetry hosted by Aaron Ammons at the center from 8:30 to 10 p.m.Wright started publishing the journal after experiencing mistreatment at the hands of correctional officers, he said."Myself and another prisoner decided prisoners need to have a voice in what happens," Wright said. "We were both in different prisons and did five hand-typed pages each" with an initial mailing list of 75 potential subscribers.The editor is matter-of-fact about how he got into prison, for killing a drug dealer he was trying to rob at 21, when he was a military police officer."I was convicted of shooting and killing a drug dealer. I pleaded self-defense, but the jury didn't buy it," he explains.In prison, he started studying law, mostly to help other inmates in civil rights litigation."My forte is free speech and disciplinary issues, two things that come up a lot in prison," he said. "There are a lot of censorship issues."Wright has won the Washington Coalition for Open Government award and the Gustavus Myers Prize. He has edited two anthologies of prison writings.Prison Legal News has six full-time employees and another dozen writers. Its business office is in Seattle.On Saturday, Wright will be talking about prison censorship."We've seen a lot of problems with getting free books delivered," he said.In Urbana, the Independent Media Center has a project called Books to Prisoners that provides books to Illinois inmates at no cost, sending books by mail to all Illinois inmates and operating lending libraries in Champaign County jails."We've successfully challenged censors in seven states," Wright said. "Those seven states are under court order to comply with our guidelines."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

@@ -1,0 +1,1065 @@
+
+
+<!DOCTYPE html>
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Child Soldiers International | Home
+</title><meta id="metaDescription" name="description" content="Child Soldiers International aims to stop and end all recruitment, use and exploitation of children by armed forces and groups" /><meta id="metaKeywords" name="keywords" content="child soldiers, children, war, army, armed forces, OPAC, detention, international, coalition to stop, charity, human rights" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta id="siteName" property="og:site_name" content="Child Soldiers International"></meta><meta id="ogTitle" property="og:title" content="Child Soldiers International | Home"></meta><meta id="ogDescription" property="og:description" content="Child Soldiers International aims to stop and end all recruitment, use and exploitation of children by armed forces and groups"></meta><meta id="ogType" property="og:type" content="website"></meta><meta id="ogUrl" property="og:url" content="https://www.child-soldiers.org/"></meta><meta id="ogImage" property="og:image" content="https://www.child-soldiers.org/handlers/getimage.ashx?idmf=8bf5013e-9e67-43ba-9ed5-77b88bd3f2b3&amp;w=1200&amp;h=630&amp;f=1"></meta>
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" id="twittercard" content="summary_large_image" />
+    <meta id="twitterSite" name="twitter:site" content="childsoldiersin"></meta><meta id="twitterCreator" name="twitter:creator" content="childsoldiersin"></meta>
+
+<link id="rssFeed" href="/handlers/rss.ashx?feed=1" rel="alternate" type="application/rss+xml" title="RSS Feed" /><link id="normalizeCss" rel="stylesheet" href="/baseui/v2_4/css/normalize.css?v=3-0-9710-0" /><link id="boilerplateCss" rel="stylesheet" href="/baseui/v2_4/css/boilerplate.css?v=3-0-9710-0" /><link id="baseFrameworkCss" rel="stylesheet" href="/baseui/v2_4/css/baseframework.css?v=3-0-9710-0" /><link id="platformStylesheet" rel="stylesheet" href="/baseui/v2_4/handlers/css.ashx?v=219" /><link id="platformHTMLEditorStylesheet" rel="stylesheet" href="/baseui/v2_4/handlers/css.ashx?type=1&amp;v=16" /><link id="canonicalTag" rel="canonical" href="https://www.child-soldiers.org/" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>window["riversion"] = 2.4; window.jQuery || document.write('<script src="/baseui/v2_4/js/jquery-1.11.0.min.js"><\/script>');</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    
+        <script type="text/javascript">
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-77861048-1', 'www.child-soldiers.org');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+
+        </script>
+    
+    
+
+    
+<script src="https://use.typekit.net/veg7jwj.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    
+        <!-- GoogleTagManager Meta dataLayer for global header  -->
+        <script>
+            dataLayer.push({"cmsVersion":"2.4","pageBrandName":"Child Soldiers International","setDomainName":"www.child-soldiers.org","ga.id":"UA-77861048-1","page.id":"01-Home","referralOverride":"","event":"onload_ga_pageview"});
+        </script>
+        <!-- End GoogleTagManager Meta dataLayer -->
+
+        
+        <!-- Google Tag Manager RIT-->
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer','GTM-N3D983');</script>
+        <!-- End Google Tag Manager -->
+    
+<script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+        function r(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = u.createElement(o), i, f; for (s.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;)r("track" + i.pop()); return r("setAuthenticatedUserContext"), r("clearAuthenticatedUserContext"), config.disableExceptionTracking || (i = "onerror", r("_" + i), f = e[i], e[i] = function (config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t["_" + i](config, r, u, e, o), s }), t
+    }({
+        instrumentationKey: "9e2868a6-141d-4797-9de2-0164be0b2fd7",
+        appUserId: "null",
+        accountId: "www.child-soldiers.org"
+    });
+
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+</script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u"></script></head>
+<body class="  homepage">
+
+    
+            <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+            <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+            <script>
+                window.addEventListener("load", function () {
+                    window.cookieconsent.initialise({
+                        "palette": {
+                            "popup": {
+                                "background": "#000000"
+                            },
+                            "button": {
+                                "background": "#28a745"
+                            }
+                        },
+                        "theme": "classic",
+                        "position": "bottom",
+                        "type": "info",
+                        "showLink": "false",
+                        "layouts": {
+                            "ritlayout": "{{message}}{{dismiss}}"
+                        },
+                        "layout": "ritlayout",
+                        "content": {
+                            "message":
+                                "Like most websites we use cookies to deliver a personalised service. To use the website as intended please accept cookies.",
+                            "dismiss": "Accept Cookies"
+                        },
+                        "elements": {
+                            "dismiss": '<a aria-label="dismiss cookie message" tabindex="0" class="cc-btn cc-dismiss" id="cc-dismiss">{{dismiss}}</a>'
+                        }
+                    });
+                });
+            </script>
+    <header id="pageHeader" class="pageHeader" role="banner">
+        
+
+        <div class="menuAdminContainer">
+            <ul id="menuAdmin">
+                
+                
+                    <li class="menuAdminRegister">
+                        <a href="/Lobby/SignUp.aspx?ReturnURL=%2f" title="Become a registered member of our platform">Sign up</a>
+                    </li>
+                    <li class="menuAdminLogin">
+                        <a href="/login?ReturnURL=%2f" title="Log in to contribute or update your details" rel="nofollow">Log in</a>
+                    </li>
+                
+                
+                <li class="menuAdminBasket"><a href="/checkout" title="View your basket"><span>Basket: </span><span class="basket-summary">(0 items)</span></a></li>
+                
+                <li id="menu7f82ab58-230d-4abf-9a6e-2c38030ef7c0" role="none" class="menuAdminPagesshopdepartmentfrenchlanguageresources"><a 
+                role='menuitem' 
+                href='/pages/shop/department/french-language-resources' 
+                 
+                >
+                Français
+                </a></li>
+            </ul>
+        </div>
+
+        <div class="content headerContent">
+            <a class="mainLogo" href="/" title="Home" tabindex="" accesskey="1">Child Soldiers International</a>
+
+            
+                <div class="mainCallToAction">
+                    <ul class="socialIcons">
+<li><a class="twitter" alt="Twitter" target="_blank" href="https://twitter.com/childsoldiersin">Twitter</a></li>
+<li><a class="facebook" alt="Facebook" target="_blank" href="https://www.facebook.com/pages/Child-Soldiers-International/452083868155588">Facebook</a></li>
+</ul>
+<a href="/donate/where-ever-the-need-is-greatest" target="_self" class="header-donate"><span class="post_link">DONATE</span></a>
+                </div>
+            
+
+            <form class="header-search" action="/pages/search.aspx" method="get">
+                <fieldset class="searchContainer" role="search">
+                    <label for="siteSearch" class="siteSearch">Search</label>
+                    <input type="search" title="Search" id="siteSearch" placeholder="Search" name="q" />
+                    <button type="submit" tabindex="" onclick="submitSearch('6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u')">Search</button>
+                </fieldset>
+            </form>
+
+            <ul class="headerFollowContainer" aria-label="Social media links">
+                
+                
+                    <li class="headerFollow"><a class="twitter" href="https://twitter.com/childsoldiersin" title="Follow us">Twitter</a></li>
+                
+                
+            </ul>
+        </div>
+
+        <a class="skipLink" href="#startcontent" accesskey="2">Skip over main navigation</a>
+
+        <a class="menuMainAlt" href="#menu">Menu</a>
+
+        <nav id="menuMain" class="menuMain" role="navigation">
+            <ul class="topLevel level1" role="menubar" aria-label="Main menu">
+                <li id="menu74740a82-b661-4384-9121-a68c1fa4a7c5" role="none" class="level1 menu1"><a 
+                role='menuitem' 
+                href='/world-index' 
+                 
+                >
+                World Index
+                </a></li><li id="menub102271c-7618-4292-8599-0a2dc7b1e566" role="none" class="level1 menu2 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=the-issue' 
+                     
+                    title='The Issue drop down menu'>
+                    The Issue
+                    </a><ul class="subMenu level2 menu2" role="menu" aria-label="The Issue"><li id="menu0fe7aabd-32cf-4d4b-99b5-123e53ee24e4" role="none" class="level2 menu2_1"><a 
+                role='menuitem' 
+                href='/who-are-child-soldiers' 
+                 
+                >
+                Who are child soldiers?
+                </a></li><li id="menu03614674-dad9-481f-b811-1ae12945a4b0" role="none" class="level2 menu2_2"><a 
+                role='menuitem' 
+                href='/where-are-there-child-soldiers' 
+                 
+                >
+                Where are child soldiers?
+                </a></li><li id="menu302e64fc-891c-4d7c-9782-99a931fd4497" role="none" class="level2 menu2_3"><a 
+                role='menuitem' 
+                href='/how-is-recruiting-children-harmful' 
+                 
+                >
+                How is recruiting children harmful?
+                </a></li><li id="menucc3bbebd-88eb-4f70-b4de-28a366769862" role="none" class="level2 menu2_4"><a 
+                role='menuitem' 
+                href='/international-laws-and-child-rights' 
+                 
+                >
+                International laws and child rights
+                </a></li><li id="menu53631109-ee3f-4b5f-a8f6-06e87b8161e4" role="none" class="level2 menu2_5"><a 
+                role='menuitem' 
+                href='/Pages/FAQs/Category/faqs/' 
+                 
+                >
+                FAQs
+                </a></li></ul></li><li id="menu4a634d7a-5fc0-4131-83f1-e58eaecc5760" role="none" class="level1 menu3 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=countries' 
+                     
+                    title='Projects drop down menu'>
+                    Projects
+                    </a><ul class="subMenu level2 menu3" role="menu" aria-label="Projects"><li id="menu324917e8-de35-45ab-aca9-8fa71b60614c" role="none" class="level2 menu3_1 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=africa' 
+                     
+                    title='Current drop down menu'>
+                    Current
+                    </a><ul class="subMenu level3 menu3_1" role="menu" aria-label="Current"><li id="menu744b4afa-a579-4672-9324-064839d8d41b" role="none" class="level3 menu3_1_1"><a 
+                role='menuitem' 
+                href='/central-african-republic' 
+                 
+                >
+                Central African Republic
+                </a></li><li id="menu207403d2-d146-44b9-bc51-608c4fcebae8" role="none" class="level3 menu3_1_2"><a 
+                role='menuitem' 
+                href='/democratic-republic-of-congo' 
+                 
+                >
+                Democratic Republic of Congo
+                </a></li><li id="menub3fc2a00-7505-453f-84b3-b53abd82f9c6" role="none" class="level3 menu3_1_3"><a 
+                role='menuitem' 
+                href='/south-sdan' 
+                 
+                >
+                South Sudan
+                </a></li><li id="menu446a7c3f-2f56-452b-9574-5560aac46823" role="none" class="level3 menu3_1_4"><a 
+                role='menuitem' 
+                href='/myanmar' 
+                 
+                >
+                Myanmar
+                </a></li><li id="menu892eba79-371a-46e3-a834-fc044737dbea" role="none" class="level3 menu3_1_5"><a 
+                role='menuitem' 
+                href='/uk' 
+                 
+                >
+                UK
+                </a></li></ul></li><li id="menu9722861a-d520-47b4-82e5-ec347265be32" role="none" class="level2 menu3_2 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=asia' 
+                     
+                    title='Past drop down menu'>
+                    Past
+                    </a><ul class="subMenu level3 menu3_2" role="menu" aria-label="Past"><li id="menu11f4b5a1-88df-4742-8e84-f5f10b8f3457" role="none" class="level3 menu3_2_1"><a 
+                role='menuitem' 
+                href='/afghanistan' 
+                 
+                >
+                Afghanistan
+                </a></li><li id="menub83673df-50ed-47a8-8473-e6c35c3634ef" role="none" class="level3 menu3_2_2"><a 
+                role='menuitem' 
+                href='/india' 
+                 
+                >
+                India
+                </a></li><li id="menu6b7b5150-edaa-4969-b4cc-a7e87f039687" role="none" class="level3 menu3_2_3"><a 
+                role='menuitem' 
+                href='/palestinian-territories' 
+                 
+                >
+                Occupied Palestinian Territories
+                </a></li><li id="menu56ddf505-e25b-4fe4-898f-36a35e716d23" role="none" class="level3 menu3_2_4"><a 
+                role='menuitem' 
+                href='/thailand' 
+                 
+                >
+                Thailand
+                </a></li></ul></li></ul></li><li id="menu81bfe626-0cfa-4938-8daa-91a244353357" role="none" class="level1 menu4"><a 
+                role='menuitem' 
+                href='/pages/shop/department/all' 
+                 
+                >
+                Resources
+                </a></li><li id="menuec97bf46-ae8d-4a55-9153-6b54dedbdc43" role="none" class="level1 menu5 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/News/Default.aspx?CategoryTitle=news' 
+                     
+                    title='News drop down menu'>
+                    News
+                    </a><ul class="subMenu level2 menu5" role="menu" aria-label="News"><li id="menucc196bef-98e8-4ba3-bdc0-5c34542fc039" role="none" class="level2 menu5_1"><a 
+                role='menuitem' 
+                href='/Pages/News/Category/press-releases/' 
+                 
+                >
+                Press releases
+                </a></li><li id="menu980dbb9b-2297-4666-bad2-30699ed86f6a" role="none" class="level2 menu5_2"><a 
+                role='menuitem' 
+                href='/Pages/News/Category/in-the-media/' 
+                 
+                >
+                In the media
+                </a></li><li id="menu46047d1a-09f2-47a2-8a7b-fba1b022fedc" role="none" class="level2 menu5_3"><a 
+                role='menuitem' 
+                href='/Pages/News/Category/blog/' 
+                 
+                >
+                Blog and insights
+                </a></li><li id="menucc513548-216e-4dd4-bea8-cade094f3ff0" role="none" class="level2 menu5_4"><a 
+                role='menuitem' 
+                href='/News/video-work' 
+                 
+                >
+                Videos
+                </a></li></ul></li><li id="menude7db07b-01fe-40e2-a592-b41e04e832b6" role="none" class="level1 menu6 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Default.aspx?CategoryTitle=about-us' 
+                     
+                    title='About drop down menu'>
+                    About
+                    </a><ul class="subMenu level2 menu6" role="menu" aria-label="About"><li id="menu7e272c20-f7bd-4cb4-a95c-6582d804e62d" role="none" class="level2 menu6_1"><a 
+                role='menuitem' 
+                href='/how-we-work-1' 
+                 
+                >
+                How we work
+                </a></li><li id="menuf1eacd71-8d64-42e8-8dd6-c20c38ba1609" role="none" class="level2 menu6_2"><a 
+                role='menuitem' 
+                href='/Pages/Category/our-people/' 
+                 
+                >
+                Our people
+                </a></li><li id="menu69be7cd0-9386-40df-92d9-f3b5d11d7b57" role="none" class="level2 menu6_3"><a 
+                role='menuitem' 
+                href='/who-we-are-1' 
+                 
+                >
+                Our history
+                </a></li><li id="menu0ce88315-2cd6-48d8-b6d6-14fcae2326b0" role="none" class="level2 menu6_4"><a 
+                role='menuitem' 
+                href='/work-for-us' 
+                 
+                >
+                Work for us
+                </a></li></ul></li><li id="menua120f76b-9df6-407d-a41e-5345376f4ba1" role="none" class="level1 menu7 dir hasSubmenu"><a 
+                    aria-haspopup='true' 
+                    aria-expanded='false' 
+                    role='menuitem' 
+                    href='/Pages/Display.aspx?Title=red-hand-day-campaign' 
+                     
+                    title='Get involved drop down menu'>
+                    Get involved
+                    </a><ul class="subMenu level2 menu7" role="menu" aria-label="Get involved"><li id="menu1992f4cc-1ad3-4c1b-8af0-46bdbf9343f6" role="none" class="level2 menu7_1"><a 
+                role='menuitem' 
+                href='/donate/where-ever-the-need-is-greatest/5' 
+                 
+                >
+                Donate now
+                </a></li><li id="menuc7eda96a-13bb-4d36-b069-0d91bd79f012" role="none" class="level2 menu7_2"><a 
+                role='menuitem' 
+                href='/fundraise-for-us-1' 
+                 
+                >
+                Fundraise for us
+                </a></li><li id="menu1402af80-6c61-44e8-87a4-908f67c711b3" role="none" class="level2 menu7_3"><a 
+                role='menuitem' 
+                href='/ways-to-give' 
+                 
+                >
+                Ways to give
+                </a></li><li id="menu0ebd6b09-0b4a-413a-a4f6-538aaf1b9086" role="none" class="level2 menu7_4"><a 
+                role='menuitem' 
+                href='/give-as-you-shop' 
+                 
+                >
+                Give as you shop
+                </a></li><li id="menu8812f034-f637-452e-bce7-dc481f0f4e78" role="none" class="level2 menu7_5"><a 
+                role='menuitem' 
+                href='/corporate-support' 
+                 
+                >
+                Corporate support
+                </a></li><li id="menu46a2ae4a-6620-4e92-ae47-3f5665baabf7" role="none" class="level2 menu7_6"><a 
+                role='menuitem' 
+                href='/schools' 
+                 
+                >
+                Schools
+                </a></li><li id="menu4b30042c-d8f0-4804-8ba3-cfc5058793c3" role="none" class="level2 menu7_7"><a 
+                role='menuitem' 
+                href='/red-hand-day-campaign' 
+                 
+                >
+                Red Hand Day Campaign for schools
+                </a></li><li id="menu29a80a82-3016-48a7-9891-52e6eb859028" role="none" class="level2 menu7_8"><a 
+                role='menuitem' 
+                href='/where-your-money-goes' 
+                 
+                >
+                Where your money goes
+                </a></li></ul></li>
+                <li class="hasSubmenu menuAdminAltItems">
+                    <a href="#" role="menuitem">
+                        Login
+                    </a>
+
+                    <ul class="subMenu">
+                        
+                        
+                            <li class="menuAdminLogin"><a href="/login?ReturnURL=%2f" title="Log in to contribute or update your details" role="menuitem" rel="nofollow">Log in</a></li>
+                        
+                        
+                        
+                        <li id="menu7f82ab58-230d-4abf-9a6e-2c38030ef7c0" role="none" class="menuAdminPagesshopdepartmentfrenchlanguageresources"><a 
+                role='menuitem' 
+                href='/pages/shop/department/french-language-resources' 
+                 
+                >
+                Français
+                </a></li>
+                    </ul>
+                </li>
+
+                <li class="menuAdminBasket menuAdminAltItems"><a href="/checkout" title="View your basket"><span>Basket: </span><span class="basket-summary">(0 items)</span></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <form name="bodyForm" method="post" action="./" id="bodyForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvskI8qan1JxXeJ05WqQvkqU2hYL6fvzBuAs5f6OqGvZ-qFKepTgVFpCK4e7Pm3fzpRc1NtyaLRtEq8ZIeOO9nQCGlV_FSGcG6Tw0f71DpweGvLy_74i6dUwqM3GEDEMvQU3qbrE1&amp;t=545ba255" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/modernizr-2.6.2.min.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/general.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/Accessibility.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="/baseui/v2_4/js/core.js?v=3-0-9710-0" type="text/javascript"></script>
+<script src="app_clientscript/webkit.js?v=3-0-9710-0" type="text/javascript"></script>
+        
+
+        <a name="startcontent" id="startcontent"></a>
+        
+    <script>
+        grecaptcha.ready(function () {
+            grecaptcha.execute('6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u', { action: 'home' });
+        });
+    </script>
+    <section class="contentContainer sortable">
+        
+    <script type="text/javascript" src="/baseui/v2_4/js/home.js?v=3-0-9710-0"></script>
+    <script type="text/javascript" src="/baseui/v2_4/js/donationamounts.js?v=3-0-9710-0"></script>
+
+
+
+        
+
+        
+            <section class="carouselImageMultiple hasCaption carousel ">
+        
+
+        
+                <ul class="carouselSlides">
+            
+                <li class="carouselSlide post30e39a930f6d4302a7ec065ccf091eb2">
+                    <a 
+                    href="/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising"
+                    title="Read: Child soldier levels doubled since 2012 and girls’ exploitation is rising" class="carouselSlideTitle">
+                    <img src="/handlers/getimage.ashx?idmf=8bf5013e-9e67-43ba-9ed5-77b88bd3f2b3&w=2000&h=500&f=1" alt="" />
+                    </a>
+
+                    
+                    
+
+                    
+                        <div class="carouselDetailWrapper">
+                            <div class="carouselSlideDetail news" data-url="/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising">
+                                <h2 class="carouselSlideHeading">
+                                    <a href="/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising">Child soldier levels doubled since 2012 and girls’ exploitation is rising</a>
+                                </h2>
+
+                                <p class="carouselSlideSummary">Ahead of International Day Against Child Soldiers, we call on all actors to take action to stem shocking trends <span class="readMore carouselSlideReadMore">Read more</span></p>
+
+                                
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                <li class="carouselSlide hidden post1ef45ecc9dc7406b8ccfa8957faaf2fe">
+                    <a 
+                    href="/news/2018-children-pay-the-heaviest-price-in-conflict"
+                    title="Read: 2018: Children pay the heaviest price in conflict" class="carouselSlideTitle">
+                    <img src="/handlers/getimage.ashx?idmf=41ed6a07-c0be-4aa5-b8d6-a3dd997da075&w=2000&h=500&f=1" alt="" />
+                    </a>
+
+                    
+                    
+
+                    
+                        <div class="carouselDetailWrapper">
+                            <div class="carouselSlideDetail news" data-url="/news/2018-children-pay-the-heaviest-price-in-conflict">
+                                <h2 class="carouselSlideHeading">
+                                    <a href="/news/2018-children-pay-the-heaviest-price-in-conflict">2018: Children pay the heaviest price in conflict</a>
+                                </h2>
+
+                                <p class="carouselSlideSummary">Persisting violations and spiking child recruitment in several countries were offset by rare positive moments <span class="readMore carouselSlideReadMore">Read more</span></p>
+
+                                
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                <li class="carouselSlide hidden post567ac93934b04132b1fd3db86156d98c">
+                    <a 
+                    href="/news/5-child-soldier-myths"
+                    title="Read: 5 child soldier myths" class="carouselSlideTitle">
+                    <img src="/handlers/getimage.ashx?idmf=1a7084de-1ed5-42db-ab5f-00c5c305c013&w=2000&h=500&f=1" alt="" />
+                    </a>
+
+                    
+                    
+
+                    
+                        <div class="carouselDetailWrapper">
+                            <div class="carouselSlideDetail news" data-url="/news/5-child-soldier-myths">
+                                <h2 class="carouselSlideHeading">
+                                    <a href="/news/5-child-soldier-myths">5 child soldier myths</a>
+                                </h2>
+
+                                <p class="carouselSlideSummary">Not all children in armed groups or armed forces carry guns. Not all are boys. Not all are abducted. <span class="readMore carouselSlideReadMore">Read more</span></p>
+
+                                
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                <li class="carouselSlide hidden post1ade75bd52fe470c9ff36debd6571a8b">
+                    <a 
+                    href="/world-index"
+                    title="Read: Child Soldiers World Index" class="carouselSlideTitle">
+                    <img src="/handlers/getimage.ashx?idmf=0b34363d-9d2b-4cf7-943f-4b2284663531&w=2000&h=500&f=1" alt="" />
+                    </a>
+
+                    
+                    
+
+                    
+                        <div class="carouselDetailWrapper">
+                            <div class="carouselSlideDetail page" data-url="/world-index">
+                                <h2 class="carouselSlideHeading">
+                                    <a href="/world-index">Child Soldiers World Index</a>
+                                </h2>
+
+                                <p class="carouselSlideSummary">The global authority on the recruitment and use of children by state armed forces and non-state armed groups <span class="readMore carouselSlideReadMore">Read more</span></p>
+
+                                
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                </ul>
+            
+
+        
+                <ul class="carouselButtons">
+            
+                <li id="hc_0" class="activeSlide"><a onclick="return changeSlide(0, 0)" href="/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising" class="button carouselButton">Child soldier levels doubled since 2012 and girls’ exploitation is rising</a></li>
+            
+                <li id="hc_1" class=""><a onclick="return changeSlide(0, 1)" href="/news/2018-children-pay-the-heaviest-price-in-conflict" class="button carouselButton">2018: Children pay the heaviest price in conflict</a></li>
+            
+                <li id="hc_2" class=""><a onclick="return changeSlide(0, 2)" href="/news/5-child-soldier-myths" class="button carouselButton">5 child soldier myths</a></li>
+            
+                <li id="hc_3" class=""><a onclick="return changeSlide(0, 3)" href="/world-index" class="button carouselButton">Child Soldiers World Index</a></li>
+            
+                </ul>
+            
+
+        
+            <ul class="carouselControls">
+                <li><a href="javascript: changeSlide(1); void(0);" class="carouselControlNext">Next</a></li>
+                <li><a href="javascript: changeSlide(-1); void(0);" class="carouselControlPrev">Prev</a></li>
+            </ul>
+        
+
+        </section>
+        
+    
+
+
+
+
+<div class="homeIntroWrapper">
+	<div class="homeIntro">
+		<h2 class="p1"><span class="s1">It's immoral for adults to use children in war</span></h2>
+<p class="p1"><span class="s1">We work for children to live free from military exploitation and harm<br /><br /></span><a class="button callToActionBtn donateBtn donate" role="button" href="/donate/where-ever-the-need-is-greatest/5">Donate now</a></p>
+	</div>
+</div>
+
+<section class="homeFeaturesWrapper">
+	<div class="homeFeatures">
+		
+			
+
+<section class="homeFeature homeFeaturePages post1ade75bd52fe470c9ff36debd6571a8b homefeaturecategory-theissue homeBox1"
+    onclick="window.location = '/world-index'" >
+    
+            
+                <a class="home-feature-image-link" title="Read: Child Soldiers World Index" href="/world-index">
+                    <img src="/handlers/getimage.ashx?idmf=0b34363d-9d2b-4cf7-943f-4b2284663531&w=400&h=250&f=1" alt="" class="banner homeBoxImage" />
+                </a>
+            
+
+            <div class="homeFeatureDetailsWrapper">
+                <h2>
+                    <a href="/world-index">
+                        Child Soldiers World Index
+                    </a>
+                </h2>
+
+                <p>The global authority on the recruitment and use of children by state armed forces and non-state armed groups</p>
+
+                
+                    <footer class="featureFooter">
+                        
+                            <p class="featurePublishWrapper">
+                                <strong>Published:</strong>
+                                <time datetime="2018-06-19">19<sup>th</sup> June, 2018</time>
+                            </p>
+                        
+                            <p class="featureAuthorWrapper">
+                                <strong>Author:</strong>
+                                <span>Chris Matthews</span>
+                            </p>
+                        
+
+                        <ul>
+                            
+                        </ul>
+                    </footer>
+                
+            </div>
+        
+</section>
+
+		
+			
+
+<section class="homeFeature homeFeaturePages post970912933814446bb13dd850b05bf808 homefeaturecategory-theissue homeBox2"
+    onclick="window.location = '/where-are-there-child-soldiers'" >
+    
+            
+                <a class="home-feature-image-link" title="Read: Where are child soldiers?" href="/where-are-there-child-soldiers">
+                    <img src="/handlers/getimage.ashx?idmf=43266a61-086b-4856-a76a-9b771c961142&w=400&h=250&f=1" alt="" class="banner homeBoxImage" />
+                </a>
+            
+
+            <div class="homeFeatureDetailsWrapper">
+                <h2>
+                    <a href="/where-are-there-child-soldiers">
+                        Where are child soldiers?
+                    </a>
+                </h2>
+
+                <p>In 2017, children were still recruited by over 100 armed forces and groups, and used in conflict by at least 56</p>
+
+                
+                    <footer class="featureFooter">
+                        
+                            <p class="featurePublishWrapper">
+                                <strong>Published:</strong>
+                                <time datetime="2016-12-29">29<sup>th</sup> December, 2016</time>
+                            </p>
+                        
+                            <p class="featureAuthorWrapper">
+                                <strong>Author:</strong>
+                                <span>Melanie Doucakis</span>
+                            </p>
+                        
+
+                        <ul>
+                            
+                        </ul>
+                    </footer>
+                
+            </div>
+        
+</section>
+
+		
+			
+
+<section class="homeFeature homeFeaturePages post8c1ac9d6e71e43dba356b456315d92ad homefeaturecategory-about homeBox3"
+    onclick="window.location = '/who-we-are-1'" >
+    
+            
+                <a class="home-feature-image-link" title="Read: Our history" href="/who-we-are-1">
+                    <img src="/handlers/getimage.ashx?idmf=b3090e39-7db8-4104-82cc-5b4db9315be5&w=400&h=250&f=1" alt="" class="banner homeBoxImage" />
+                </a>
+            
+
+            <div class="homeFeatureDetailsWrapper">
+                <h2>
+                    <a href="/who-we-are-1">
+                        Our history
+                    </a>
+                </h2>
+
+                <p>Child Soldiers International is an international human rights organisation working to end the military exploitation and harm of children</p>
+
+                
+                    <footer class="featureFooter">
+                        
+                            <p class="featurePublishWrapper">
+                                <strong>Published:</strong>
+                                <time datetime="2016-03-23">23<sup>rd</sup> March, 2016</time>
+                            </p>
+                        
+                            <p class="featureAuthorWrapper">
+                                <strong>Author:</strong>
+                                <span>Sample Content</span>
+                            </p>
+                        
+
+                        <ul>
+                            
+                        </ul>
+                    </footer>
+                
+            </div>
+        
+</section>
+
+		
+	</div>
+</section>
+
+<!-- included shop.js so we can add products to basket from home page -->
+<script type="text/javascript" src="/baseui/v2_4/js/shop.js?v=3-0-9710-0"></script>
+
+<section class="homeFeedsWrapper ">
+    <div class="homeFeeds ">
+        
+                
+                        
+
+<section class="homeFeed homeFeedBox1 homeFeednews LatestnewsFeed">
+    <h3 class="feedsTitle">
+        Latest News
+    </h3>
+
+    <div class="homeNewsImg"><img src="/GetImage.aspx?IDMF=3ae7d4cc-791f-4939-b5b4-42042c8f40f1&amp;w=394&amp;h=542&amp;src=mc" alt="" title="" class="mediaImage" /></div>
+
+    <ul class="feedList">
+        
+                
+        <li class="feedItem urlchild-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising " onclick="window.location = '/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising'">
+            
+                <a class="home-feed-image-link" href="/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising" title="Read: Child soldier levels doubled since 2012 and girls’ exploitation is rising">
+                    <img src="/handlers/getimage.ashx?idmf=8bf5013e-9e67-43ba-9ed5-77b88bd3f2b3&w=400&h=400&f=1" alt="" class="banner feedImage" />
+                </a>
+            
+
+            <h3 class="feedTitle"><a href="/news/child-soldier-levels-have-doubled-since-2012-and-girls-exploitation-is-rising">Child soldier levels doubled since 2012 and girls’ exploitation is rising</a></h3>
+            <p>Ahead of International Day Against Child Soldiers, we call on all actors to take action to stem shocking trends <span class="readMore">Read more</span></p>
+
+            
+    
+            
+                
+        <li class="feedItem url2018-children-pay-the-heaviest-price-in-conflict " onclick="window.location = '/news/2018-children-pay-the-heaviest-price-in-conflict'">
+            
+                <a class="home-feed-image-link" href="/news/2018-children-pay-the-heaviest-price-in-conflict" title="Read: 2018: Children pay the heaviest price in conflict">
+                    <img src="/handlers/getimage.ashx?idmf=41ed6a07-c0be-4aa5-b8d6-a3dd997da075&w=400&h=400&f=1" alt="" class="banner feedImage" />
+                </a>
+            
+
+            <h3 class="feedTitle"><a href="/news/2018-children-pay-the-heaviest-price-in-conflict">2018: Children pay the heaviest price in conflict</a></h3>
+            <p>Persisting violations and spiking child recruitment in several countries were offset by rare positive moments <span class="readMore">Read more</span></p>
+
+            
+    
+            
+                
+        <li class="feedItem urlrecruited-but-not-child-soldiers-returning-girls-in-south-sudan-risk-being-left-without-support " onclick="window.location = '/news/recruited-but-not-child-soldiers-returning-girls-in-south-sudan-risk-being-left-without-support'">
+            
+                <a class="home-feed-image-link" href="/news/recruited-but-not-child-soldiers-returning-girls-in-south-sudan-risk-being-left-without-support" title="Read: Recruited but not ‘child soldiers’: Girls in South Sudan risk being left without support">
+                    <img src="/handlers/getimage.ashx?idmf=2d51d82c-0d8c-43c3-810e-d6c7067f59f5&w=400&h=400&f=1" alt="" class="banner feedImage" />
+                </a>
+            
+
+            <h3 class="feedTitle"><a href="/news/recruited-but-not-child-soldiers-returning-girls-in-south-sudan-risk-being-left-without-support">Recruited but not ‘child soldiers’: Girls in South Sudan risk being left without support</a></h3>
+            <p>Ignoring the role of girls in armed groups is leaving some on the margins of vital reintegration assistance <span class="readMore">Read more</span></p>
+
+            
+    
+            
+    </ul>
+</section>
+
+                    
+            
+                
+                        
+
+<section class="homeFeed homeFeedBox2 homeFeedproducts LatestresourcesFeed">
+    <h3 class="feedsTitle">
+        Latest resources
+    </h3>
+
+    
+
+    <ul class="feedList">
+        
+                
+        <li class="feedItem urlannual-report-2017-18">
+
+            
+                <a href="/shop/annual-report-2017-18" title="Read: Annual Report 2017-18">
+                    <img src="/handlers/getimage.ashx?idmf=258e6649-f4f6-49a2-bee6-3a2ff9118dc2&w=155&h=233&f=1" alt="" class="banner feedImage home-feed-image-link" />
+                </a>
+            
+
+            <h3 class="feedTitle"><a href="/shop/annual-report-2017-18">Annual Report 2017-18</a></h3>
+            <span class="productPrice">&#163;0.00</span>
+            
+            <p>September 2018 - Key events and progress over the financial year <span class="readMore"><a href="/shop/annual-report-2017-18">Read more</a></span></p>
+            
+
+<footer class="postFooterWrapper">
+	<div class="content postFooter productFooter">
+		
+
+        
+
+         
+        
+			<a href="#" onclick="return addItemToBasket('annual-report-2017-18', '6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u', 1, this);" class="button addToBasket" role="button">Add to basket</a>                                        
+										
+			<strong class="alert productLiveOut hidden" role="status" aria-hidden="true">No more items to add</strong>
+            <strong class="alert hidden" id="liveOutOfStockannual-report-2017-18" role="status" aria-hidden="true">No more items to add</strong>
+										
+         
+        <a href="/checkout" class="button goToCheckout" role="button">Checkout</a>
+		<span class="oneUp hidden">Added</span>
+	</div>
+</footer>
+        </li>
+    
+            
+                
+        <li class="feedItem urlwhy-18-matters">
+
+            
+                <a href="/shop/why-18-matters" title="Read: Why 18 Matters">
+                    <img src="/handlers/getimage.ashx?idmf=bf203378-f7fe-4b9e-9b9f-4b8fc6bd5ca7&w=155&h=233&f=1" alt="" class="banner feedImage home-feed-image-link" />
+                </a>
+            
+
+            <h3 class="feedTitle"><a href="/shop/why-18-matters">Why 18 Matters</a></h3>
+            <span class="productPrice">&#163;0.00</span>
+            
+            <p>May 2018 - Analysis of how and why militaries recruit under-18s, and how practices may violate obligations under international law <span class="readMore"><a href="/shop/why-18-matters">Read more</a></span></p>
+            
+
+<footer class="postFooterWrapper">
+	<div class="content postFooter productFooter">
+		
+
+        
+
+         
+        
+			<a href="#" onclick="return addItemToBasket('why-18-matters', '6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u', 1, this);" class="button addToBasket" role="button">Add to basket</a>                                        
+										
+			<strong class="alert productLiveOut hidden" role="status" aria-hidden="true">No more items to add</strong>
+            <strong class="alert hidden" id="liveOutOfStockwhy-18-matters" role="status" aria-hidden="true">No more items to add</strong>
+										
+         
+        <a href="/checkout" class="button goToCheckout" role="button">Checkout</a>
+		<span class="oneUp hidden">Added</span>
+	</div>
+</footer>
+        </li>
+    
+            
+                
+        <li class="feedItem urlwhat-the-girls-say-improving-practices-for-the-demobilisation-and-reintegration-of-girls-associated">
+
+            
+                <a href="/shop/what-the-girls-say-improving-practices-for-the-demobilisation-and-reintegration-of-girls-associated" title="Read: What the Girls Say: Improving practices to reintegrate girls in DRC">
+                    <img src="/handlers/getimage.ashx?idmf=c5363fb6-5ded-473e-ad23-83af1dc27378&w=155&h=233&f=1" alt="" class="banner feedImage home-feed-image-link" />
+                </a>
+            
+
+            <h3 class="feedTitle"><a href="/shop/what-the-girls-say-improving-practices-for-the-demobilisation-and-reintegration-of-girls-associated">What the Girls Say: Improving practices to reintegrate girls in DRC</a></h3>
+            <span class="productPrice">&#163;0.00</span>
+            
+            <p>June 2017 - Community rejection remains a major obstacle for Congo's former girl soldiers <span class="readMore"><a href="/shop/what-the-girls-say-improving-practices-for-the-demobilisation-and-reintegration-of-girls-associated">Read more</a></span></p>
+            
+
+<footer class="postFooterWrapper">
+	<div class="content postFooter productFooter">
+		
+
+        
+
+        
+		<div class="footerDepartments">
+			<strong>Departments</strong>
+
+			<ul class="footerDepartmentsList">
+			
+				<li>
+                    <a href="/pages/shop/department/psycho-social">
+                    Psychosocial
+				    </a>
+				</li>
+			
+				<li>
+                    <a href="/pages/shop/department/democratic-republic-of-congo">
+                    Democratic Republic of Congo
+				    </a>
+				</li>
+			
+				<li>
+                    <a href="/pages/shop/department/reintegration">
+                    Reintegration
+				    </a>
+				</li>
+			
+				<li>
+                    <a href="/pages/shop/department/africa">
+                    Africa
+				    </a>
+				</li>
+			
+			</ul>
+		</div>
+         
+        
+			<a href="#" onclick="return addItemToBasket('what-the-girls-say-improving-practices-for-the-demobilisation-and-reintegration-of-girls-associated', '6LdTro0UAAAAAGeif0XCJ6-XT4hER5N3RQpS9Z2u', 1, this);" class="button addToBasket" role="button">Add to basket</a>                                        
+										
+			<strong class="alert productLiveOut hidden" role="status" aria-hidden="true">No more items to add</strong>
+            <strong class="alert hidden" id="liveOutOfStockwhat-the-girls-say-improving-practices-for-the-demobilisation-and-reintegration-of-girls-associated" role="status" aria-hidden="true">No more items to add</strong>
+										
+         
+        <a href="/checkout" class="button goToCheckout" role="button">Checkout</a>
+		<span class="oneUp hidden">Added</span>
+	</div>
+</footer>
+        </li>
+    
+            
+    </ul>
+</section>
+
+                    
+            
+    </div>
+</section>
+
+    </section>
+
+    
+
+    </form>
+
+    <footer id="pageFooterWrapper" class="pageFooterWrapper">
+        <div class="pageFooter">
+            
+
+<aside class="footerTwitter" role="complementary">
+    <h2>Latest tweet</h2>
+    <ul>
+        
+    </ul>
+</aside>
+
+            
+                    <section class="footerBox footerBox1 Tweets">
+                        <a class="twitter-timeline" href="https://twitter.com/ChildSoldiersIn" data-widget-id="710436673373540353">Tweets by @ChildSoldiersIn</a>
+<script>// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+                    </section>
+                
+                    <section class="footerBox footerBox2 Links&NewsletterSign-up-footerbox2">
+                        <br /><a href="/work-for-us">Jobs</a> <br /><a href="/terms-and-conditions">Terms and conditions<br /></a><a href="https://www.child-soldiers.org/data-protection">Data protection</a><br /><a href="/annual-accounts">Annual accounts</a><br /><a href="/research-policy">Research policy</a><br /><a href="/environmental-policy">Environmental policy</a><br /><a href="/complaints">Complaints policy<br /></a><a href="https://www.child-soldiers.org/child-protection-policy-code-of-conduct">Child protection policy</a><br />
+<h2><br />Sign up for our email updates and newsletters</h2>
+<p><span class="mceNonEditable"><section class="featureForm Newsletter Sign upsForm signedIn"></section><section class="featureForm Newsletter Sign upsForm">
+										<div id="newsletterFieldsab51f2b5-7810-45d4-a2cc-c15adbe79286">
+											
+
+											<div class="formQuestion firstName">
+											<label class="" for="newsletterfirstName">First name</label> 
+											<input type="text" title="first name" required=""  id="newsletterfirstNameab51f2b5-7810-45d4-a2cc-c15adbe79286" tabindex="">
+										</div>
+
+										<div class="formQuestion lastName">
+											<label class="" for="newsletterlastName">Last name</label> 
+											<input type="text" title="last name" required=""  id="newsletterlastNameab51f2b5-7810-45d4-a2cc-c15adbe79286" tabindex="">
+										</div>
+
+										<div class="formQuestion email">
+											<label class="" for="newsletteremail">Email</label> 
+											<input type="text" title="email" required=""  id="newsletteremailab51f2b5-7810-45d4-a2cc-c15adbe79286" tabindex="">
+										</div>
+
+											<input type="hidden" id="newslettergroupidab51f2b5-7810-45d4-a2cc-c15adbe79286" value="739fdbd2-a5b5-4066-9294-75113dfced11" /> 
+                                            <div class="honeybee-container">
+                                                <input type="text" id="honeybeeritn" name="honeybeeritn" value="e693ec21" />
+                                                <input type="text" id ="honeybeeritn2" name ="honeybeeritn2" value ="e693ec21" />
+                                            </div>
+                                            <style> .honeybee-container { display:none; } </style>
+
+                                            <button class="groupSignUpBtn" type="button" tabindex="" onclick="return newsletterSignUp('ab51f2b5-7810-45d4-a2cc-c15adbe79286');">Send</button>
+										</div>
+
+										<div id='newsletterSuccessab51f2b5-7810-45d4-a2cc-c15adbe79286' class='newsletterSuccess hidden'></div>
+									</section></strong></span><br /><br />For more information on how your data is stored and used please see our <a href="https://www.child-soldiers.org/data-protection" target="_blank" rel="noopener noreferrer">privacy policy</a><br /><br /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&copy; <span style="font-size: 10pt;">Copyright 2016 Child Soldiers International All rights reserved</span></p>
+                    </section>
+                
+                    <section class="footerBox footerBox3 Contact&info-footerbox3">
+                        <h2>Contact</h2>
+<p><a href="/cdn-cgi/l/email-protection#4a23242c250a292223262e673925262e232f38396425382d6a">mailto:<span class="__cf_email__" data-cfemail="fd94939b92bd9e95949199d08e92919994988f8ed3928f9a">[email&#160;protected]</span></a><br />T: +44 (0) 20 7324 4690<br />F: +44 (0) 20 7324 4656&nbsp;<br />Child Soldiers International<br />The Grayston Centre<br />Ground Floor<br />28 Charles Square<br />London&nbsp;UK <br />N1 6HT&nbsp;<br /><br />Registered Charity No. 1095237<br />Registered Company No. 04458380<br />US tax status: Foreign public charity s509(a)(1) and s170(b)(1)(A)(vi)<br /><br />Child Soldiers International is an accredited NGO with <a href="https://www.un.org/ecosoc/en/" target="_blank" rel="noopener noreferrer">ECOSOC</a> consultative status&nbsp;<br /><br /><br /><img width="189" height="173" title="" class="mediaImage" alt="" src="/GetImage.aspx?IDMF=ec167228-ec29-4a7a-88c9-fd64ff9f2743&amp;w=867&amp;h=791&amp;src=mc" /><br /><br /><img width="219" height="186" title="" class="mediaImage" alt="" src="/GetImage.aspx?IDMF=ec85e0fe-b595-4b4b-81fc-2641b8fecd93&amp;w=210&amp;h=178&amp;src=mc" /><br /><br /><img title="" class="mediaImage" alt="" src="/GetImage.aspx?IDMF=7578c2e8-a681-4f91-b07a-ebf5994ee313&amp;w=269&amp;h=115&amp;src=mc" /></p>
+                    </section>
+                
+        </div>
+    </footer>
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/clients/childsoldiers/scripts/main.min.js"></script>
+    
+    
+
+    
+
+    
+
+    
+</body>
+</html>

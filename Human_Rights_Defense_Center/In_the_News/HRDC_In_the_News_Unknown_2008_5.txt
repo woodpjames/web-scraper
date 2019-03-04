@@ -1,0 +1,208 @@
+PLN associate editor Alex Friedmann's opposition campaign against judicial nomination for CCA lawyer Gus Puryear
+2008
+PLN associate editor Alex Friedmann's opposition campaign against judicial nomination for CCA lawyer Gus Puryear
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN associate editor Alex Friedmann's opposition campaign against judicial nomination for CCA lawyer Gus Puryear
+
+      Newsweek, Jan. 1, 2008.
+      
+        http://www.newsweek.com/id/114349
+
+PLN associate editor Alex Friedmann's opposition campaign against judicial nomination for CCA lawyer Gus Puryear -  Newsweek 2008Ex-inmate crusades against judge nomineeNewsweekFormer inmate campaigns against prison company executive's nomination to federal benchAPUpdated: 7:34 AM ET Feb 21, 2008A private prison company executive nominated to become a federal judge has run into a determined opponent - a former inmate.President Bush in June nominated Gustavus A. Puryear IV, chief lawyer with Corrections Corporation of America, to become a U.S. district judge in Nashville.That led Alex Friedmann, who spent six years at the company's prison in Clifton, Tenn., to investigate Puryear's qualifications. He looked up every case where Puryear was listed on the docket as counsel.The prisoner-turned-inmate advocate found only five instances where Puryear was the attorney of record. By his count and Puryear's, the judicial nominee has been involved in only two federal court trials during his career.That's just one more case than Friedmann himself has handled in federal court.Convinced that the well-connected Puryear was unqualified to be a federal judge and might face a conflict of interest overseeing litigation involving his former employer, Friedmann began a public relations campaign against the nomination that led all the way to the Senate.He formed the group Tennesseans Against Puryear and enlisted the help of the liberal Washington-based Alliance for Justice and the American Federation of State, County and Municipal Employees, both of which sent letters opposing the appointment.Puryear, a 1993 graduate of the University of North Carolina law school, didn't respond to several phone and e-mail requests left at his home and office for an interview with The Associated Press.At a Feb. 12 hearing of the Judiciary Committee, Sen. Diane Feinstein, D-Calif., questioned Puryear about several issues originally raised by Friedmann and the nonprofit Private Corrections Institute, a group opposing private prisons that Friedmann helps run.Puryear told the Senate committee he already was selling off his stock in the company, according to reports in The Tennessean newspaper. He owned CCA shares valued at just under $1.3 million as of Feb. 1, according to Lionshares.com, an online database of stock ownership. He also pledged to recuse himself from cases involving CCA even after he no longer holds a financial interest.The committee also questioned Puryear about whether the volume of lawsuits against Nashville-based CCA _ the nation's largest for-profit private prison company _ would burden other judges who would have to hear the cases when Puryear recused himself. Puryear said it would not be a significant burden.Friedmann's campaign against Puryear continues. He plans to send a letter to the Committee on the Judiciary pointing out what he contends are inaccuracies in Puryear's answers.The two men have never met. Although Friedmann learned of the nomination because he keeps tabs on CCA, he insists his crusade is based on Puryear's lack of qualification and not because he's a CCA executive.Friedmann sued CCA and several employees in 1996 while incarcerated for six years for armed robbery. Serving as his own lawyer, Friedmann eventually won a $6,000 judgment against a former prison unit manager for a civil rights violation.Puryear's legal resume includes significant political work _ serving as counsel to former Senate Majority Leader Bill Frist and junior counsel during the U.S. Senate Governmental Affairs Committee investigation of campaign finance abuse led by former Sen. Fred Thompson. He also was a debate adviser for Dick Cheney in 2000.Stefanie Lindquist, an associate professor of political science and law at Vanderbilt University, said courtroom experience is good but not essential for federal judge nominees.She sees more significance in the American Bar Association rating of Puryear as "qualified," instead of "well qualified" to be a judge. "A `qualified' rating is relatively weak. That's going to hurt him," Lindquist said.Lindquist said Friedmann's efforts are unusual for even temporarily disrupting what should be a routine confirmation. There are about 180 Bush nominations pending as the administration and Democratic-controlled Senate tangle over some sharply contested nominees.Of the Puryear nomination, Lindquist said: "If there are other, more controversial nominees, this might slide through as a compromise."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

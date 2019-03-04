@@ -1,0 +1,208 @@
+PLN editor Paul Wright included in list of Vermont "freedom fighters"
+2008
+PLN editor Paul Wright included in list of Vermont "freedom fighters"
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN editor Paul Wright included in list of Vermont "freedom fighters"
+
+      Seven Days, July 2, 2008.
+      
+        http://www.7dvt.com/2008good-fight-vermonters-i...
+
+PLN editor Paul Wright included in list of Vermont "freedom fighters" - Seven Days 2008The Good FightFor some rabble-rousing Vermonters, every day is Independence DayBy Brian Wallstin, Ken Picard, Kirk Kardashian, Mike Ives and Shay Totten [07.02.08]Vermont is a small, out-of-the-way place, and if recent discussions about its future are any indication, its residents often wonder if their way of life is compatible with the rest of the country’s. No other state proudly trumpets the fact that a sitting president refuses to visit; none has argued so passionately for secession — a movement that surely embodies collective concern about whether the United States of America can live up to its good name.Every generation over the course of our history has witnessed assaults on the civil liberties that lie at the heart of American democracy. And the generation that has lived through eight years of George W. Bush has good reason to conclude the country will never be the same. If there’s any comfort to be had, though, it’s in knowing there are people actively engaged in the struggle to preserve those liberties on behalf of all of us.In Vermont, you don’t have to dig very deep into the news to find people who believe “a more perfect union” is worth fighting for. The locals featured here demonstrate personal commitments to the rights and principles set out in the United States Constitution — a document that, for better or worse, has outlived those who sought to weaken it....Paul WrightPaul Wright champions the cause of those who have already surrendered most of their rights: the 2.3 million Americans who are incarcerated in the United States. In fact, many people would say that Wright himself doesn’t deserve many of the freedoms afforded to other Americans.In 1987, Wright was sentenced to 25 years in prison for killing a cocaine dealer in a botched robbery attempt. A short time into his term, he found his calling as a prisoners’ rights activist, legal expert and editor of Prison Legal News, a publication devoted to exposing abuse, neglect, violence and malfeasance in the American penal system. Wright has published more than 200 issues of PLN, which can be found in nearly every state and federal prison in the country.Assuming wardens allow it in, that is. They often don’t, despite well-established constitutional law that says they must. As a result, Wright, who lives in Brattleboro, has sued sheriff’s departments, wardens, corrections officials and even the federal government to ensure that inmates have the right to subscribe to his publication. In February, for instance, Wright won an injunction against the Fulton County Jail in Atlanta, Georgia, which had banned all publications, including PLN, because the sheriff didn’t like the Atlanta Journal-Constitution’s coverage of the jail.“[The sheriff’s] response was, ‘I don’t want to appear as though I’m singling them out, so I’m going to ban everything,’” Wright recalls. “Unfortunately, the Journal-Constitution didn’t sue him, so we did.”Wright, who’s written and edited several books on the U.S. correctional system, doesn’t hold out much hope for reforming a system that most Americans would just as soon ignore.“We win the occasional battle, but overall, we’re losing the war,” he says. “In over 20 years as a prisoners’ rights activist, I can’t say that we’ve made a lot of progress.”...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

@@ -1,0 +1,208 @@
+PLN's suit over ban of article on white supremecist guards in WA DOC
+2000
+PLN's suit over ban of article on white supremecist guards in WA DOC
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN's suit over ban of article on white supremecist guards in WA DOC
+
+      The Progressive, Jan. 1, 2000.
+      
+        http://findarticles.com/p/articles/mi_m1295/is_...
+
+PLN's suit over ban of article on white supremecist guards in WA DOC - The Progressive 2000The ProgressiveFebruary 1, 2000Prisons Gag Journalists.Journalists in Washington State can't reach people behind bars. Last spring, the Department of Corrections (DOC) objected to an investigative story entitled "White Guard, Black Guard" by Jennifer Vogel, which ran in the March 11 issue of the Seattle Weekly and the May issue of Prison Legal News. The article alleged that the Washington prison system employs white supremacists, including Nazis and members of the Ku Klux Klan, and that these employees subject minority prisoners and staff to harassment and threats.The Seattle Weekly and Prison Legal News issues containing the story were censored in all Washington prisons "on the orders of Eldon Vail, the deputy assistant director of the Washington DOC," according to Prison Legal News.In August, Prison Legal News, Vogel, and the Seattle Weekly sued the state of Washington. In late December, a federal judge dismissed the suit. But the plaintiffs may appeal the ruling.For more information, contact Prison Legal News, 2400 NW 80th Street, PMB 148, Seattle, WA 98117, or check out the web site at www.prisonlegalnews.org. Or contact the Seattle Weekly at (206) 623-0500, or check out the paper's web site at www.seattleweekly.com. Or contact author Jennifer Vogel at (206) 323-7101.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

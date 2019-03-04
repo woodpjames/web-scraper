@@ -1,0 +1,208 @@
+PLN associate editor's letter to editor re private prison bill in TN
+2006
+PLN associate editor's letter to editor re private prison bill in TN
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN associate editor's letter to editor re private prison bill in TN
+
+      Nashville City Paper, Jan. 1, 2006.
+      
+        www.nashvillecitypaper.com/index.cfm?section
+
+PLN associate editor's letter to editor re private prison bill in TN - Nashville City Paper 2006Published in the Nashville City PaperMarch 10, 2006To the Editor:If I understand correctly, the General Assembly is voting on a bill that would make things more "efficient" for Nashville-based Corrections Corporation of America (CCA) by eliminating the Select Oversight Committee on Corrections performance review of the company's privately-managed prisons ("CCA bill moving through Senate," March 8, p. 14).How can our elected representatives seriously consider ethics reform on one hand while passing special-interest legislation like this with the other? Isn't CCA the company that runs the Metro Detention Facility where a female prisoner, Estelle Richardson, was beaten to death by four CCA guards who have since been indicted? Isn't this the company that operates South Central Correctional Facility in Wayne County, where there was a quadruple escape? Doesn't CCA refuse to comply with open records laws even though it operates public prisons and jails?This bill would remove the legislative performance review, which includes evaluation of management, security and safety issues at CCA-operated prisons. It's likely a coincidence that CCA employs a number of former Tennessee state officials, has donated generously to the election campaigns of state lawmakers, and was formerly represented by a lobbyist married to House Speaker Jimmy Naifeh.This is blatant political pandering to a private for-profit corporation at the expense of public oversight and accountability. Don't like it? Contact your state senator now, as the bill, S.B. 1283, will be considered by the Senate soon.37013Alex Friedmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

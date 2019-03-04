@@ -1,0 +1,207 @@
+"For Prison Editor, Freedom of the Press Could Prove Costly"
+1991
+"For Prison Editor, Freedom of the Press Could Prove Costly"
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+"For Prison Editor, Freedom of the Press Could Prove Costly"
+
+      Seattle Times, Jan. 1, 1991.
+      
+      
+"For Prison Editor, Freedom of the Press Could Prove Costly" - Seattle Times 1991March 15, 1991, Friday, Final EditionSeattle TimesFOR PRISON EDITOR, FREEDOM OF THE PRESS COULD PROVE COSTLYBY RICK ANDERSONHere in the newspaper factory, the punishment for a writer of things disagreeable usually consists of angry phone callers and letter scribblers threatening to cancel their subscriptions.I can live with this since it is my policy - when anyone writes to tell me they've stopped reading the paper - to immediately stop reading their letter.For Paul Wright, however, the penalty for what he wrote as co-editor of his newspaper is a little more troublesome than bad mail.After Wright, an inmate at Clallam Bay Correctional Center, wrote an article in a prison paper about alleged guard brutality last month, he says he was ordered to serve 20 days in the hole. Additionally, he says he faced losing 30 days in good time off his sentence. And prison officials, calling the brutality story "lies," gave prison readers two options: a paper with the disputed portions excised or no paper at all - canceling everyone's subscription. Inmates chose the expurgated version."As you can see," said inmate Ed Mead, Wright's co-editor, "being a prison editor carries with it certain risks."A prison spokeswoman yesterday said Wright may have, at least for now, circumvented spending time in the hole by making a deft administrative move."When the prison received a draft of the article," said Paula Norris, "Mr. Wright was infracted (charged with violating prison rules). He later agreed to remove the false statements. No sanctions were then imposed."But when the widely distributed (by mail) Prisoners' Legal News showed up on the prison's doorstep, the disputed portions were still intact. That's when officials took out their scissors.Except, Norris said, since there'd already been an action taken - and dropped - on the issue, the 20-day isolation could not be imposed.Inmate sources, however, say they think Wright still faces time in the hole. "They can make up a new charge as soon as you guys (the press) lose interest," said one inmate. The action also had - as officials likely intended - a chilling factor on what inmates can say about life in Washington's penal institutions. Or as A.J. Liebling used to say, freedom of the press belongs to those who own one.There may not be much public sympathy in this for Wright, a convicted murderer. He and two others were found guilty of killing a Federal Way man in 1987 following a botched drug-related robbery. An ex-Army MP, the contrite Wright called the slaying "a tragic mistake." He received 25 years.The question here, however, has to do with the claim of guard brutality at Clallam Bay and Wright's freedom to report what he thinks he saw. The story appeared on Page 8 of the February PLN, recounting a Dec. 17, 1990, inmate fight and its aftermath."Eventually," Wright wrote, "guards carted the participants of that fight off to the hole."At about 7:10 that evening, Aaron Fast, a black prisoner, was called to the F Unit duty office,' where, Wright says, there were eight officers present."F Unit prisoners, locked in our pods, watched in horror as Aaron was browbeat into a corner . . . and within seconds all 8 prison guards were on top of Aaron and he was hidden from view."Wright says Fast was later handcuffed and dragged from the office, face visibly bruised, screaming he was injured.Wrote Wright: "Just like all the other cases of prisoners beaten by guards that I have witnessed here at CBCC, Aaron (who had not been involved in the earlier fight) has the misfortune of being small in size and young. As usual, it was an all-white gang of prison guards that brutalized him."Complaints to prison officials about past beatings have resulted in no action being taken, and the abuses continue."Prison spokeswoman Norris said she did not have specific details of the Dec. 17 incident. "But Wright's account of it is false," she said. Nonetheless, inmate complaints about the alleged abuse have been sent to state and federal officials. And co-editor Mead, longtime prison activist, says he stands by Wright's version."We have affidavits from about 10 per cent of the CBCC population and some staff members regarding the full accuracy of the facts reported," said Mead, a Monroe Reformatory inmate and former member of the revolutionary George Jackson Brigade, adding: "Litigation over the issue is in the process of being drafted."And as for those of you who didn't like this column, try to remember I've already done 10 to 20 in this joint. Not cruel, perhaps. But unusual.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

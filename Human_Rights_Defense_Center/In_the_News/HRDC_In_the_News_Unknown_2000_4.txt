@@ -1,0 +1,207 @@
+PLN mentioned in lawsuit against WA prison phone rates
+2000
+PLN mentioned in lawsuit against WA prison phone rates
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+PLN mentioned in lawsuit against WA prison phone rates
+
+      Everett Herald, Jan. 1, 2000.
+      
+      
+PLN mentioned in lawsuit against WA prison phone rates - Everett Herald 2000Published: Tuesday, August 1, 2000Rate disclosure on collect calls sparks probe, lawsuit By WARREN CORNWALL Herald Writer The handling of collect calls from some prisoners violates consumer protection rules, and the state is investigating whether prison phone systems suffer more widespread flaws, a state official says.Inmates can only phone outside the prison with a collect call. Families in recent months have begun raising complaints about the costs of the calls.A message that accompanied recent collect calls from two prisons broke state regulations by leaving the recipient in the dark about how much the phone calls might cost, said Vicki Elliottc, assistant director for Consumer Affairs at the Utilities and Transportation Commission."What is missing is they must give you an opportunity, with one or two key strokes, to get access to the rates," Elliott said after being read the text of messages that preceded calls to The Herald from two inmates.Elliott is part of a team investigating whether Washington pay phones, including ones in prison, comply with consumer protection laws. The commission is the chief state phone regulator.Preliminary findings, she said, suggest the prison collect call system warrants a closer look. Elliott had not heard the messages before."I guess what it tells us is there's a problem out there that we need to address," she said.Though it sounds like a technicality, there may be a lot at stake for phone companies.A prisoner's family recently filed a class action lawsuit against phone companies, alleging their handling of collect calls broke a consumer protection law. And the utilities commission this year slapped a phone company with a record $1 million fine partly because of similar problems."If the utilities commission can investigate and do something about it, so much the better," said Chris Youtz, the attorney representing relatives of Paul Wright, a long-time prisoner activist and inmate at the McNeil Island Corrections Center.The lawsuit, Youtz said, seeks refunds and damages that could amount to millions of dollars -- covering collect calls between 1996 and 1999 made by prisoners that numbered as high as 14,000.The lawsuit revolves partly around the same regulations being reviewed by the state commission. Those require that a person getting a collect call have a chance to learn what the charge rate is before accepting the call.Generally that's done with a recording telling people to press a number on their phone if they want to hear prices. The two messages accompanying prisoner calls, one through US West (now Qwest) and another through GTE, didn't offer that.The option can help people ration costly collect calls, Elliott said."Even if they would accept this call because they need to hear or talk with that person, it would give them an opportunity to limit the time they talk based on cost," she said.Michael Dunne, a spokesman for Qwest, which is a target of the lawsuit, said the recordings before prison calls are done in response to the prison's needs."It's produced to their specifications," he said.He declined to comment further, citing the pending litigation.Melissa Barran, a spokeswoman for Verizon, which now includes GTE, also declined comment.Other phone companies named in the lawsuit are AT&T, CenturyTel and T-Netix.Department of Corrections spokesman Veltry Johnson said the recordings were in the hands of the phone companies."We don't own the system," he said.The investigation is still in a preliminary phase, state officials stressed. In addition to disclosure regulations, the commission is looking at whether phone rates for calls from prison are higher than from elsewhere.Commission Chairwoman Marilyn Showalter said the commission could direct staff to conduct further investigations, depending on what the early study turns up. She declined to comment on whether the collect call recordings violated state regulations.In April, the commission fined USLD Communications $1 million after investigators reported the company overcharged Washington pay phone users and didn't give people a chance to learn collect call rates, state documents say.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

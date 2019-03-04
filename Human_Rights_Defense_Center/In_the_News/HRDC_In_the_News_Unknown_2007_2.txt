@@ -1,0 +1,208 @@
+Editorial re PLN Editor Paul Wright's receipt of James Madison Award
+2007
+Editorial re PLN Editor Paul Wright's receipt of James Madison Award
+       | Human Rights Defense Center
+    
+
+
+
+
+
+Skip navigation
+
+
+
+ 
+   Human Rights Defense Center
+
+ Dedicated to Protecting Human Rights
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Human Rights Defense Center
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Annual Reports
+
+
+Board of Directors
+
+
+Staff
+
+
+Funders
+
+
+William Trine Law Fellowship
+
+
+
+HRDC in Action
+
+
+Litigation
+
+
+Advocacy
+
+
+Publishing
+
+
+Speakers Bureau
+
+
+Media Requests
+
+
+In the News
+
+
+HRDC Sign-on Letters
+
+
+Media Gallery
+
+
+
+HRDC Library
+
+
+Get Involved
+
+
+Email List
+
+
+Employment
+
+
+Contact us
+
+
+
+Donate
+
+
+ 
+
+
+Editorial re PLN Editor Paul Wright's receipt of James Madison Award
+
+      Seattle Times, Jan. 1, 2007.
+      
+        http://seattletimes.nwsource.com/html/editorial...
+
+Editorial re PLN Editor Paul Wright's receipt of James Madison Award - Seattle Times 2007Friday, September 21, 2007 - 12:00 AMEditorialLet the sun shineThere is much to celebrate this morning at the Washington Coalition for Open Government annual awards breakfast.After years of legislative propensity to create new hiding places for public information and a couple of unfriendly court rulings, things finally are starting to brighten for advocates of sunshine in government. For starters, a new state Sunshine Committee has begun meeting to scrutinize the validity of exemptions to the state open-records law. And some high-profile lawsuits recently settled with government agencies paying for their wrongdoing.Among the latter was a suit by Paul Wright, winner of the coalition's James Madison Award, given for dedication to the cause of open government. In June, Wright, Prison Legal News editor and a former Washington prison inmate, won a landmark public-records case when the state Department of Corrections agreed to pay $541,000 in fees and penalties to settle a lawsuit. The agency improperly redacted information on documents he requested relating to a story about prison medical errors and discipline against medical providers.Frank Garred, retired publisher of the Leader, Port Townsend's newspaper, is the first-ever recipient of the coalition's James Andersen Award, named for the former Washington State Supreme Court justice. It is awarded to an individual who advances the coalition's mission. Garred helped cofound the coalition in 2002 and was its first unpaid executive director.Additionally, the coalition will honor six others with Key Awards for their efforts to promote open and honest government. They include state House Majority Leader Lynn Kessler, D-Hoquiam, and state Attorney General Rob McKenna, who had a hand in one of the brightest spots in the tension between government secret-keepers and public-disclosure advocates. McKenna proposed and Kessler championed legislation earlier this year that created the new "Sunshine Committee."The panel is charged with evaluating Washington's nearly 300 exemptions loaded onto the public-records law, which started out with only 10.Citizens benefit from government conducted transparently, and we all should be grateful for the efforts of these people to make sure it is.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Home
+Criminal Legal News
+Prison Legal News
+Campaign for Prison Phone Justice
+Stop Prison Profiteering
+
+
+Contact Us
+About HRDC
+Terms and Conditions
+Private Prison News
+Wrongly Convicted
+
+
+Subscribe to PLN
+Subscribe to CLN
+PLN Book Store
+Donate to HRDC
+Prison Ecology Project
+
+© Human Rights Defense Center, All Rights Reserved
+ 
+Photos on the home page slideshow are paid content from Dreamstime, plus one photo from Reuters used with permission.
+ 
+ 
+
+
+
+
+
+
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60320319-1', 'auto');
+      ga('send', 'pageview');
+    
+
+
+
+			var _paq = _paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//www.prisonlegalnews.org/matomo/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})(); 

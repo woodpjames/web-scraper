@@ -1,0 +1,4 @@
+Linky, a communicating meter that tells a lot on our privacy
+2 May 2016
+This post is also available in: 
+    Français (French) 19 April 2016 – In 2012, in order to implement a European directive on end-use efficiency and energy services, France decided to replace all electricity meters by new meters called “Linky”, which are able to communicate information directly to an EDF plant without any intervention of its staff. LDH criticises the invasion of privacy caused by the gathering of many data on users by Linky. Read more, only in [FR].   
