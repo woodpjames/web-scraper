@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<meta property="og:title" content="" />
+		<link rel="icon" href="http://undg.org/wp-content/themes/undg/img/favicon.ico">
+
+		<title>UNDG | Delivering Together For Development</title>
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="js/html5shiv.min.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+		<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/undg.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='style-maintenance-css'  href='http://undg.org/wp-content/plugins/wp-ultimate-csv-importer/assets/css/style-maintenance.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://undg.org/wp-content/plugins/wp-fancybox/dist/jquery.fancybox.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://undg.org/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='banner-list-block-css'  href='http://undg.org/wp-content/plugins/custom-banners/blocks/banner-list/style.css?ver=1551257423' type='text/css' media='all' />
+<link rel='stylesheet' id='rotating-banner-block-css'  href='http://undg.org/wp-content/plugins/custom-banners/blocks/rotating-banner/style.css?ver=1551257423' type='text/css' media='all' />
+<link rel='stylesheet' id='single-banner-block-css'  href='http://undg.org/wp-content/plugins/custom-banners/blocks/single-banner/style.css?ver=1551257423' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://undg.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-banners-css-css'  href='http://undg.org/wp-content/plugins/custom-banners/assets/css/wp-banners.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://undg.org/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.95' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://undg.org/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://undg.org/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-postratings-css'  href='http://undg.org/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.86.2' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='http://undg.org/wp-content/themes/undg/css/select2.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thems-css'  href='http://undg.org/wp-content/themes/undg/css/style.css?ver=2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='all-ie-only-css'  href='http://undg.org/wp-content/themes/undg/css/all-ie-only.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='selectbox-css'  href='http://undg.org/wp-content/themes/undg/css/jquery.selectBoxIt.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='test-css'  href='http://undg.org/wp-content/themes/undg/css/test.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bx-slider-css'  href='http://undg.org/wp-content/themes/undg/css/jquery.bxslider.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='http://undg.org/wp-content/themes/undg/css/owl.carousel.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='http://undg.org/wp-content/plugins/youtube-channel-gallery/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='http://undg.org/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lazyloadxt-fadein-css-css'  href='//undg.org/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.fadein.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='a3a3_lazy_load-css'  href='//undg.org/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1510837850' type='text/css' media='all' />
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/wp-fancybox/dist/jquery.fancybox.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/wp-a11y.min.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/undg.org\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/undg.org\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/undg.org\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"1","is_ssl":"","google_maps_api":"AIzaSyAOkZRrzxixhCSyJ-Dbr1dWoyN277nXjnU","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/undg.org\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.95'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1'></script>
+<link rel='https://api.w.org/' href='https://undg.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://undg.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://undg.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<style type="text/css" media="screen"></style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//undg.org/?wordfence_lh=1&hid=CD0EE9B416E50BF0117B16FFAE19290C');
+</script><link rel="icon" href="https://undg.org/wp-content/uploads/2017/01/cropped-fevicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://undg.org/wp-content/uploads/2017/01/cropped-fevicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://undg.org/wp-content/uploads/2017/01/cropped-fevicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://undg.org/wp-content/uploads/2017/01/cropped-fevicon-270x270.png" />
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRMXpIvVtYUGaQl8usAA-_LfKpPabNca0"></script>
+		<!--<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>-->
+		<!--<script type="text/javascript" src="/addons/bootstrap/jquery.smartmenus.js"></script>-->
+
+		<!-- SmartMenus jQuery Bootstrap Addon -->
+		<!--<script type="text/javascript" src="/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>-->
+		<!--<link href="/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">-->
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-26888843-2', 'auto');
+			ga('send', 'pageview');
+		</script>
+        <script type="text/javascript">window.newShareCountsAuto="smart";</script>
+
+    
+	<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-KD5DR5H');</script>
+	<!-- End Google Tag Manager -->
+
+	</head>
+	<body>
+
+		<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KD5DR5H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		<!-- Fixed navbar -->
+		<header class="header-wrap">
+			<nav id="mainTopNav" class="navbar navbar-default navbar-fixed-top">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="https://undg.org"><img id="undg_logo" src="https://undg.org/wp-content/uploads/2019/02/UNSDG-Logo-small.png" alt="UNSDG" /></a>
+
+					</div>
+					<div class="navbar-form navbar-right">
+						<div class="form-group">
+							<form action="https://undg.org/" id="search-form" role="search" method="get">
+
+	<input type="text" class="form-control" placeholder="Search"  name="s">
+	<button type="submit" class="btn btn-default"  id="search-submit"></button>
+	<!-- /input-group -->
+</form><!-- .searchform -->
+						</div>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<div class="menu-header-menu-container"><ul id="menu-header-menu" class="nav navbar-nav "><li id="menu-item-2638" class="sky-blue menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2638 dropdown"><a href="https://undg.org/about/">ABOUT</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19 "><a href="https://undg.org/about/undg-global/">UNSDG at the Global Level</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18 "><a href="https://undg.org/about/undg-regional/">UNSDG at the Regional Level</a></li>
+	<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-684 "><a href="https://undg.org/about/un-country-level/">UN at the Country Level</a></li>
+	<li id="menu-item-10726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10726 "><a target="_blank" href="https://reform.un.org/content/development-reform">UN Development Reform</a></li>
+</ul>
+</li>
+<li id="menu-item-2641" class="green menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2641 dropdown"><a href="https://undg.org/programme/">PROGRAMMING</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-1708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1708 "><a href="https://undg.org/programme/country-stories-2/">Blogs &#038; Country Stories</a></li>
+	<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690 "><a href="https://undg.org/programme/undg-guidance-on-programing/">UNSDG Guidance and Policies on Programme</a></li>
+	<li id="menu-item-6357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6357 "><a href="https://undg.org/programme/2030-agenda-section/">Mainstreaming 2030 Agenda</a></li>
+	<li id="menu-item-7103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7103 "><a href="https://undg.org/programme/undaf-guidance/">UNDAF Guidance</a></li>
+	<li id="menu-item-6825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6825 "><a href="https://undg.org/programme/undaf-companion-guidances/">UNDAF Companion Guidances</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-49 "><a href="https://undg.org/programme/un-joint-innovations/">Innovations</a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51 "><a href="https://undg.org/programme/other-resources-on-programme/">Other stuff we like on Programme</a></li>
+	<li id="menu-item-2952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2952 "><a href="https://undg.org/programme/facts-on-programming/">Facts on Programming</a></li>
+</ul>
+</li>
+<li id="menu-item-2122" class="blue menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2122 dropdown"><a href="https://undg.org/financing/">FINANCING</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77 "><a href="https://undg.org/financing/country-stories-on-financing/">Blogs &#038; Country Stories on Financing</a></li>
+	<li id="menu-item-4225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4225 "><a href="https://undg.org/financing/undg-guidance-notes-and-policy-on-financing/">UNSDG Guidance and Policies on Financing</a></li>
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75 "><a href="https://undg.org/financing/other-resources-on-financing/">Other stuff we like on Financing</a></li>
+	<li id="menu-item-2086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2086 "><a href="https://undg.org/financing/delivering-results-together-fund/">Delivering Results Together Fund</a></li>
+	<li id="menu-item-10731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10731 "><a href="https://undg.org/financing/the-special-purpose-trust-fund/">The Special Purpose Trust Fund</a></li>
+</ul>
+</li>
+<li id="menu-item-2123" class="yellow menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2123 dropdown"><a href="https://undg.org/business-operations/">BUSINESS <br>OPERATIONS</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98 "><a href="https://undg.org/business-operations/country-stories-on-business-operations/">Blogs &#038; Country Stories on Business Operations</a></li>
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97 "><a href="https://undg.org/business-operations/undg-guidance-notes-and-policies-on-business-operations/">UNSDG Guidance Notes and Policies on Business Operations</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96 "><a href="https://undg.org/business-operations/other-resources-on-business-operations/">Other stuff we like on Business Operations</a></li>
+	<li id="menu-item-5282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5282 "><a href="https://undg.org/business-operations/innovating-business-operations/">Innovating on Business Operations</a></li>
+	<li id="menu-item-6113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6113 "><a href="https://undg.org/business-operations/task-team-on-common-premises/">Common Premises</a></li>
+	<li id="menu-item-2955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2955 "><a href="https://undg.org/business-operations/facts-on-business-operations/">Facts on Business Operations</a></li>
+	<li id="menu-item-3854" class="hidden menu-item menu-item-type-post_type menu-item-object-page menu-item-3854 "><a href="https://undg.org/business-operations/videos-on-business-operations/">Videos on Business Operations</a></li>
+</ul>
+</li>
+<li id="menu-item-2124" class="lavender menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2124 dropdown"><a href="https://undg.org/leadership/">LEADERSHIP</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-973 "><a href="https://undg.org/leadership/country-stories-on-leadership/">Blogs &#038; Country Stories</a></li>
+	<li id="menu-item-3689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3689 "><a href="https://undg.org/leadership/guidance-policies-on-leadership/">UNSDG Guidance &#038; Policies on Leadership</a></li>
+	<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-986 "><a href="https://undg.org/leadership/the-un-resident-coordinator/">The UN Resident Coordinator</a></li>
+	<li id="menu-item-9642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9642 "><a href="https://undg.org/leadership/leadership-solutions-for-sustainable-development/">Leadership Solutions for Sustainable Development</a></li>
+	<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121 "><a href="https://undg.org/leadership/arc/">ARC – Resident Coordinator &#038; UN Country Team Performance Appraisal</a></li>
+	<li id="menu-item-985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-985 "><a href="https://undg.org/leadership/un-country-teams/">UN Country Teams</a></li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117 "><a href="https://undg.org/leadership/facts-on-leadership/">Facts on Leadership</a></li>
+</ul>
+</li>
+<li id="menu-item-138" class="magenta menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-138 dropdown"><a href="https://undg.org/communication/">COMMUNICATIONS</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144 "><a href="https://undg.org/communication/undg-guidance-notes-and-policies-on-communications/">Blogs &#038; Country Stories</a></li>
+	<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482 "><a href="https://undg.org/communication/undg-guidance-and-policies-on-communications-and-advocacy/">UNSDG Guidance and Policies on Communications</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142 "><a href="https://undg.org/communication/other-resources-on-communications/">Other stuff we like on Communications and Advocacy</a></li>
+	<li id="menu-item-2958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2958 "><a href="https://undg.org/communication/facts-on-communication/">Facts on communication</a></li>
+	<li id="menu-item-3196" class="hidden menu-item menu-item-type-post_type menu-item-object-page menu-item-3196 "><a href="https://undg.org/communication/videos-on-communication/">Videos on Communication</a></li>
+</ul>
+</li>
+<li id="menu-item-2125" class="light-blue menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2125 dropdown"><a href="https://undg.org/crisis-post-crisis/">CRISIS/POST CRISIS</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965 "><a href="https://undg.org/crisis-post-crisis/country-stories/">Blogs &#038; Country Stories</a></li>
+	<li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-966 "><a href="https://undg.org/crisis-post-crisis/undg-guidance-notes-and-policies-on-crisispost-crisis/">UNSDG Guidance and Policies on Crisis-Post Crisis</a></li>
+	<li id="menu-item-967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-967 "><a href="https://undg.org/crisis-post-crisis/un-world-bank-partnership/">UN-World Bank Partnership</a></li>
+	<li id="menu-item-968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968 "><a href="https://undg.org/crisis-post-crisis/other-resources-on-crisispost-crisis/">Other stuff we like on Crisis-Post Crisis</a></li>
+</ul>
+</li>
+<li id="menu-item-2639" class="purple menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2639 dropdown"><a href="https://undg.org/human-rights/">HUMAN RIGHTS</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182 "><a href="https://undg.org/human-rights/country-stories-on-human-rights/">Blogs &#038; Country Stories on Human Rights</a></li>
+	<li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861 "><a href="https://undg.org/human-rights/undg-guidance-and-policies-on-human-rights/">UNSDG Guidance and Policies on Human Rights</a></li>
+	<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181 "><a href="https://undg.org/human-rights/undg-guidance-note-on-human-rights/">UNDG Guidance Note on Human Rights for Resident Coordinators and UN Country Teams</a></li>
+	<li id="menu-item-7833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7833 "><a href="https://undg.org/human-rights/strengthening-engagement-with-the-international-human-rights-mechanism/">Strengthening Engagement with the International Human Rights Machinery</a></li>
+	<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-180 "><a href="https://undg.org/human-rights/un-common-learning-package-hrba/">UN Common Learning Package on HRBA to UN Country Programming</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176 "><a href="https://undg.org/human-rights/publications/">Publications on Human Rights</a></li>
+	<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178 "><a href="https://undg.org/human-rights/other-resources-on-human-rights/">Other Stuff we Like on Human Rights</a></li>
+</ul>
+</li>
+<li id="menu-item-782" class="orange menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-782 dropdown"><a href="https://undg.org/2030-agenda/">2030 AGENDA</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785 "><a href="https://undg.org/2030-agenda/blogs-country-stories/">Blogs &#038; Country Stories</a></li>
+	<li id="menu-item-806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806 "><a href="https://undg.org/2030-agenda/undg-guidance-and-policies-on-2030-agenda/">UNSDG Guidance and Policies on 2030 Agenda</a></li>
+	<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-805 "><a href="https://undg.org/2030-agenda/mainstreaming-2030-agenda/">Mainstreaming 2030 Agenda</a></li>
+	<li id="menu-item-7680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7680 "><a href="https://undg.org/2030-agenda/sdg-acceleration-toolkit/">Sustainable Development Goals Acceleration Toolkit</a></li>
+	<li id="menu-item-3877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3877 "><a href="https://undg.org/2030-agenda/publications-on-2030-agenda/">Publications on 2030 Agenda</a></li>
+	<li id="menu-item-10727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10727 "><a target="_blank" href="https://sdgactioncampaign.org/">SDG Action Campaign</a></li>
+	<li id="menu-item-10728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10728 "><a target="_blank" href="https://sustainabledevelopment.un.org/">SDGs Knowledge Platform</a></li>
+	<li id="menu-item-10732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10732 "><a href="https://www.un.org/sustainabledevelopment/">Sustainable Development</a></li>
+	<li id="menu-item-10766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10766 "><a href="https://undg.org/2030-agenda/joint-sdg-fund/">JOINT SDG FUND</a></li>
+</ul>
+</li>
+<li id="menu-item-3436" class="hidden menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3436 dropdown"><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/">Standard Operating Procedures for Delivering As One</a><span class="glyphicon glyphicon-plus dropdown-btn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-3975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3975 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/blogs-and-country-stories-on-sop/">Blogs</a></li>
+	<li id="menu-item-3434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3434 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/undg-guidance-and-policies-on-the-standard-operating-procedures/">Guidance and policies</a></li>
+	<li id="menu-item-3488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3488 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/delivering-as-one-countries/">Delivering as One Countries</a></li>
+	<li id="menu-item-3438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3438 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/the-story-behind-the-standard-operating-procedures-for-delivering-as-one/">The story behind the SOPs</a></li>
+	<li id="menu-item-3437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3437 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/headquarters-drivers-of-change-for-delivering-as-one/">Headquarters Drivers</a></li>
+	<li id="menu-item-3455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3455 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/other-resources-standard-operating-procedures/">Other Stuff we like on Standard Operating Procedures</a></li>
+	<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/1510-2/">SOP Map</a></li>
+	<li id="menu-item-3479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3479 "><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/standard-operating-procedures-videos/">Videos on Standard Operating Procedures</a></li>
+</ul>
+</li>
+</ul></div>
+
+					</div><!-- /.navbar-collapse -->
+				</div><!-- /.container-fluid -->
+			</nav>
+		</header>
+
+
+
+<div class="lavender-color-wrap">
+
+	<section class="error-404-undg not-found">
+		<h2>404</h2>
+		<div class='page-not-found'>Oops! That page can&rsquo;t be found.</div>
+	</section><!-- .error-404 -->
+
+</main><!-- .site-main -->
+</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/undg.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/custom-banners/assets/js/jquery.cycle2.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/custom-banners/assets/js/custom-banners.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#fixme","topspace":"124","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"2","legacymode":"1","dynamicmode":"","debugmode":"","pushup":"#row10close","adminbar":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/undg.org\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/undg.org\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars_crystal","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="http://undg.org/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.86.2'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/bootstrap.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/html5shiv.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/ie10-viewport-bug-workaround.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/jquery.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/respond.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/jquery.sticky.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/owl.carousel.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/owlCarousel.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/jquery-1.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/jquery-ui.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/jquery.selectBoxIt.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/script.js?ver=2.2'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/jquery.bxslider.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/highmaps-v-3231626638386336.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/data-v-6336626564653664.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/exporting-v-6534353731373436.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/world-highres-v-6335373730393439.js?ver=1.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/HighmapsMapPanel-v-6461346266636332.js?ver=1.4'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/jquery-migrate-1.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/map/CountriesByStatusMapPage-v-6163306565643739.js?ver=1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/select2.min.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_posts = {"ajaxurl":"https:\/\/undg.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://undg.org/wp-content/themes/undg/js/custom.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//undg.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='//undg.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=1.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"-300"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//undg.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://undg.org/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://undg.org/wp-content/plugins/wp-sticky-anything/assets/js/jquery.sticky.js?ver=1.0'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(){ jQuery("#annual-report-menu").sticky({zIndex:999}); });
+</script>
+
+<footer id="footer-section" class="footer-wrap">
+    <div class="container padding-lr row-eq-height">
+
+
+        <ul class="col-md-3 col-sm-6">
+			<div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="footer-link "><li id="menu-item-185" class="undg-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-185"><a href="https://undg.org/">UNSDG Home</a></li>
+<li id="menu-item-2127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2127"><a href="https://undg.org/about/">About</a></li>
+<li id="menu-item-2128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2128"><a href="https://undg.org/programme/">Programme</a></li>
+<li id="menu-item-2129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2129"><a href="https://undg.org/financing/">Financing</a></li>
+<li id="menu-item-2130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2130"><a href="https://undg.org/business-operations/">Business Operations</a></li>
+<li id="menu-item-4391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4391"><a href="https://undg.org/leadership/">Leadership</a></li>
+<li id="menu-item-4395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4395"><a href="https://undg.org/communication/">COMMUNICATIONS</a></li>
+<li id="menu-item-4231" class="hidden-xs hidden-sm footer-wrap footer-link undg-copyright-text menu-item menu-item-type-custom menu-item-object-custom menu-item-4231"><a href="#">© 2016 UNITED NATIONS DEVELOPMENT GROUP</a></li>
+</ul></div>        </ul>
+
+        <ul class="col-md-3 col-sm-6">
+			<div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="footer-link "><li id="menu-item-2132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2132"><a href="https://undg.org/crisis-post-crisis/">Crisis/Post Crisis</a></li>
+<li id="menu-item-2133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2133"><a href="https://undg.org/human-rights/">Human Rights</a></li>
+<li id="menu-item-3350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3350"><a href="https://undg.org/2030-agenda/">2030 AGENDA</a></li>
+<li id="menu-item-4390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4390"><a href="https://undg.org/standard-operating-procedures-for-delivering-as-one/">Standard Operating Procedures for Delivering As One</a></li>
+<li id="menu-item-4616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4616"><a href="https://undg.org/silofighters/">Silofighters: the UNSDG blog</a></li>
+<li id="menu-item-3209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3209"><a href="https://undg.org/country-stories-listing/?type=country-stories">Country Stories</a></li>
+</ul></div>        </ul>
+
+        <ul class="footer-link col-md-3 col-sm-6">
+			<div class="menu-footer-menu-4-container"><ul id="menu-footer-menu-4" class="footer-link "><li id="menu-item-4982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4982"><a href="https://undg.org/view-all-documents/?document_type=publication">UNSDG Publications</a></li>
+<li id="menu-item-4983" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4983"><a href="https://undg.org/view-all-documents/?document_type=guidance">UNSDG Guidance and Policies</a></li>
+<li id="menu-item-4041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4041"><a href="https://undg.org/view-all-documents/?document_type=stuff-we-like">Other stuff we like</a></li>
+<li id="menu-item-4232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4232"><a href="http://www.youtube.com/user/undgvideos">Videos</a></li>
+<li id="menu-item-4236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4236"><a href="https://undg.org/contact-us/">Contact UNSDG</a></li>
+<li id="menu-item-4680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4680"><a href="https://undg.org/site-map/">Site Map</a></li>
+<li id="menu-item-4958" class="visible-xs visible-sm footer-wrap footer-link undg-copyright-text menu-item menu-item-type-custom menu-item-object-custom menu-item-4958"><a href="#">© 2016 UNITED NATIONS DEVELOPMENT GROUP</a></li>
+</ul></div>			<!--            <li class="undg-copyright-text hidden-xs">
+							© 2016 UNITED NATIONS DEVELOPMENT GROUP
+						</li>-->
+        </ul>
+        <ul class="social-links col-md-3 col-sm-6">
+            <li class="heading-li">Follow us</li>
+            <!-- Widget Shortcode --><div id="text-3" class="widget widget_text widget-shortcode area-sidebar-footer">			<div class="textwidget"><li><a href="https://twitter.com/UN_SDG" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.youtube.com/channel/UCDz1rsVnw0fODyc2WJYEvHw" target="_blank"><i class="fa fa-youtube"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/united-nations----un-development-group?trk=nav_account_sub_nav_company_admin" target="_blank"><i class="fa fa-linkedin"></i></a></li></div>
+		</div><!-- /Widget Shortcode -->        </ul>
+
+    </div>
+</footer>
+
+<div class="copyright-section container">
+	<!--© 2016 UNITED NATIONS DEVELOPMENT GROUP-->
+	<a href="#" class="scrollToTop hidden-xs"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></a>
+</div>
+
+</body>
+</html>

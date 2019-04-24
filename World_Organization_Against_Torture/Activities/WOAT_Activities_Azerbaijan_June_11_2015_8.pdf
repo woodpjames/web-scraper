@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Marietje Schaake</title>
+    <meta name="description" content="The page could not be found">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <script>document.documentElement.className="js";</script>
+    <link href="/css/main.css" rel="stylesheet">
+</head>
+<body clas="secondary">
+<section class="parts group">
+    <main role="main" class="part part--main">
+        <article class="section-main secondary">
+            <header class="article-header">
+                <a class="logo link-alt" href="/"><img alt="Marietje Schaake" class="logo-img" height="" src="/media/images/logo-marietje.svg" width=""></a>
+                <h1 class="article-title article-title--alt">Page could not be found</h1>
+                <span class="divide"></span>
+            </header>
+            <section class="article-body">
+                <div class="article-intro section-sub">
+                    <p>The link you followed may be broken, or the page may have been removed. Go back to the <a href="/">homepage.</a></p>
+                </div>
+                <div class="article-text section-sub">
+                    <p>Or maybe you like reading something about the following subject instead:</p>
+                                            <ul class="tags-list">
+                                                                                                <li class="tags-item">
+                                        <a href="https://marietjeschaake.eu/tag/palestinian-territories" class="tag">
+                                            Palestinian Territories
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="tags-item">
+                                        <a href="https://marietjeschaake.eu/tag/dispute-settlement" class="tag">
+                                            dispute settlement
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="tags-item">
+                                        <a href="https://marietjeschaake.eu/tag/roaming-2" class="tag">
+                                            roaming  
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="tags-item">
+                                        <a href="https://marietjeschaake.eu/tag/democratisering" class="tag">
+                                            democratisering
+                                        </a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+            </section>
+            <div class="ext-container" style="max-width: 11rem;">
+                <a href="https://d66.nl/" class="clean ext">
+                    <img src="/media/images/d66-logo.svg" width="52" height="32" class="reset d66">
+                    <p class="reset">Member of D66</p>
+                </a>
+                <a href="http://www.alde.eu/" class="clean ext">
+                    <img src="/media/images/alde-logo.svg" width="110" height="45" class="reset alde">
+                    <p class="reset">ALDE Coordinator of the International Trade committee (INTA)</p>
+                </a>
+            </div>
+        </article>
+    </main>
+</section>

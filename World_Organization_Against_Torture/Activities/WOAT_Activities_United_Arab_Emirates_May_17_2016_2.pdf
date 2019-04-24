@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie6 oldie"><![endif]-->
+<!--[if IE 7]>	 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie7 oldie"><![endif]-->
+<!--[if IE 8]>	 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie8 oldie"><![endif]-->
+<!--[if IE 9]>	 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie9 oldie"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#" class=""> <!--<![endif]-->
+<head>
+	<title>Page not found - Scholars at Risk</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<link rel="shortcut icon" href="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/images/favicon.ico?v=1554996615" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+			
+<!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Scholars at Risk" />
+<meta property="og:site_name" content="Scholars at Risk" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - Scholars at Risk" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.5.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.5.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-103701320-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-103701320-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.scholarsatrisk.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=cd154e4d31e660fcc9145237212ee201"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='contact-form-7-css'  href='https://www.scholarsatrisk.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=cd154e4d31e660fcc9145237212ee201' type='text/css' media='all' />
+<link rel='stylesheet' id='socialink-site-deployment-css'  href='https://www.scholarsatrisk.org/wp-content/plugins/socialink-site-deployment/public/css/socialink-site-deployment-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sink-theme-slideshow-slick-css'  href='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/lib/vendor/slick/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='boostrap-cdn-css'  href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css?ver=cd154e4d31e660fcc9145237212ee201' type='text/css' media='all' />
+<link rel='stylesheet' id='sink-theme-scss-css'  href='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/sink.style.php/style.scss' type='text/css' media='all' />
+<link rel='stylesheet' id='sink-theme-css-css'  href='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cdn-font-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300&#038;ver=cd154e4d31e660fcc9145237212ee201' type='text/css' media='all' />
+<link rel='stylesheet' id='cdn-font-baskerville-css'  href='https://fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C400italic%2C700&#038;ver=cd154e4d31e660fcc9145237212ee201' type='text/css' media='all' />
+<link rel='stylesheet' id='sink-theme-icons-css'  href='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/assets/icons/css/icons-sar-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sink-theme-res768-css'  href='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/assets/css/responsive_768max.css' type='text/css' media='screen and (max-width:915px)' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.scholarsatrisk.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-6 tbody td{font-size:11px}.tablepress-id-6{width:auto;margin:0 auto 1em}.tablepress-id-7 tbody td{font-size:11px}.tablepress-id-7{width:auto;margin:0 auto 1em}.tablepress-id-8 tbody td{font-size:11px}.tablepress-id-8{width:auto;margin:0 auto 1em}.tablepress-id-9 tbody td{font-size:11px}.tablepress-id-9{width:auto;margin:0 auto 1em}.tablepress-id-june7 tbody td{font-size:10px}.tablepress-id-june7{width:auto;margin:0 auto 1em}.tablepress-id-june7 .column-1{width:40px}.tablepress-id-june7 .column-1 td{background-color:#ccc}.tablepress-id-june8 tbody td{font-size:10px}.tablepress-id-june8{width:auto;margin:0 auto 1em}.tablepress-id-june8 .column-1{width:40px}.tablepress-id-june8 .column-1 td{background-color:#ccc}.tablepress-id-june8congress tbody td{font-size:10px}.tablepress-id-june8congress{width:auto;margin:0 auto 1em}.tablepress-id-june8congress .column-1{width:40px}.tablepress-id-june8congress .column-1 td{background-color:#ccc}.tablepress-id-june9 tbody td{font-size:10px}.tablepress-id-june9{width:auto;margin:0 auto 1em}.tablepress-id-june9 .column-1{width:40px}.tablepress-id-june9 .column-1 td{background-color:#ccc}.tablepress-id-june10 tbody td{font-size:10px}.tablepress-id-june10{width:auto;margin:0 auto 1em}.tablepress-id-june10 .column-1{width:40px}.tablepress-id-june10 .column-1 td{background-color:#ccc}
+</style>
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://www.scholarsatrisk.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/www.scholarsatrisk.org","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.5.0'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/plugins/socialink-site-deployment/public/js/socialink-site-deployment-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/assets/js/main.js?ver=cd154e4d31e660fcc9145237212ee201'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/themes/sink_sar/lib/vendor/slick/slick.min.js?ver=cd154e4d31e660fcc9145237212ee201'></script>
+<link rel='https://api.w.org/' href='https://www.scholarsatrisk.org/wp-json/' />
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.scholarsatrisk.org/?wordfence_lh=1&hid=4142403BBB105509667646A00F2DFC13');
+</script>	<script type="text/javascript">
+		var ajaxurl = 'https://www.scholarsatrisk.org/wp-admin/admin-ajax.php';
+	</script>
+			<style type="text/css" id="wp-custom-css">
+			/* Paul's Custom CSS */
+
+.at.ngp-form {background:#eaeaea;}
+.at.ngp-form header.at-title {display:none;}
+.at.ngp-form section.at-inner {background:none;}
+
+.at.ngp-form fieldset.at-fieldset legend {
+  color:#404041;
+  font-family:"Libre Baskerville", serif;
+  font-size:20px;
+}
+
+.at.ngp-form label {font-size:.75em;}
+
+.at.ngp-form label input,
+.at.ngp-form label select,
+.at.ngp-form label span.select2-selection {
+  font-size:14px;
+  height:40px;
+  padding:10px;
+}
+
+.at.ngp-form form .label-amount input.edit-otheramount {padding-left:30px;}
+.at.ngp-form input[type="checkbox"] + span {padding-left:20px;}
+
+.at.ngp-form input[type="checkbox"] + span:before {
+  border-radius:0;
+  height:15px;
+  width:15px;
+}
+
+.at.ngp-form fieldset.AdditionalInformation label {
+  font-size:1em;
+  margin:0 6.25px;
+}
+
+.at.ngp-form fieldset.AdditionalInformation label.at-check {font-size:.875em;}
+
+@media(min-width:768px) {
+  
+  .at.ngp-form {
+    margin:0 -20px 20px;
+    padding:0 10px;
+  }
+  
+}		</style>
+			<!--[if lte IE 9]>
+	  <style type="text/css">
+		.gradient {
+		   filter: none;
+		}
+	  </style>
+		<link rel="stylesheet" type="text/css" href="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/css/ie.css" media="screen" />
+	     <script>
+	        document.createElement('header');
+	        document.createElement('nav');
+	        document.createElement('section');
+	        document.createElement('article');
+	        document.createElement('aside');
+	         document.createElement('main');
+	        document.createElement('footer');
+	     </script>
+	<![endif]-->
+	<script src='https://api.tiles.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
+</head>
+<body data-rsssl=1 class="error404">
+	<div id="container" class="">
+		<header id="header">
+			<div class="header_inner mobile_only">
+	<nav class="menu_nav">
+		<input id="mobile_expand_menu" data-expand="mobile_menu" type="checkbox" class="mobile_expansion">
+		<label for="mobile_expand_menu"><span class="text_assist">MENU</span></label>
+	</nav>		
+	<div class="logo">
+		<a href="https://www.scholarsatrisk.org/"><img src="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/images/logo.png" title="Scholars at Risk - Protecting scholars and the freedom to think, question, and share ideas" alt="Scholars at Risk - Protecting scholars and the freedom to think, question, and share ideas" /></a>
+	</div>
+	<nav class="searcher">
+		<input id="mobile_expand_search" data-expand="mobile_search" type="checkbox" class="mobile_expansion">
+		<label class="icon-sar-search mobile_expand_search" for="mobile_expand_search"></label>
+	</nav>
+	<div class="clearfix"></div>
+	<div class="mobile_expand" id="mobile_menu">
+		<ul id="menu-main" class="menu"><li id="menu-item-1135" class="redline menu-item menu-item-type-post_type menu-item-object-page menu-item-1135"><a href="https://www.scholarsatrisk.org/get-help/" class="scholars-at-risk-get-help-1135">Get Help</a></li>
+<li id="menu-item-1445" class="blueline menu-item menu-item-type-post_type menu-item-object-page menu-item-1445"><a href="https://www.scholarsatrisk.org/get-involved-institutions/" class="scholars-at-risk-get-involved-1445">Get Involved</a></li>
+<li id="menu-item-1446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1446"><a href="https://www.scholarsatrisk.org/give-today/" class="scholars-at-risk-give-today-1446">Give Today</a></li>
+</ul>	</div>			
+	<div class="mobile_expand right" id="mobile_search">
+		<form action="https://www.scholarsatrisk.org" method="get">
+			<input value="Search" title="Search" type="text" name="s" class="search_input clearMeFocus"  />
+			<input type="hidden" id="searchsubmit" />
+		</form>
+	</div>		
+</div>
+<div class="header_inner desktop_only flexible outwards">
+	<div class="logo">
+		<a href="https://www.scholarsatrisk.org/"><img src="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/images/logo.png" title="Scholars at Risk - Protecting scholars and the freedom to think, question, and share ideas" alt="Scholars at Risk - Protecting scholars and the freedom to think, question, and share ideas" /></a>
+	</div>
+				<nav class="search_container dismissable">
+	<div class="centering_box flexible">
+		<form action="https://www.scholarsatrisk.org" method="get">
+			<input value="" title="Start Typing to Search the Scholars at Risk Site" type="text" name="s" placeholder="Start Typing to Search the Scholars at Risk Site" class="search_input clearMeFocus"  />
+			<input type="hidden" id="searchsubmit" />
+		</form>
+		<a href="" class="closer closeme">X</a>
+	</div>
+</nav>			<nav class="topmenu menu_horizontal flexible outwards">
+				<ul id="menu-main-1" class="menu"><li class="redline menu-item menu-item-type-post_type menu-item-object-page menu-item-1135"><a href="https://www.scholarsatrisk.org/get-help/" class="scholars-at-risk-get-help-1135">Get Help</a></li>
+<li class="blueline menu-item menu-item-type-post_type menu-item-object-page menu-item-1445"><a href="https://www.scholarsatrisk.org/get-involved-institutions/" class="scholars-at-risk-get-involved-1445">Get Involved</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1446"><a href="https://www.scholarsatrisk.org/give-today/" class="scholars-at-risk-give-today-1446">Give Today</a></li>
+</ul>				<nav class="search_indicator"><a href="" class="headersearch icon-sar-search" data-expand=".search_container"></a></nav>
+				<div class="clearfix"></div>
+			</nav>
+		</div>
+<div class="banner"><a href="https://www.scholarsatrisk.org/about/"><span class="site_desc">Protecting scholars and the freedom to think, question, and share ideas</span></a></div>
+		</header>	<main class="onepage center_content">	
+		<section class="content">	
+			<article class="copy notfound404">	
+
+				<header class="pageinfo centering_box">
+					<h1 class="icon-sar-lock">Hmmm, something went wrong. We couldn't find that page.</h1>
+					<h2>(Web servers call this a 404 error.)</h2>
+				</header>
+				<div class="centering_box flexible twocol outwards weighted_right">
+						<div class="col">
+							<div class="text">
+								<div class="notfound_inner">
+	
+	
+</div>							</div>
+						</div>
+			
+				</div>
+
+			</article>
+		</section>
+	</main>
+		<footer class="connected">
+	<div class="centering_box">
+		<header class="flexible outwards">
+			<h3>Stay Connected</h3>
+				<nav class="socialmedia menu_horizontal" role="social_media">
+		<ul>
+									<li class="media-link media-link-twitter"><a class="icon-sar-twitter socialmedia_clicker" title="See Scholars at Risk on Twitter" href="http://twitter.com/ScholarsAtRisk"></a></li>
+										<li class="media-link media-link-facebook"><a class="icon-sar-facebook socialmedia_clicker" title="See Scholars at Risk on Facebook" href="http://www.facebook.com/Scholars-at-Risk"></a></li>
+										<li class="media-link media-link-linkedin"><a class="icon-sar-linkedin socialmedia_clicker" title="See Scholars at Risk on Linkedin" href="https://www.linkedin.com/company/scholars-at-risk/"></a></li>
+						</ul>
+		<div class="clearfix"></div>
+	</nav>
+		</header>
+		<div class="flexible twocol outwards">
+			<div class="col twi">
+				<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ScholarsAtRisk" data-widget-id="720335600109228032">Tweets by @ScholarsAtRisk</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+			<div class="col subsc">
+				<h4>Subscribe</h4>
+				<script type='text/javascript' src='https://d1aqhv4sn5kxtx.cloudfront.net/actiontag/at.js' crossorigin='anonymous'></script>
+				 <div class="ngp-form"
+				     data-form-url="https://actions.everyaction.com/v1/Forms/_Ow3a3YJrUGwGimpvbp9Qw2"
+				     data-fastaction-endpoint="https://fastaction.ngpvan.com"
+				     data-inline-errors="true"
+				     data-fastaction-nologin="true"
+				     data-databag-endpoint="https://profile.ngpvan.com"
+				     data-databag="everybody">
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>		<footer id="footer" role="contentinfo">			
+			<div class="footer_inner centering_box">
+	<nav class="footermenu">
+		<ul id="menu-scholars-at-risk" class="menu"><li id="menu-item-13666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13666"><a href="https://www.scholarsatrisk.org/about/" class="scholars-at-risk-about-13666">ABOUT</a>
+<ul class="sub-menu">
+	<li id="menu-item-14040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14040"><a href="https://www.scholarsatrisk.org/about/" class="scholars-at-risk-mission-and-history-14040">Mission and History</a></li>
+	<li id="menu-item-13671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13671"><a href="https://www.scholarsatrisk.org/regional-offices/" class="scholars-at-risk-regional-offices-13671">Regional Offices</a></li>
+	<li id="menu-item-13667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13667"><a href="https://www.scholarsatrisk.org/awards-and-distinctions/" class="scholars-at-risk-awards-and-distinctions-13667">Awards and Distinctions</a></li>
+	<li id="menu-item-13730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13730"><a href="https://www.scholarsatrisk.org/roles/staff/" class="scholars-at-risk-staff-13730">Staff</a></li>
+	<li id="menu-item-13668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13668"><a href="https://www.scholarsatrisk.org/board/" class="scholars-at-risk-board-ambassadors-council-13668">Board &#038; Ambassadors Council</a></li>
+	<li id="menu-item-13673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13673"><a href="https://www.scholarsatrisk.org/supporters/" class="scholars-at-risk-supporters-13673">Supporters</a></li>
+	<li id="menu-item-13669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13669"><a href="https://www.scholarsatrisk.org/faqs/" class="scholars-at-risk-faqs-13669">FAQs</a></li>
+	<li id="menu-item-13676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13676"><a href="https://www.scholarsatrisk.org/wp-content/uploads/2017/09/SAR-BYLAWS.pdf" class="scholars-at-risk-bylaws-13676">Bylaws</a></li>
+	<li id="menu-item-13675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13675"><a href="https://www.scholarsatrisk.org/press-info/" class="scholars-at-risk-press-info-13675">Press Info</a></li>
+	<li id="menu-item-13677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13677"><a href="https://www.scholarsatrisk.org/category/career-opportunities/" class="scholars-at-risk-career-opportunities-13677">Career Opportunities</a></li>
+	<li id="menu-item-13674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13674"><a href="https://www.scholarsatrisk.org/privacy/" class="scholars-at-risk-privacy-policy-13674">Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-13678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13678"><a href="https://www.scholarsatrisk.org/the-network/" class="scholars-at-risk-the-network-13678">THE NETWORK</a>
+<ul class="sub-menu">
+	<li id="menu-item-13679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13679"><a href="https://www.scholarsatrisk.org/join/" class="scholars-at-risk-join-the-network-13679">Join the Network</a></li>
+	<li id="menu-item-13680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13680"><a href="https://www.scholarsatrisk.org/membership-directory/" class="scholars-at-risk-membership-directory-13680">Membership Directory</a></li>
+	<li id="menu-item-13681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13681"><a href="https://www.scholarsatrisk.org/membership-subscriptions/" class="scholars-at-risk-membership-subscriptions-13681">Membership Subscriptions</a></li>
+	<li id="menu-item-13682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13682"><a href="https://www.scholarsatrisk.org/sar-sections/" class="scholars-at-risk-sar-sections-13682">SAR Sections</a></li>
+	<li id="menu-item-13683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13683"><a href="https://www.scholarsatrisk.org/partner-networks/" class="scholars-at-risk-partner-networks-13683">Partner Networks</a></li>
+	<li id="menu-item-13684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13684"><a href="https://www.scholarsatrisk.org/international-advisory-committee/" class="scholars-at-risk-international-advisory-committee-13684">International Advisory Committee</a></li>
+</ul>
+</li>
+<li id="menu-item-13685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13685"><a href="https://www.scholarsatrisk.org/get-involved-institutions/" class="scholars-at-risk-get-involved-13685">GET INVOLVED</a>
+<ul class="sub-menu">
+	<li id="menu-item-13686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13686"><a href="https://www.scholarsatrisk.org/actions/host-a-scholar/" class="scholars-at-risk-host-a-scholar-13686">Host a Scholar</a></li>
+	<li id="menu-item-13687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13687"><a href="https://www.scholarsatrisk.org/events/" class="scholars-at-risk-events-13687">Events</a></li>
+	<li id="menu-item-13698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13698"><a href="https://www.scholarsatrisk.org/actions/action-campaigns/" class="scholars-at-risk-action-campaigns-13698">Action Campaigns</a></li>
+	<li id="menu-item-13699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13699"><a href="https://www.scholarsatrisk.org/actions/speaker-series/" class="scholars-at-risk-speaker-series-13699">Speaker Series</a></li>
+	<li id="menu-item-13700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13700"><a href="https://www.scholarsatrisk.org/actions/student-advocacy-seminars/" class="scholars-at-risk-student-advocacy-seminars-13700">Student Advocacy Seminars</a></li>
+	<li id="menu-item-13701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13701"><a href="https://www.scholarsatrisk.org/actions/academic-freedom-legal-clinics/" class="scholars-at-risk-academic-freedom-legal-clinics-13701">Academic Freedom Legal Clinics</a></li>
+	<li id="menu-item-13707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13707"><a href="https://www.scholarsatrisk.org/actions/academic-freedom-monitoring-project/" class="scholars-at-risk-academic-freedom-monitoring-project-13707">Academic Freedom Monitoring Project</a></li>
+	<li id="menu-item-13708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13708"><a href="https://www.scholarsatrisk.org/actions/working-groups/" class="scholars-at-risk-working-groups-13708">Working Groups</a></li>
+	<li id="menu-item-13709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13709"><a href="https://www.scholarsatrisk.org/actions/workshops-and-conferences/" class="scholars-at-risk-workshops-conferences-13709">Workshops &#038; Conferences</a></li>
+	<li id="menu-item-13710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13710"><a href="https://www.scholarsatrisk.org/give-today/" class="scholars-at-risk-individual-membership-13710">Individual Membership</a></li>
+</ul>
+</li>
+<li id="menu-item-13688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13688"><a href="https://www.scholarsatrisk.org/get-help/" class="scholars-at-risk-get-help-13688">GET HELP</a>
+<ul class="sub-menu">
+	<li id="menu-item-13693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13693"><a href="https://www.scholarsatrisk.org/secure-submission/" class="scholars-at-risk-application-for-assistance-13693">Application for Assistance</a></li>
+	<li id="menu-item-13694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13694"><a href="https://www.scholarsatrisk.org/scholar-resources/" class="scholars-at-risk-scholar-resources-13694">Scholar Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-13689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13689"><a href="https://www.scholarsatrisk.org/category/news/" class="scholars-at-risk-news-13689">NEWS</a>
+<ul class="sub-menu">
+	<li id="menu-item-13695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13695"><a href="https://www.scholarsatrisk.org/category/news/press-releases/" class="scholars-at-risk-press-releases-13695">Press Releases</a></li>
+	<li id="menu-item-13697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13697"><a href="https://www.scholarsatrisk.org/academic-freedom-monitoring-project-index/" class="scholars-at-risk-attacks-on-higher-education-13697">Attacks on Higher Education</a></li>
+	<li id="menu-item-13706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13706"><a href="https://www.scholarsatrisk.org/spotlight/" class="scholars-at-risk-sar-spotlight-13706">SAR Spotlight</a></li>
+	<li id="menu-item-13761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13761"><a href="https://www.scholarsatrisk.org/academic-freedom-media-review/" class="scholars-at-risk-academic-freedom-media-review-13761">Academic Freedom Media Review</a></li>
+	<li id="menu-item-13696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13696"><a href="https://www.scholarsatrisk.org/email-sign-up/" class="scholars-at-risk-subscribe-13696">Subscribe</a></li>
+	<li id="menu-item-13705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13705"><a href="https://www.scholarsatrisk.org/self-service-portal/" class="scholars-at-risk-manage-preferences-13705">Manage Preferences</a></li>
+</ul>
+</li>
+<li id="menu-item-13690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13690"><a href="https://www.scholarsatrisk.org/bytype/resources/" class="scholars-at-risk-publications-resources-13690">PUBLICATIONS &#038; RESOURCES</a>
+<ul class="sub-menu">
+	<li id="menu-item-13702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13702"><a href="https://www.scholarsatrisk.org/bytype/sar-pub/" class="scholars-at-risk-sar-publications-13702">SAR Publications</a></li>
+	<li id="menu-item-13703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13703"><a href="https://www.scholarsatrisk.org/bytype/partner-publications/" class="scholars-at-risk-partner-publications-13703">Partner Publications</a></li>
+	<li id="menu-item-13704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13704"><a href="https://www.scholarsatrisk.org/bytype/university-values/" class="scholars-at-risk-university-values-13704">University Values</a></li>
+	<li id="menu-item-13692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13692"><a href="https://www.scholarsatrisk.org/bytype/handbooks/" class="scholars-at-risk-handbooks-13692">Handbooks</a></li>
+	<li id="menu-item-13691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13691"><a href="https://www.scholarsatrisk.org/mediatype/video/" class="scholars-at-risk-videos-media-13691">Videos &#038; Media</a></li>
+</ul>
+</li>
+</ul>	</nav>
+	<div class="sectionsonly">
+		<h5>Hosted by <img src="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/images/logo_reverse.png" alt="Scholars at Risk Logo" /></h5>
+	</div>
+	<div class="footercredits sitecredits">
+		<div class="lefty"><div class=flexibleoutwards>
+<div class=left>411 Lafayette St., 3rd Floor, New York, NY 10003<br />
+TEL: 1-212-998-2179<br />
+EMAIL: <a href=mailto:scholarsatrisk@nyu.edu>scholarsatrisk@nyu.edu</a></div>
+<div class=right>© 2009 &#8211; 2019 Scholars at Risk Network<br />
+New York University</div>
+</div>
+</div>
+	</div>
+	<div class="footercredits sinkcredits fancyfont">
+		<p itemscope itemtype="http://schema.org/CreativeWork"><a href="https://www.social-ink.net" title="This site proudly designed and developed by Social Ink, Brooklyn-based outfit that works with nonprofits & foundations, educators & creatives and businesses large and small."><span itemprop="description">Site designed and developed</span> by <span itemprop="creator">Social Ink</span></a> <a href="https://plus.google.com/114408881998058377701" itemprop="citation" rel="publisher">[+]</a></p>
+	</div>
+	<div class="bottomfooter"><a href="https://www.scholarsatrisk.org/get-involved-contact/" class="button buttonred">Contact Us</a></div>
+</div>		</footer>
+		</div> <!-- #container -->
+		<link rel='stylesheet' id='socialink-afmlayer-master-style-css'  href='https://www.scholarsatrisk.org/wp-content/plugins/social-ink-afm-layer/assets/frontend.css?ver=cd154e4d31e660fcc9145237212ee201' type='text/css' media='all' />
+<link rel='stylesheet' id='socialink-afmlayer-datepicker-style-css'  href='https://www.scholarsatrisk.org/wp-content/plugins/social-ink-afm-layer/vendor/datetimepicker-master/build/jquery.datetimepicker.min.css?ver=cd154e4d31e660fcc9145237212ee201' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.scholarsatrisk.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=cd154e4d31e660fcc9145237212ee201'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-includes/js/wp-embed.min.js?ver=cd154e4d31e660fcc9145237212ee201'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/plugins/social-ink-afm-layer/assets/frontend.js?ver=cd154e4d31e660fcc9145237212ee201'></script>
+<script type='text/javascript' src='https://www.scholarsatrisk.org/wp-content/plugins/social-ink-afm-layer/vendor/datetimepicker-master/build/jquery.datetimepicker.full.min.js?ver=cd154e4d31e660fcc9145237212ee201'></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready( function($) {
+$("ul.nav-menu").not(":has(li)").hide().closest('div').hide();
+});
+/* ]]> */
+</script>		<script type="text/javascript" src="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/assets/js/lib/jquery.placeholder.js"></script>
+		<script type="text/javascript" src="https://www.scholarsatrisk.org/wp-content/themes/sink_sar/assets/js/lib/jquery.flexslider-min.js"></script>
+
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-573a3dcc2b25f628"></script>
+
+	</body>
+</html>

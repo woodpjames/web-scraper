@@ -1,0 +1,58 @@
+	<html>
+	<head>
+	<title>403 Security Error</title>
+	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+	<style type="text/css">
+		h1, body, p, th, td { font-family: sans-serif; }
+		th { text-align: left; font-weight: normal; }
+		.nl { color: #888; }
+		.info { width: 450px; padding: 20px; margin-top: 30px; margin-bottom: 30px; color: #777; background-color: #ddd; }
+		body { margin: 30px; }
+		#report { height: 100px; }
+		#report input { font-size: 100%; }
+		#report iframe { width: 500px; border: 0; }
+	</style>
+	</head>
+	<body>
+<h1>Security Error</h1>
+
+<p>The firewall at nhc.nl has blocked your request for security reasons.</p>
+
+<p class="nl">De firewall van nhc.nl heeft uw verzoek geblokkeerd om veiligheidsredenen.</p>
+
+
+<script type="text/javascript">
+
+	function sendreport() {
+		document.getElementById('reportbutton').style.display = 'none';
+
+		var url = '/modsecurity-errorpage/';
+		url += '?report=1';
+		url += '&transaction=' + encodeURIComponent('XK9bkuxmsMaCmSvb56ktiAAAAAM');
+		url += '&uri=' + encodeURIComponent('2f6173736574732f75706c6f6164732f323031372f30362f32303137303333312d4f62736572766174696f6e732d746f2d43434a452d434350452d5265706f72742e706466');
+		url += '&time=1554996114';
+		url += '&key=dc17862fa7e322a3311d3211838d7506';
+
+		var iframe = document.createElement('iframe');
+		iframe.src = url;
+		iframe.frameBorder = 0;
+
+		var reportdiv = document.getElementById('report');
+		reportdiv.appendChild(iframe);
+	}
+
+</script>
+
+<div id="report">
+	<input id="reportbutton" type="button" value=" Report the problem " onclick="sendreport()">
+</div>
+
+
+<p class="info">
+Site: nhc.nl<br>
+Transaction: XK9bkuxmsMaCmSvb56ktiAAAAAM<br>
+Date: Thu, 11 Apr 2019 17:21:54 +0200<br>
+</p>
+
+	</body>
+	</html>

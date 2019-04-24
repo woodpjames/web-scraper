@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<!--
+Copyright (c) Mangrove 2019 All rights reserved
+Developed by : Mangrove
+Contact      : info@mangrove.com
+-->
+<html class='no-js' lang='en'>
+<head>
+<title>404 - Page not found | Solidar</title>
+<meta content=' width=device-width, initial-scale=1' name='viewport'>
+<meta content='404 - Page not found | Solidar' property='og:title'>
+<meta content='website' property='og:type'>
+<meta content='http://www.solidar.org/404' property='og:url'>
+
+<link href='/humans.txt' rel='author' type='text/plain'>
+<link href='/apple-touch-icon-57x57.png' rel='apple-touch-icon' sizes='57x57'>
+<link href='/apple-touch-icon-114x114.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='/apple-touch-icon-72x72.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='/apple-touch-icon-144x144.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='/apple-touch-icon-60x60.png' rel='apple-touch-icon' sizes='60x60'>
+<link href='/apple-touch-icon-120x120.png' rel='apple-touch-icon' sizes='120x120'>
+<link href='/apple-touch-icon-76x76.png' rel='apple-touch-icon' sizes='76x76'>
+<link href='/apple-touch-icon-152x152.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='/favicon-196x196.png' rel='icon' sizes='194x194' type='image/png'>
+<link href='/favicon-96x96.png' rel='icon' sizes='96x96' type='image/png'>
+<link href='/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'>
+<meta content='#173761' name='msapplication-TileColor'>
+<meta content='/mstile-144x144.png' name='msapplication-TileImage'>
+<script src="/assets/generated/modernizr.min-6dc57b4ff1f95497b8dfcd0b8f8f591359db2fd99aa58ad7125ed45e6f8318ae.js" data-turbolinks-track="true"></script>
+<link rel="stylesheet" media="all" href="/assets/application-d0adbabff4d7b137bd9ce90854464e4fea653484b74e193394b87c73c61742a4.css" data-turbolinks-track="true" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8XNK7lZLduoxyIR8qjiwxEK5R0nxFqc19K5oYH8pUuMTGtLeTva9HbwUD/iGA0a3GBYF+CsJRNS12ErS8wqSAw==" />
+<!--[if lt IE 9]>
+<script src='//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js' type='text/javascript'></script>
+<![endif]-->
+</head>
+
+<body class='desktop-nav'>
+<!--dataLayer-->
+<script>window.dataLayer = window.dataLayer || [];</script>
+<!--End dataLayer-->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M63XZ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M63XZ9');</script>
+<!-- End Google Tag Manager -->
+
+<div class='container no-padding' id='top'>
+<header class='top'>
+<div class='container'>
+<a class="logo" href="/"><img width="168" src="/assets/logo_solidar-171e43c260b617f39b229cb293f8359ff8d2a37a2424d16c35852131422e6f19.png" alt="Logo solidar" /></a>
+<div class='wrapper js-mainnav'>
+<div class='wrapper--item'>
+<nav class='menu'>
+<ul>
+<li class='has-children'>
+<a class="js-toggle toggle-pillars" href="#">Pillars
+<span class='i-arrow-down' data-grunticon-embed=''></span>
+</a><ul>
+<li>
+<a class="cl-pillar-yellow" href="/en/pillars/together-for-social-europe">Together for Social Europe</a>
+</li>
+<li>
+<a class="cl-pillar-orange" href="/en/pillars/building-learning-societies">Building Learning Societies</a>
+</li>
+<li>
+<a class="cl-pillar-red" href="/en/pillars/organising-international-solidarity">Organising International Solidarity</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/activities">Projects</a></li>
+<li><a href="/en/publications">Publications</a></li>
+<li><a href="/en/news">News</a></li>
+<li><a href="/en/events">Events</a></li>
+<li class='has-children'>
+<a class="js-toggle toggle-aboutus is-active" href="#">About
+<span class='i-arrow-down' data-grunticon-embed=''></span>
+</a><ul>
+<li><a href="/en/about-us/solidar">SOLIDAR</a></li>
+<li><a href="/en/about-us/solidar-foundation">SOLIDAR Foundation</a></li>
+<li><a href="/en/about-us/members-and-partners">Members and Partners </a></li>
+<li><a href="/en/about-us/secretariat">Secretariat</a></li>
+<li><a href="/en/about-us/vacancies">Vacancies</a></li>
+<li><a href="/en/about-us/contact">Contact</a></li>
+<li><a href="/en/about-us/legal">Legal</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav class='search'>
+<div class='xs-12'>
+<gcse:searchbox-only resultsUrl='/en/search'></gcse:searchbox-only>
+</div>
+</nav>
+</div>
+<div class='wrapper--item toggle'>
+<button class='js-toggle toggle-search'>
+<span class='i-search'></span>
+</button>
+</div>
+<div class='wrapper--item toggle'>
+<button class='js-toggle toggle-mainnav'>
+<span class='i-menu'></span>
+</button>
+</div>
+</div>
+</div>
+</header>
+
+<div class='section'>
+<div class='container maincontent overview'>
+<div class='row'>
+<div class='lg-8 xs-pt-2'>
+<h1>404 - Page not found</h1>
+
+</div>
+</div>
+</div>
+</div>
+
+<footer>
+<div class='container bg-white'>
+<div class='row xs-pt-2'>
+<div class='md-6 lg-3 xs-mb-2'>
+<h2>Pillars</h2>
+<ul>
+<li>
+<a href="/en/pillars/together-for-social-europe">Together for Social Europe</a>
+</li>
+<li>
+<a href="/en/pillars/building-learning-societies">Building Learning Societies</a>
+</li>
+<li>
+<a href="/en/pillars/organising-international-solidarity">Organising International Solidarity</a>
+</li>
+</ul>
+</div>
+<div class='md-6 lg-3 xs-mb-2'>
+<h2>Focuses</h2>
+<ul>
+<li>
+<a href="/en/focus/editorial-by-conny-reuter-solidar-secretary-general">Editorial by Conny Reuter, SOLIDAR Secretary General</a>
+</li>
+<li>
+<a href="/en/focus/decent-work-and-quality-jobs">Decent Work &amp; Quality Jobs</a>
+</li>
+<li>
+<a href="/en/focus/enlargement-and-neighbourhood">Enlargement &amp; Neighbourhood</a>
+</li>
+<li>
+<a href="/en/focus/migration-and-fundamental-rights">Migration and Fundamental Rights</a>
+</li>
+<li>
+<a href="/en/focus/investing-in-education"> Investing in Education</a>
+</li>
+<li>
+<a href="/en/focus/the-global-network">The Global Network</a>
+</li>
+<li>
+<a href="/en/focus/an-alternative-trade-vision">An Alternative Trade Vision</a>
+</li>
+</ul>
+</div>
+<div class='md-6 lg-2 xs-mb-2'>
+<h2>About us</h2>
+<ul>
+<li><a href="/en/about-us/solidar">SOLIDAR</a></li>
+<li><a href="/en/about-us/solidar-foundation">SOLIDAR Foundation</a></li>
+<li><a href="/en/about-us/members-and-partners">Members and Partners </a></li>
+<li><a href="/en/about-us/secretariat">Secretariat</a></li>
+<li><a href="/en/about-us/vacancies">Vacancies</a></li>
+<li><a href="/en/about-us/contact">Contact</a></li>
+<li><a href="/en/about-us/legal">Legal</a></li>
+</ul>
+</div>
+<div class='md-6 lg-4 xs-mb-2'>
+<form class="js-newsletter newsletter left" target="_blank" action="//solidar.us9.list-manage.com/subscribe/post?u=3aa085d0806c2dc6f45570d87&amp;amp;id=c11db8f787" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="G3i5waiF1+/LuQTCuCb5mynqZiXilbWWk/rSU8TzXyP5ESHxsDgcGEZlj0aUHQ/oc0UklDiKVnfSjPDhSNCfww==" />
+<a href="/"><img width="168" class="logo-img" src="/assets/logo_solidar-171e43c260b617f39b229cb293f8359ff8d2a37a2424d16c35852131422e6f19.png" alt="Logo solidar" /></a>
+<strong class='font-sm'>Advancing social justice in Europe &amp; worldwide</strong>
+<div class='form-block newsletter--head'>
+<h2>Subscribe to the Weekly Round Up</h2>
+</div>
+<div class='form-block'>
+<label>
+<span class='label hidetext'>
+E-mail
+</span>
+<input id='mce-EMAIL' name='EMAIL' placeholder='E-mail' required='required' size='37' type='email'>
+</label>
+</div>
+<div style='position: absolute; left: -5000px;'>
+<input name='b_3aa085d0806c2dc6f45570d87_6fcb3b5f8e' tabindex='-1' type='text'>
+</div>
+<div class='form-block'>
+<button name="button" type="submit" class="btn">Subscribe</button>
+</div>
+<span class='result'></span>
+</form>
+
+</div>
+</div>
+</div>
+<div class='container bg-white'>
+<div class='follow'>
+<div class='follow--item'>
+Follow us
+</div>
+<a class="i-twitter" target="_blank" title="Follow us on Twitter" data-grunticon-embed="" href="https://twitter.com/Solidar_EU"><div class='hidetext'>Twitter</div>
+</a><a class="i-facebook" target="_blank" title="Follow us on Facebook" data-grunticon-embed="" href="https://www.facebook.com/SOLIDAR.org"><div class='hidetext'>Facebook</div>
+</a><a class="i-flickr" target="_blank" title="Follow us on Flickr" data-grunticon-embed="" href="http://www.flickr.com/photos/31689406@N05/"><div class='hidetext'>Flickr</div>
+</a><a class="i-youtube" target="_blank" title="Follow us on Youtube" data-grunticon-embed="" href="https://www.youtube.com/user/SOLIDARaisbl"><div class='hidetext'>Youtube</div>
+</a><a class="i-arrow-filled-up" title="Back to top" data-grunticon-embed="" href="#top"><div class='hidetext'>Back to top</div>
+</a></div>
+
+</div>
+<div class='container bg-white cl-grey_dark font-sm'>
+<div class='row xs-pt-1'>
+<div class='md-10 lg-8 center'>
+<div class='row'>
+<div class='xs-6 md-4 text-right'>
+<img class="logo-eu" title="European Union" src="/assets/logo_eu-a94506941d9a74ef16c32dc79542942c91166edbbe701bb2c33b39be02418d60.jpg" alt="Logo eu" />
+</div>
+<div class='xs-6 md-8'>
+<p>This website was produced with the financial support of the European Commission. Its content reflects the views of the authors only.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<script data-turbolinks-eval='false' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js' type='text/javascript'></script>
+<script data-turbolinks-eval='false' type='text/javascript'>
+window.jQuery || document.write("<script src='/static/jquery-1.11.3.min.js'>"+"<"+"/script>")
+</script>
+<script src="/assets/application-40b837dec74c53eee5a54d1654d11deb4d54af67daf566972d9a4bff825f7fd8.js" data-turbolinks-track="true" data-turbolinks-eval="false"></script>
+<script>
+  (function() {
+    var cx = '000906373286156519078:nyctzlxgwim';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+
+</div>
+</body>
+</html>

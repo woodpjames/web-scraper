@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.eurac-network.org/sites/default/files/icon.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async="async" defer="defer"></script>
+  <title>Page not found | EurAc</title>
+  <style>
+@import url("https://www.eurac-network.org/modules/system/system.base.css?po8ur5");
+</style>
+<style>
+@import url("https://www.eurac-network.org/sites/all/modules/views_slideshow/views_slideshow.css?po8ur5");
+</style>
+<style>
+@import url("https://www.eurac-network.org/sites/all/modules/simplenews/simplenews.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/colorbox_node/colorbox_node.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/counter/counter.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/date/date_api/date.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?po8ur5");
+@import url("https://www.eurac-network.org/modules/field/theme/field.css?po8ur5");
+@import url("https://www.eurac-network.org/modules/node/node.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/views/css/views.css?po8ur5");
+</style>
+<style>
+@import url("https://www.eurac-network.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/ctools/css/ctools.css?po8ur5");
+@import url("https://www.eurac-network.org/modules/locale/locale.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/flexslider/assets/css/flexslider_img.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/libraries/flexslider/flexslider.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/vscc/vscc.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/modules/addtoany/addtoany.css?po8ur5");
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/eurac/css/bootstrap.min.css" media="all" />
+<style>
+@import url("https://www.eurac-network.org/sites/all/themes/bootstrap/css/3.4.0/overrides.min.css?po8ur5");
+@import url("https://www.eurac-network.org/sites/all/themes/eurac/css/style.css?po8ur5");
+</style>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.eurac-network.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.eurac-network.org/misc/drupal.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/views_slideshow/js/views_slideshow.js?v=1.0"></script>
+<script src="https://www.eurac-network.org/misc/ajax.js?v=7.59"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="/sites/all/themes/eurac/js/bootstrap.min.js"></script>
+<script src="https://www.eurac-network.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/colorbox/js/colorbox.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/colorbox/js/colorbox_load.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/captcha/captcha.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/libraries/flexslider/jquery.flexslider-min.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/vscc/js/vscc.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/libraries/jquery.cycle/jquery.cycle.all.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/google_analytics/googleanalytics.js?po8ur5"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.eurac-network.org/sites/default/files/googleanalytics/analytics.js?po8ur5","ga");ga("create", "UA-118773175-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.eurac-network.org/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.59"></script>
+<script src="https://www.eurac-network.org/sites/all/modules/colorbox_node/colorbox_node.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/themes/bootstrap/js/misc/ajax.js?po8ur5"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"eurac","theme_token":"a6zJS9UUr2JZplBPv90vfzTPUCSC0aQZhmt9HB237rQ","jquery_version":"2.1","js":{"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.1.4\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/sites\/all\/themes\/eurac\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/vscc\/js\/vscc.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/counter\/counter.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/vscc\/vscc.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"\/sites\/all\/themes\/eurac\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.4.0\/overrides.min.css":1,"sites\/all\/themes\/eurac\/css\/style.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.80","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"flexslider":{"optionsets":{"frontpage_image":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"7000","directionNav":false,"controlNav":false,"prevText":"Pr\u00e9c\u00e9dent","nextText":"Suivant","pausePlay":false,"pauseText":"Pause","playText":"Lecture","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"frontpage_image"}},"better_exposed_filters":{"views":{"frontpage_slider":{"displays":{"block":{"filters":[]}}},"press_releases":{"displays":{"block":{"filters":[]}}}}},"viewsSlideshow":{"press_releases-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"press_releases-block":{"top":{"type":"vsccControls"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_press_releases-block":{"num_divs":3,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"press_releases-block","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/en\/pdf\/plaidoyers\/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf?destination=pdf\/plaidoyers\/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf":true},"colorbox_node":{"width":"950px","height":"600px"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body id="new" class="html not-front not-logged-in no-sidebars page-pdf page-pdf-plaidoyers page-pdf-plaidoyers-eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo-how-should-the-eu-respond-dec-2016pdf i18n-en" >
+  <div id="test"></div>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="container header">
+    <header id="navbar" role="banner" class="col-sm-offset-1 navbar container navbar-default">
+
+        <div class="navbar-header">
+         
+             <a class="logo logo-en navbar-btn pull-left" href="/en" title="Home">
+              <img src="https://eurac-network.org/sites/default/files/Eurac_logo.png" alt="Home" />
+            </a>
+             <a class="logo logo-fr navbar-btn pull-left" href="/en" title="Home">
+              <img src="https://eurac-network.org/sites/default/files/Eurac_logo-fr.png" alt="Home" />
+            </a>
+ 
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          
+        </div>
+
+        
+          <div class="navbar-collapse collapse">
+
+                              <div class="region region-navigation">
+    <section id="block-locale-language" class="block block-locale clearfix">
+
+      
+  <ul class="language-switcher-locale-url"><li class="fr first"><a href="/fr/pdf/plaidoyers/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf" class="language-link" xml:lang="fr">Français</a></li>
+<li class="en last active"><a href="/en/pdf/plaidoyers/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf" class="language-link active" xml:lang="en">English</a></li>
+</ul>
+</section>
+<section id="block-user-login" class="block block-user clearfix">
+
+      
+  <form action="/en/pdf/plaidoyers/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf?destination=pdf/plaidoyers/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-item-name form-type-textfield form-group"> <label class="control-label" for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" /></div><div class="form-item form-item-pass form-type-password form-group"> <label class="control-label" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" /></div><ul><li><a href="/en/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-ovibiBSXsoWOnKDAjVBvAW8P9w_TU1dtirSB6cksoR4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="captcha"><input type="hidden" name="captcha_sid" value="975356" />
+<input type="hidden" name="captcha_token" value="4ea7e634bfbe6f25f954451f3d26fca0" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LezPg8UAAAAAOzgvxDKgNeL3lrvQG47MYcyUk-k" data-theme="light" data-type="image"></div></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Log in" class="btn btn-primary form-submit icon-before"><span class="icon glyphicon glyphicon-log-in" aria-hidden="true"></span>
+ Log in</button>
+</div></div></form>
+</section>
+  </div>
+            
+            <nav role="navigation">              
+                                          
+            </nav>
+          </div>
+            </header>
+</div>
+
+
+  <header role="banner" id="page-header">
+  	<div class="container">
+		    
+            </div>
+  </header> <!-- /#page-header -->
+  
+<div class="main-container container">
+ 
+  <div class="row">
+    
+    <section  class="col-sm-12">
+                  <a id="main-content"></a>
+                    <h1 class="page-header">Page not found</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  The requested page "/en/pdf/plaidoyers/eurac-political-stalemate-and-worsening-security-crisis-in-the-dr-congo.-how-should-the-eu-respond-dec-2016.pdf" could not be found.
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+
+  <footer class="footer ">
+    <div class="container"> 
+           <div class="region region-footer">
+    <section id="block-block-5" class="block block-block clearfix">
+
+      
+  <p style="text-align: center;">Eur<span style="color:#B22222;">Ac</span>, European network for Central Africa<br />Rue Stevin 115, B-1000 Brussels (Belgium)<br /><a href="mailto:info@eurac-network.org" style="color:#BF574A;">info@eurac-network.org</a> | Tel.: +32 (0)2 725 47 70</p>
+<p style="text-align: center;"><a href="https://twitter.com/EurAc_Net?lang=en" target="_blank"><img alt="" height="29" src="https://www.eurac-network.org/sites/default/files/kcfinder/images/picto-twitter.png" width="29" /></a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><a href="https://www.eurac-network.org/en/privacy-policy"><span style="color:#BF574A;">Privacy policy</span></a>    |   <a href="https://www.eurac-network.org/en/contact-0"><span style="color:#BF574A;">Contact us</span></a>   |   Web design : <a href="http://www.afd.be"><span style="color:#BF574A;">www.afd.be</span></a></p>
+
+</section>
+  </div>
+    </div>
+  </footer>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript">
+
+       
+    jQuery(function () {
+
+   
+	    jQuery('#member-login-link').click(function(){
+            jQuery('#block-user-login').fadeToggle( "fast", "linear" );
+            jQuery('#block-system-user-menu').fadeToggle( "fast", "linear" );
+        }); 
+		jQuery('#members-login-link').click(function(){
+            jQuery('#block-user-login').fadeToggle( "fast", "linear" );
+            jQuery('#block-system-user-menu').fadeToggle( "fast", "linear" );
+        });		
+
+               
+    });
+
+</script>
+
+  <script src="https://www.eurac-network.org/sites/all/modules/flexslider/assets/js/flexslider.load.js?po8ur5"></script>
+<script src="https://www.eurac-network.org/sites/all/themes/bootstrap/js/bootstrap.js?po8ur5"></script>
+</body>
+</html>

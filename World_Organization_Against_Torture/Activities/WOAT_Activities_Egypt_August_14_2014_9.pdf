@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>European Commission : Trade - Error</title>
+<meta name="Reference" content="trade/404/en" />
+<meta name="Title" content="European Commission : Trade - Error" />
+<meta name="Creator" content="COMM/TRADE/Information Technology" />
+<meta http-equiv="Content-Language" content="en" />
+<meta name="Classification" content="26400" />
+<meta name="Keywords" content="" />
+<meta name="template" content="Error" />
+<meta name="Description" content="Error" />
+<meta name="apple-mobile-web-app-title" content="EU Trade" />
+<link rel="apple-touch-icon-precomposed" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon.png" />
+<link rel="apple-touch-icon" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon.png" />
+<link rel="shortcut icon" href="http://ec.europa.eu/trade/images/mobile/apple-touch-icon-57x57-precomposed.png" />
+<meta name="application-name" content="EU Trade" />
+<meta name="msapplication-TileImage" content="http://ec.europa.eu/trade/images/mobile/windows-eight-icon-144x144.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="http://ec.europa.eu/trade/stylesheets/styles-screen-trade-002.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://ec.europa.eu/trade/stylesheets/styles-print-trade-002.css" rel="stylesheet" type="text/css" media="print" />
+<link href="http://ec.europa.eu/trade/stylesheets/mobile-002.css" rel="stylesheet" type="text/css" media="handheld" />
+<link rel="stylesheet" type="text/css" media="screen" href="/trade/stylesheets/europa-icons.css" />
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="http://ec.europa.eu/trade/stylesheets/styles-commission-ie6.css" media="screen" />
+<![endif]-->
+<script type="text/javascript" src="http://ec.europa.eu/trade/scripts/jquery-core.js"></script>
+<script type="text/javascript" src="http://ec.europa.eu/trade/scripts/jquery-custom-mobile.js"></script>
+<script type="text/javascript" src="http://ec.europa.eu/trade/scripts/jquery-custom-formatting.js"></script>
+</head>
+<body>
+
+<!-- ++++++++++++++++++++++++++ Commission +++++++++++++++++++++++++ -->
+<div id="top">
+  <div id="header">
+    <h1>European Commission <span>Directorate-General for Trade</span></h1>
+    <div id="banner">
+      <p><img src="/trade/images/print-flag.png" alt="" /></p>
+    </div>
+    <h2>Accessibility tools</h2>
+    <ul id="accessibility-menu">
+      <li><a href="#start" accesskey="1">Go to content</a></li>
+      <li><a href="#path">Go to portal navigation</a></li>
+      <li><a href="#languages">Go to language options</a></li>
+      <li><a href="#col-1">Go to site navigation</a></li>
+    </ul>
+    <h2>Service tools</h2>
+    <ul id="services">
+    <li><a accesskey="2" href="http://ec.europa.eu/geninfo/legal_notices_en.htm">Legal notice</a></li>
+      <li><a accesskey="3" href="http://ec.europa.eu/trade/trade-policy-and-you/contacts/">Contact</a></li>
+      <li><a accesskey="5" href="http://ec.europa.eu/trade/sitemap/">Sitemap</a></li>
+      <li><a accesskey="4" href="http://ec.europa.eu/trade/search/">Search</a></li>
+      <li><a accesskey="0" href="http://ec.europa.eu/trade/accessibility/">Accessibility</a></li>
+      <li><a href="http://ec.europa.eu/trade/cookies/">Cookies</a></li>
+    </ul>
+    <div id="languages">
+      <h2>Language selector</h2>
+      <ul id="language-selector">
+        <li class="selected" title="English" lang="en" xml:lang="en"><span class="off-screen">Current language:</span> en</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="path">
+  <div>
+    <h2>Current portal location</h2>
+    <ul>
+      <li class="first-child"> <a id="firstTab" href="http://ec.europa.eu/index_en.htm">European Commission</a> </li>
+      <li><a href="http://ec.europa.eu/trade/">Trade</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- +++++++++++++++++++++++++ /Commission +++++++++++++++++++++++++ -->
+<div id="trade" style="background: none !important;" class="fullpage">
+  <div id="container">
+    <div id="content">
+      <div id="main">
+        <h2 id="start">Website content</h2>
+        <div id="col-2" class="centered">
+          <div class="unit div-c-s">
+            <div id="col-21"> <img src="http://ec.europa.eu/trade/images/creative/400.jpg" alt="Ooops!" width="492" height="456"/> </div>
+            <div id="col-22">
+              <h2>See the links below to access the TRADE websites</h2>
+              <hr />
+              <h4>General Trade websites</h4>
+              <ul>
+                <li><a href="http://ec.europa.eu/trade/">DG TRADE website</a></li>
+                <li><a href="http://ec.europa.eu/commission/2014-2019/malmstrom_en">Commissionner Malmström's website</a></li>
+              </ul>
+              <h4>Specific Trade websites</h4>
+              <ul>
+                <li><a href="http://trade.ec.europa.eu/civilsoc/index.cfm">Public Dialogue Meetings with Civil Society</a></li>
+                <li><a href="http://madb.europa.eu/">Market Access Database</a></li>
+                <li><a href="http://trade.ec.europa.eu/tradehelp/">Trade Helpdesk for exporting to the EU</a></li>
+              </ul>
+              <h4>Trade Newsletters</h4>
+              <ul>
+                <li><a href="http://europa.us13.list-manage.com/subscribe/post?u=aa1cd261b1367a40aad1a59b0&id=083be88fbe">EU Trade News</a></li>
+              </ul>
+              <h4>Document Library</h4>
+              <ul>
+                <li><a href="http://trade.ec.europa.eu/doclib/cfm/doclib_search.cfm?action=search">Document search</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+
+

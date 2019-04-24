@@ -1,0 +1,507 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- scene-tiger -->
+<base href="">
+<meta charset="utf-8" />
+<title>CRIN</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c6c00c14e17b62748393ca6/favicon.ico"/>
+<link rel="canonical" href="https://home.crin.org/"/>
+<meta property="og:site_name" content="CRIN"/>
+<meta property="og:title" content="CRIN"/>
+<meta property="og:url" content="https://home.crin.org/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1529939457142/logo_CRIN_2.png?format=1500w"/>
+<meta property="og:image:width" content="1256"/>
+<meta property="og:image:height" content="305"/>
+<meta itemprop="name" content="CRIN"/>
+<meta itemprop="url" content="https://home.crin.org/"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1529939457142/logo_CRIN_2.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1529939457142/logo_CRIN_2.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1529939457142/logo_CRIN_2.png?format=1500w"/>
+<meta name="twitter:title" content="CRIN"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1529939457142/logo_CRIN_2.png?format=1500w"/>
+<meta name="twitter:url" content="https://home.crin.org/"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<script type="text/javascript" src="//use.typekit.net/ik/zfVtTx_-bpRvaz7bNZzlob4x59Cx3YaEIG3h7r-EzlXfeGt2fFHN4UJLFRbh52jhWDmyZcBqjRJkZQIajcIDZAsqZRq3jDMkZy72MPG0ShF8dc9lie81ZWJ0SaBujW48Sagyjh90jhNlOeyzdA90ja4TdKozScSCdeNRjAUGdaFXOYFRZAo8OWsTZhmkO1FUiABkZWF3jAF8OcFzdPUaiaS0-eNlZPoRSc80OcNkZkUaiaS0ShF8dc9lie81ZWJ0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicIKg1FzdemTdfJ4ShNc-AIlSY4zH6qJtKGbMg62JMJ7fbKzMsMMeMb6MKG4fJCgIMMjgkMfH6qJtkGbMg6FJMJ7fbKwMsMMegI6MKGHf57IMsMgeM96MKGHfF7xMsMfegw6MKGHfFrxMsMfeMw6MKGHf55xMsMfeMb6MKGHf5exMsMfeM96MKGHf5AxMsMfeMj6MKGHfF0xMsMfeMS6MKGHf5PxMsMfeMt6MKGHfFcxMsMfeMq6MKGHf5KxMsMfegM6MKGHfFkxMsMfegI6MTMg0Ocdt69.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Alice:400"/>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-d085206999fb5838c374-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/common-d085206999fb5838c374-min.en-US.js" ></script><script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/performance-a866b4a81e6ca81f130e-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/announcement-bar-33970f26f049800f79ac-min.en-US.js"},"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-2d61dcba272f024a7f15-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/blog-collection-list-f7e14bfdc5cf09298d8e-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-9acef2d24c6a994fca1a8a82e99e19c3-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-1f4a938d472611fe3581-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-d91d0646cc18787f3bab-min.en-US.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-a7b26c9ae88684f76d210b61d0b0d848-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-ff1a2249c2d5331d1653-min.en-US.js"},"squarespace-commerce-cart":{"js":"//static.squarespace.com/universal/scripts-compressed/commerce-cart-969d83c365abc38a2989-min.en-US.js"},"squarespace-commerce-checkout-v2_5":{"js":"//static.squarespace.com/universal/scripts-compressed/commerce-checkout-v2_5-d59ef45d19291bb3219e-min.en-US.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-7d0827ef14cce0b773fcd1eee28fbdee-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-84e7f3b59fe401315419-min.en-US.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-9acef2d24c6a994fca1a8a82e99e19c3-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-090ccec5c9b7c31a034f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//static.squarespace.com/universal/scripts-compressed/form-rendering-utils-ebba1c7f7a75a6e74e5d-min.en-US.js"},"squarespace-forms":{"css":"//static.squarespace.com/universal/styles-compressed/forms-ac7917c174031c937e3df4b3a2005b34-min.css","js":"//static.squarespace.com/universal/scripts-compressed/forms-7c4a413d7d05e326b480-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-7648566bab72920ef13d-min.en-US.js"},"squarespace-image-zoom":{"css":"//static.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/image-zoom-cb5275e89163cb85e96e-min.en-US.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-0f96759741e00f75abdf-min.en-US.js"},"squarespace-popup-overlay":{"css":"//static.squarespace.com/universal/styles-compressed/popup-overlay-7b48efeab9b323dfdb524a256cf61595-min.css","js":"//static.squarespace.com/universal/scripts-compressed/popup-overlay-fddd0a3cc4df3bc8dc66-min.en-US.js"},"squarespace-product-quick-view":{"css":"//static.squarespace.com/universal/styles-compressed/product-quick-view-bc8694b75a40e4bd969b662b80ebafb5-min.css","js":"//static.squarespace.com/universal/scripts-compressed/product-quick-view-5da5b2a09382ff51757a-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-117f3ba293cc438755ea-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-46313144c9748d143368-min.en-US.js"},"squarespace-search-page":{"css":"//static.squarespace.com/universal/styles-compressed/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"//static.squarespace.com/universal/scripts-compressed/search-page-f0dc80d298ceb8c2feee-min.en-US.js"},"squarespace-search-preview":{"js":"//static.squarespace.com/universal/scripts-compressed/search-preview-bd5db1693ff277904a2e-min.en-US.js"},"squarespace-share-buttons":{"js":"//static.squarespace.com/universal/scripts-compressed/share-buttons-0658835f3009ef166892-min.en-US.js"},"squarespace-simple-liking":{"css":"//static.squarespace.com/universal/styles-compressed/simple-liking-310d0b18e112f708f91339b11fd55714-min.css","js":"//static.squarespace.com/universal/scripts-compressed/simple-liking-277019a4db6d3dd92926-min.en-US.js"},"squarespace-social-buttons":{"css":"//static.squarespace.com/universal/styles-compressed/social-buttons-26106f808f7e9c739a7f862a408ed039-min.css","js":"//static.squarespace.com/universal/scripts-compressed/social-buttons-2cdd367fe8b7c20dc997-min.en-US.js"},"squarespace-tourdates":{"css":"//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/tourdates-91dfe6cc03695dd6e58e-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//static.squarespace.com/universal/styles-compressed/website-overlays-manager-df9cddfe3eca22764d10fd6fc4f4ad73-min.css","js":"//static.squarespace.com/universal/scripts-compressed/website-overlays-manager-b48752d5641c9ecaec37-min.en-US.js"}},"pageType":1,"website":{"id":"5afadb22e17ba3eddf90c02f","identifier":"scene-tiger","websiteType":1,"contentModifiedOn":1554979301568,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/London","machineTimeZoneOffset":3600000,"timeZoneOffset":3600000,"timeZoneAbbr":"BST","siteTitle":"CRIN","fullSiteTitle":"CRIN","siteDescription":"","logoImageId":"5b3105ff352f531fb525999a","shareButtonOptions":{"6":true,"8":true,"7":true,"1":true,"5":true,"3":true,"4":true},"logoImageUrl":"//static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1554979301568/","authenticUrl":"https://home.crin.org","internalUrl":"https://scene-tiger.squarespace.com","baseUrl":"https://home.crin.org","primaryDomain":"home.crin.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":32,"screenname":"Medium","addedOn":1527781451803,"profileUrl":"https://medium.com/and-beyond","iconEnabled":true,"serviceName":"medium"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"showOwnerLogin":false},"websiteSettings":{"id":"5afadb22e17ba3eddf90c032","websiteId":"5afadb22e17ba3eddf90c02f","subjects":[],"country":"GB","state":"ENG","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"announcementBarSettings":{"style":2,"text":"<p>Can't find what you're looking for? You can search our archive website <a href=\"https://archive.crin.org/\" target=\"_blank\">here</a>!</p><p></p><p></p>"},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"paymentSettings":{"paypalLiveMerchantId":"HGP4X8K2978PL"},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"<p>By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. <a href=\"https://www.crin.org/en/home/about/terms-and-conditions\">Read more</a></p>","cookieBannerTheme":"DARK","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"ICON","cookieBannerCtaText":"OK"},"websiteCloneable":false,"collection":{"title":"Home","id":"5b101c542b6a2888d277e98b","fullUrl":"/","type":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"2","tweak-blog-list-item-image-aspect-ratio-grid":"4:3 Four-Three","tweak-blog-list-item-image-aspect-ratio-stacked":"3:2 Standard","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"25px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Columns","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Packed","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"None","tweak-index-page-min-height":"53vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"2","tweak-product-list-item-hover-behavior":"Fade","tweak-product-list-items-per-row":"2","tweak-site-ajax-loading-enable":"true","tweak-site-border-show":"false","tweak-site-border-width":"10px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","pageFeatures":[1,2,4],"googleMapsStaticApiKey":"AIzaSyBQdch5IcgcQaKNG76sbMQv1MEBEKLeQ-8","impersonatedSession":false,"tzData":{"zones":[[0,"EU","GMT/BST",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://home.crin.org/home?format=RSS" />
+<script type="application/ld+json">{"url":"https://home.crin.org","name":"CRIN","description":"","image":"//static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1554979301568/","@context":"http://schema.org","@type":"WebSite"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5afadb22e17ba3eddf90c02f/245/55f0aac0e4b0f0a5b7e0b22e/5b0d6ced03ce64b8956cf7ce/324-05142015/1554912254877/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-38518657-4', 'auto');ga('send', 'pageview');</script><!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-5b101c542b6a2888d277e98b" class="tweak-social-icons-style-regular tweak-social-icons-shape-square tweak-site-width-option-constrained-width tweak-icon-weight-hairline  tweak-site-ajax-loading-enable tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-top-center ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-hide ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-spotlight tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-rounded  tweak-header-secondary-nav-hover-style-button tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-pill tweak-header-search-style-icon-only  tweak-header-cart-style-text tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-none  tweak-index-page-scroll-indicator-icon-only tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-light  tweak-index-gallery-layout-packed   tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-middle-center tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-columns  tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right tweak-mobile-bar-menu-icon-plus ancillary-mobile-bar-search-icon-position-bottom-right ancillary-mobile-bar-cart-position-hide tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-outline tweak-mobile-overlay-menu-primary-button-shape-pill   tweak-mobile-overlay-menu-secondary-button-style-outline tweak-mobile-overlay-menu-secondary-button-shape-pill tweak-quote-block-alignment-center  tweak-blog-meta-primary-category tweak-blog-meta-secondary-date tweak-blog-list-style-grid  tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-43-four-three tweak-blog-list-item-image-aspect-ratio-stacked-32-standard tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-below-excerpt tweak-blog-list-item-meta-position-above-title tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-below-title tweak-blog-item-share-position-below-content  tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-fade tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title  tweak-product-list-filter-display-top tweak-product-list-filter-alignment-center tweak-product-item-nav-show-none tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-right tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-pill tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-solid tweak-product-item-details-add-to-cart-button-shape-pill tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-hover  tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-pill medium-button-style-solid medium-button-shape-pill large-button-style-solid large-button-shape-pill image-block-poster-text-alignment-center  image-block-card-content-position-center image-block-card-text-alignment-left  image-block-overlap-content-position-center image-block-overlap-text-alignment-left  image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-pill tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show    tweak-share-buttons-standard-background-color native-currency-code-usd collection-5b101c542b6a2888d277e98b collection-type-index collection-layout-default homepage view-list mobile-style-available sqs-has-custom-cart has-logo-image has-social has-parallax-images has-parallax-images has-parallax-images enable-load-effects has-primary-nav has-secondary-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            <img src="//static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1554979301568/?format=1500w" alt="CRIN" class="Mobile-bar-branding-logo" />
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+    
+      <a href="/the-crin-code" class="Mobile-overlay-nav-item">
+        The CRIN Code
+      </a>
+    
+  
+    
+    
+      <a href="/rights-gallery" class="Mobile-overlay-nav-item">
+        Rights Gallery
+      </a>
+    
+  
+    
+    
+      <a href="/issues" class="Mobile-overlay-nav-item">
+        Issues
+      </a>
+    
+  
+    
+    
+      <a href="/evidence" class="Mobile-overlay-nav-item">
+        Evidence
+      </a>
+    
+  
+    
+    
+      <a href="/latest" class="Mobile-overlay-nav-item">
+        Latest
+      </a>
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+  
+    
+    
+      <a href="https://home.crin.org/site-search" class="Mobile-overlay-nav-item">
+        Search
+      </a>
+    
+  
+
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+
+  
+
+  
+
+        
+  
+
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5bcdaf5d7817f7df50a6912e"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5c34a7464d7a9c15848a8419"></div>
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5c007f16c2241b64dd56b3a4"></div>
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <header class="Header Header--top">
+        <div class="Header-inner Header-inner--top" data-nc-group="top">
+          <div data-nc-container="top-left">
+
+            <div class="Header-search" data-nc-element="search">
+              <form class="Header-search-form" action="/search" method="get">
+                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                  </svg>
+                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+          <div data-nc-container="top-center">
+            
+            
+              <div class="Header-social" data-nc-element="social">
+                
+  <nav class="SocialLinks" data-content-field="connected-accounts">
+    <div class="SocialLinks-inner">
+    <a href="https://medium.com/and-beyond" target="_blank" class="SocialLinks-link medium" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#medium-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#medium-mask"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+  </nav>
+
+              </div>
+            
+          </div>
+          <div data-nc-container="top-right">
+
+            
+
+          </div>
+        </div>
+      </header>
+
+      <div class="Site-inner Site-inner--index" data-controller="HeaderOverlay">
+
+        <header class="Header Header--bottom Header--overlay">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/the-crin-code" class="Header-nav-item">The CRIN Code</a><a href="/rights-gallery" class="Header-nav-item">Rights Gallery</a><a href="/issues" class="Header-nav-item">Issues</a><a href="/evidence" class="Header-nav-item">Evidence</a><a href="/latest" class="Header-nav-item">Latest</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    <img src="//static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5b3105ff352f531fb525999a/1554979301568/?format=1500w" alt="CRIN" class="Header-branding-logo" />
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="https://home.crin.org/site-search" class="Header-nav-item">Search</a>
+  </div>
+
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="5b101c542b6a2888d277e98b" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="new-page" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5bcdaf5d7817f7df50a6912e" data-parallax-id="5bcdaf5d7817f7df50a6912e" data-edit-main-image="Background">
+        
+          <div class="Index-page-scroll-indicator hidden" data-controller="ScrollIndicator">
+            <div class="Index-page-scroll-indicator-text">Scroll</div>
+            <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down" viewBox="0 0 48 23">
+              <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+            </svg>
+            <div class="Index-page-scroll-indicator-line"></div>
+          </div>
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1550520290772" id="page-5bcdaf5d7817f7df50a6912e"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1540206602138_27031"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-11 span-11"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="1.9262981574539364" data-block-type="21" id="block-yui_3_17_2_1_1540206602138_15656"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-9 span-9"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5bcdaf5d7817f7df50a6912f"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">&nbsp;In focus this month:</h3><h1 style="white-space:pre-wrap;"><strong>The CRIN Code</strong></h1><h3 style="white-space:pre-wrap;">We don't like business as usual. After a mutiny on the good ship CRIN, we are saying goodbye to five-year strategic plans, and instead, we bring you The CRIN Code. </h3><h3 style="white-space:pre-wrap;">It sets out our values, our principles and our vision for a rights-respecting world and how we intend to get there, in the hope that others will collaborate or simply take inspiration and start their own rebellion.</h3></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1540207961022_14206"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="1.8425460636515913" data-block-type="21" id="block-yui_3_17_2_1_1540206602138_21554"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-10 span-10"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1540206602138_4853"><div class="sqs-block-content">
+<div class="sqs-block-button-container--center" data-alignment="center" data-button-size="large">
+	<a href="https://home.crin.org/the-crin-code" class="sqs-block-button-element--large sqs-block-button-element" >Join the mutiny</a>
+</div></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1540206602138_33337"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.06825938566552901" data-block-type="21" id="block-yui_3_17_2_1_1540206602138_16538"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c6b0edbf4e1fcbaed914da0/1550582706984/CodeBanner.jpg" data-image="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c6b0edbf4e1fcbaed914da0/1550582706984/CodeBanner.jpg" data-image-dimensions="2500x1768" data-image-focal-point="0.51,0.53" alt="CodeBanner.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="latest-from-crin" class="Index-page"  data-collection-id="5b5edfa38a922d8f9e5f55d3" data-parallax-id="5b5edfa38a922d8f9e5f55d3" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1554979301563" id="page-5b5edfa38a922d8f9e5f55d3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.0819000819000819" data-block-type="21" id="block-yui_3_17_2_1_1536233350982_59321"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1532944292768_8311"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Highlights</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.0819000819000819" data-block-type="21" id="block-yui_3_17_2_1_1550678881114_8839"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1538997913664_6753"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Respecting the right to protest</h3><p style="white-space:pre-wrap;">School students have led major protests in recent months against climate change negligence and stood up to the complacency of passive politicians. CRIN has written a statement supporting the student strikes, along with a template students can use to challenge the threat of punishments for protesting.&nbsp;</p><p style="white-space:pre-wrap;"><a href="https://home.crin.org/students-have-a-right-to-protest-schools-must-respect-it" target="_blank">Download the statement and letters.</a></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1532944842387_81676"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Russia’s anti-LGBT law on trial</h3><p style="white-space:pre-wrap;">In our latest case study we examine several challenges to Russia's "gay propaganda" laws. Passed using the protection of children as an excuse to silence discussions about LGBT issues, these laws&nbsp;effectively deny&nbsp;freedom of expression and access to information on gender and sexual diversity.&nbsp;</p><p style="white-space:pre-wrap;"><a href="https://home.crin.org/russia-gay-propaganda-law">Read our new case study.</a></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1532944842387_75950"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">What Lies Beneath: Silence</h3><p style="white-space:pre-wrap;">For the first edition of our new magazine series,&nbsp;<em>What Lies Beneath</em>&nbsp;explores the role silence plays in human rights. It identifies the role each of us can play in confronting the issues&nbsp;as it tackles them in open conversation, inviting people to think critically about the norms we live by.</p><p style="white-space:pre-wrap;"><a href="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c0e3d4388251bdf0c37c455/1544437121298/What+Lies+Beneath%3A+Silence.pdf">Download the full magazine.</a></p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.0819000819000819" data-block-type="21" id="block-yui_3_17_2_1_1550678881114_15624"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="and-beyond-homepage" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5c34a7464d7a9c15848a8419" data-parallax-id="5c34a7464d7a9c15848a8419" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1553107976066" id="page-5c34a7464d7a9c15848a8419"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-752118682dc994b9bdb0"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="3.0726256983240225" data-block-type="21" id="block-62926b336cb0551d4886"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a39f7e19fb969c31a191"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">And Beyond</h2><p style="white-space:pre-wrap;">Many more of us can play a positive role in advocating for a better world for children. We therefore want to open up discussions around children’s rights for all audiences, presenting and unfolding bold ideas on issues which—whether we know it or not—affect children and young people.</p><p style="white-space:pre-wrap;">And Beyond is a creative project by CRIN, which looks at the world through stories, humour, artwork and our vision for the future. </p></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-ae7b665a0356ddd9f181"><div class="sqs-block-content">
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="http://medium.com/and-beyond" class="sqs-block-button-element--small sqs-block-button-element" >Hear CRIN's big ideas</a>
+</div></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1549279258451_8039"><div class="sqs-block-content">
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-extra-large social-icons-shape-circle social-icons-style-knockout" >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://medium.com/and-beyond" target="_blank" class="sqs-svg-icon--wrapper medium">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#medium-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#medium-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1549292991253_8410"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-55736c38b00cd1eadf3d"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="9.523809523809524" data-block-type="21" id="block-d2f701a26a049bb25c6d"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-08b1bdebdb5309d21d00"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-fab1f395d92e26e4e161"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-ef99d30bdd37f8489202"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-346ade938c49c0ce062c"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-438353729a0946fa499b"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-90784325dc91208ddc7e"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-869cd5b0ee187d5fe015"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c49d26c8a922d0603f64d88/1549227632529/and_beyond_main_image_white_small.jpg" data-image="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c49d26c8a922d0603f64d88/1549227632529/and_beyond_main_image_white_small.jpg" data-image-dimensions="2500x1555" data-image-focal-point="0.5,0.5" alt="and_beyond_main_image_white_small.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="what-lies-beneath-test-maria" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5c007f16c2241b64dd56b3a4" data-parallax-id="5c007f16c2241b64dd56b3a4" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1553167657983" id="page-5c007f16c2241b64dd56b3a4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544788798530_31033"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-11 span-11"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1553165283928_27439"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1543536420796_4251"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;"><strong>What Lies Beneath&nbsp;</strong></h1></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544789593811_31163"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1544789593811_26587"><div class="sqs-block-content"><div style="color: white;"> <p> So many rights violations continue unabated worldwide largely owing to factors that lie in the shadows unchallenged. And children, just like all humans, are affected by these, if not more so because they are children. 
+
+<p>A new magazine series, What Lies Beneath is a creative project intent on openly talking about such issues, which keep us from evolving as a species. It’s a conversation where the language is accessible, the content is provocative, and readers are encouraged to think critically about the world and its norms and to start their own conversations.  
+
+ </p> <p></div>
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1553165283928_16075"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1553165283928_12358"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-11 span-11"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1544788798530_47246"><div class="sqs-block-content">
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="medium">
+	<a href="/what-lies-beneath-magazine" class="sqs-block-button-element--medium sqs-block-button-element" >Read it here</a>
+</div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1553165283928_18393"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544788798530_22351"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-11 span-11"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544788798530_52989"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c0e7c804fa51abe99b77c3a/1546954642378/underwater_3.jpg" data-image="https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/5c0e7c804fa51abe99b77c3a/1546954642378/underwater_3.jpg" data-image-dimensions="2500x2072" data-image-focal-point="0.5,0.5" alt="underwater_3.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#new-page" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Homepage banner</span></div>
+          </a>
+        
+          <a href="#latest-from-crin" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Latest from CRIN</span></div>
+          </a>
+        
+          <a href="#and-beyond-homepage" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>And beyond homepage</span></div>
+          </a>
+        
+          <a href="#what-lies-beneath-test-maria" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>What Lies beneath test Maria</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1554890075596" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1536233350982_48329"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1536233350982_41370"><div class="sqs-block-content"><hr /></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1548160851170_7347"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1548249540610_62638"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546959160017_240914"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">ABOUT</h3></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546959160017_214792"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">RESOURCES</h3></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546959160017_158808"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">CONTACT</h3></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1548249540610_65426"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html sqs-col-3 span-3 float float-right" data-block-type="2" id="block-yui_3_17_2_1_1548249540610_25339"><div class="sqs-block-content"><p style="white-space:pre-wrap;"><a href="https://archive.crin.org/en/library/legal-database.html">Legal database</a><br><a href="/evidence/un-submissions">UN submissions</a><br><a href="/evidence/legal-case-studies">Legal case studies</a></p></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1548249540610_23268"><div class="sqs-block-content"><p style="white-space:pre-wrap;"><a href="/the-crin-code">The CRIN Code<br></a><a href="/governance">Governance</a><br><a href="/terms-and-conditions">Terms and conditions</a><br><a href="/work-with-us">Work with CRIN</a><br><a href="/faq">FAQs</a><br><a href="/people">People at CRIN</a><br><a href="/newsletter">Newsletter</a><br><a href="http://home.crin.org/invest">Invest</a></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1548249540610_50097"><div class="sqs-block-content"><p style="white-space:pre-wrap;"><a href="/contact">Contact us</a><br>Cottage 2, Old Paradise Yard<br>20 Carlisle Lane, SE1 7LG<br>London, UK<br><br><a href="https://twitter.com/CRINwire">Twitter</a><br>@CRINwire</p><p style="white-space:pre-wrap;"><a href="https://www.instagram.com/crin_Stagram/" target="_blank">Instagram</a><br>@CRIN_stagram</p><p data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1548249540610_27804"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;">Copyright © 2019 Child Rights International Network.&nbsp;</p><p style="text-align:center;white-space:pre-wrap;">Content on this website is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license</a>.  </p></div></div></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1452386857557" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1532946986900" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/324/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none"><symbol id="medium-icon" viewBox="0 0 64 64"><path d="M46.908,23.95c-0.006-0.005-0.011-0.01-0.018-0.014l-0.01-0.005l-9.05-4.525c-0.061-0.031-0.125-0.051-0.19-0.068c-0.082-0.021-0.165-0.034-0.249-0.034c-0.347,0-0.692,0.174-0.878,0.477l-5.21,8.467l6.538,10.625l9.095-14.779C46.966,24.046,46.952,23.985,46.908,23.95z M28.433,35.958L37,40.241L28.433,26.32V35.958zM38.287,40.884l7.052,3.526C46.256,44.869,47,44.548,47,43.693V26.726L38.287,40.884z M26.946,23.964l-8.839-4.419c-0.16-0.08-0.312-0.118-0.449-0.118c-0.387,0-0.659,0.299-0.659,0.802v19.083c0,0.511,0.374,1.116,0.831,1.344l7.785,3.892c0.2,0.1,0.39,0.147,0.561,0.147c0.484,0,0.823-0.374,0.823-1.003V24.051C27,24.014,26.979,23.98,26.946,23.964z"/></symbol><symbol id="medium-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M27,43.693c0,0.628-0.339,1.003-0.823,1.003c-0.172,0-0.362-0.047-0.561-0.147l-7.785-3.892C17.374,40.428,17,39.823,17,39.312V20.229c0-0.503,0.271-0.802,0.659-0.802c0.137,0,0.289,0.038,0.449,0.118l8.839,4.419C26.979,23.98,27,24.014,27,24.051V43.693z M28.433,35.958V26.32L37,40.241L28.433,35.958z M31.303,28.248l5.21-8.467c0.187-0.303,0.532-0.477,0.878-0.477c0.084,0,0.167,0.013,0.249,0.034c0.065,0.017,0.129,0.038,0.19,0.068l9.05,4.525l0.01,0.005c0.007,0.003,0.012,0.009,0.018,0.014c0.043,0.034,0.058,0.095,0.028,0.145l-9.095,14.779L31.303,28.248z M47,43.693c0,0.855-0.744,1.176-1.661,0.717l-7.052-3.526L47,26.726V43.693z"/></symbol></svg>
+
+  </body>
+</html>

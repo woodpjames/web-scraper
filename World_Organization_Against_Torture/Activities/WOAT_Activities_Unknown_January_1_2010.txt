@@ -1,0 +1,260 @@
+Sponsorship project “Defend the Defenders”
+January  1, 2010
+Save as PDF Print versionHuman rights defenders / Statements / 2010 / JanuarySponsorship project “Defend the Defenders”function afficheId(baliseId) 
+  {
+  if (document.getElementById && document.getElementById(baliseId) != null) 
+    {
+    document.getElementById(baliseId).style.visibility='visible';
+    document.getElementById(baliseId).style.display='block';
+    }
+  }
+
+function cacheId(baliseId) 
+  {
+  if (document.getElementById && document.getElementById(baliseId) != null) 
+    {
+    document.getElementById(baliseId).style.visibility='hidden';
+    document.getElementById(baliseId).style.display='none';
+    }
+  }
+
+// si JavaScript est disponible, cache le contenu dès le 
+// chargement de la page. Sans JavaScript, le contenu sera 
+// affiché.
+
+
+
+Current sponsors and “their” human rights defenders
+     
+
+
+ sponsors
+human rights defenders
+
+
+
+ Ms. Noémie Kocher
+
+ cacheId('contenu1a');[Hide details]
+ 
+            Ms. Noémie Kocher is an authentic actress, who has worked for many well-known directors, such as Pierre Aknine, Pierre Boutron, Miguel Courtois, François Luciani, Philippe Triboit, Bernard Uzan, Patrick Volson and Ariel Zeitoun. 
+            The Swiss actress who lives in Paris started her career at the theatre and has since then been seen on television, at the theatre and in cinema. 
+            Some of her cinema highlights are films such as 1 Journée (2006/Jacob Berger), which won awards at several festivals, Aime ton Père (2001/Jacob Berger), Les savates du bon Dieu (1998/Jean-Claude Brisseau), Une Femme très, très amoureuse (1996/Ariel Zeitoun), Les Agneaux (1995/Marcel Schupbach), and many more. Furthermore, she did several TV-productions, such as Julie Lescaut episode « Julie à Paris » (2008/Jean Michel Fages).
+
+
+
+
+ Mrs. Marisela Ortíz Rivera (Mexico)
+
+ cacheId('contenu1b');[Hide details]
+ 
+Mrs. Marisela Ortíz Rivera is the Director of the association May Our Girls Go Home, an organisation that militates for justice in the cases of women kidnapped and assassinated in Ciudad Juárez, State of Chihuahua, Mexico. 
+            The rape by strangers of an ex-student of the teacher Marisela Ortíz motivated the latter to protest publicly against the feminicide of Ciudad Juárez. This is how the association May Our Girls Go Home was created.
+            Within the framework of her activities, Mrs. Ortíz Rivera has received threats in several occasions. Even if her actions have visualized the feminicide-problematic at an international level, the State and the authorities still hide under a policy of concealment, of silence and of intimidations. Mrs. Marisela Ortíz says that she will not surrender by all these threats and aggressions but that she will go on fighting for the purpose of peace and justice in Ciudad Juárez. 
+
+
+
+
+
+
+Mrs. Rosemarie Zapfl
+
+cacheId('contenu2a'); [Hide details]
+ 
+Mrs. Rosemarie Zapfl-Helbling is both a Swiss businesswoman and a politician. From 1974 to 1990 she served as a municipal councillor, from 1995 to 2006 she was elected in the national council and from 2002 to 2006 she was the President of the Christian Democratic Party (CVP) International.
+            Today she presides the Swiss women association called Alliance F, the Federal Commission on Alcohol Problems as well as the Alliance Against Hunger. Furthermore she is the President of the Swiss Association of Foreign Affairs. Mrs. Zapfl is married and has three adult children.
+            In addition, during her time as a Parliament member Mrs. Zapfl was the Vice-Chairperson of the Committee on Equal Opportunities for Women and Men of the Parliamentary Assembly of the Council of Europe.
+
+
+
+
+ Mrs. Mao Hengfeng (China)
+
+cacheId('contenu2b'); [Hide details]
+ 
+Mrs. Mao Hengfeng has been active in defending housing rights, opposing forced evictions and also in promoting women’s reproductive rights in Shanghai, China. She has been arbitrarily detained in May 2006, sentenced to two and a half years’ imprisonment in April 2007 and was finally released in November 2008.
+            As a mother of twins, she was reportedly dismissed from her job in 1988 because she became pregnant for a second time, in contravention of China’s family planning regulations. Mrs. Mao refused to have an abortion, and was subsequently detained in a psychiatric hospital. After giving birth she was dismissed from her job. 
+            From 1990 to 2004, she petitioned repeatedly the authorities for redressing her dismissal from work and the denial of other basic rights. She also made several attempts to initiate legal proceedings against the authorities in relation to these abuses. During her years of petitioning, she has been forcibly detained several times in prisons and psychiatric facilities. She is in poor health condition and has several times been on hunger strike to protest against her situation. 
+
+
+
+ 
+
+
+
+Mr. Dimitri
+
+cacheId('contenu3a'); [Hide details]
+ 
+Mr. Dimitri was born in Ascona/Ticino in 1935. At the age of seven he decided to become a clown. He first became an apprentice potter and at the same time he took theatre classes and studied music as well as ballet and acrobatics. Then he went to Paris where he studied mime with Etienne Decroux and became a member of Marcel Marceau's troupe. He appeared as Auguste with the famous white clown Maïss at Circus Medrano in Paris.
+            In 1959 he appeared for the first time in a programme of his own and soon tours followed throughout the world, as well as three tours with the Swiss National Circus Knie. In 1971, Mr. Dimitri, together with his wife Gunda, founded the Teatro Dimitri, in 1975 the Scuola Teatro Dimitri and in 1978 the Compagnia Teatro Dimitri. In 2000, he founded together with Harald Szeemann the Museo Comico in Verscio. 
+            Mr. Dimitri is still considered one of the world's best clowns who not only makes his public laugh but also with his poetic mind and generous heart touches his audience deeply.
+
+
+
+
+ Mr. Stanislas Dmitrievsky (Russian Federation) and Mrs. Justine Masika Bihamba (DRC)
+
+cacheId('contenu3b'); [Hide details]
+ 
+Mr. Stanislas Dmitrievsky is the Editor-in-chief of the newspaper Pravozaschita, a joint publication of the Russian-Chechen Friendship Society (RCFS) and the Nizhny Novgorod Society for Human Rights (NNSHR), as well as the former Executive Director of the RCFS, a human rights organisation based in Nizhny Novgorod, Russian Federation. The RCFS was closed in January 2007 following a decision taken by the Supreme Court but continues its operations as a Finland-registered NGO. 
+            The RCFS submitted its case to the European Court of Human Rights (ECHR) with the argument that article 11 of the European Convention of Human Rights on freedom of assembly has been violated.
+            In February 2006, Mr. Dmitrievsky received a suspended sentence of two years in prison and four years of probation for incitement to racial hatred. He has since then been very much restricted in his work as a journalist and a human rights defender. Mrs. Justine Bihamba is the Coordinator of the Women's 
+Synergy for Victims of Sexual Violence (Synergie des Femmes pour les 
+Victimes des Violences Sexuelles-SFVS) and Vice President of the Civil 
+Society of North Kivu (Société civile du Nord Kivu).  
+
+
+
+
+
+Mrs. Gardi Hutter
+
+cacheId('contenu6a'); [Hide details]
+ 
+Mrs. Gardi Hutter is a Swiss actress and author. She performs herself as a well-known clown-comedian. She wrote and presented several clown theatre plays; was a clown in the Swiss National Circus Knie for the season 2000; realised more than 2,700 performances in 22 countries on four continents; created sketches for TV and films etc. As a mother she writes and illustrates books for children.
+            Today she is highly esteemed for clown-theatre all around the world.
+
+
+
+
+
+ Mrs. Maria Conceiçao Andrade Paganele Santos (Brazil)
+
+cacheId('contenu6b'); [Hide details]
+ 
+Mrs. Maria Conceição Andrade Paganele Santos is the President of the Sao Paolo based organisation Mothers and Friends of Adolescents at Risk (AMAR), in Brazil.
+            In 2006 she was accused of having caused suffering, inciting crimes, of conspiracy and of having helped prisoners to escape after she had denunciated acts of collective torture against prisoners minor of age.
+            In addition, Mrs. Paganele has been involved in other police investigations in relation to two prison rebellions of the State Foundation of well-being of Minors (FEBEM) in 2005 and 2006.
+
+
+
+
+
+
+
+Mr. Marco Solari
+
+cacheId('contenu7a'); [Hide details]
+ 
+            Born in Ticino in 1944, Mr. Marco Solari graduated in social science at the University of Geneva.
+            From 1972 to 1991, he was the head of the Ticino Tourist Authority and in 1988 he was also appointed by the Swiss Federal Council as responsible delegate of the official celebrations for the 700th anniversary of Switzerland.
+            From 1992 to 1997, Mr. Marco Solari acted as a delegate of the board of the Federation of Cooperatives MIGROS, resigning from this appointment in order to take over the role of vice-president in the general management of Ringier, one of the major Swiss editorial groups, also active at an international level. He resigned from Ringier in 2004.
+            In 2000 he has been appointed President of the Locarno International Film Festival. In 2007, he became President of the Ticino Tourist Authority again.
+
+
+
+
+
+ Mr. Donat M’baya Tshimanga (Democratic Republic of Congo) 
+cacheId('contenu7b'); [Hide details]
+ 
+Mr. Donat M’baya Tshimanga is the President of Journalists in Danger (JED), a Kinshasa based independent and non-partisan organisation dedicated to the defence and promotion of the press freedom in the Democratic Republic of Congo and eight more central African countries.
+            At several occasions, Mr. M’baya had to hide himself or to flee the DRC after receiving serious threats due to his human rights activities. In 2006 and 2007, Mr. M’baya and Mr. Tshivis Tshivuadi, JED Secretary General, received numerous threatening phone calls and were forced into hiding several times. This series of menaces against them started shortly after JED had published an article disclosing its preliminary conclusions about the murder of a well-known journalist. 
+            Up to now, the threats are ongoing.
+
+
+
+
+
+
+Mr. Jacques Pilet
+
+cacheId('contenu8a'); [Hide details]
+ 
+Mr. Jacques Pilet is a Swiss journalist who collaborated, among others, with the Télévision Suisse Romande (Temps présent), where he produced the political show Tell Quel. 
+            In 1981 he created and headed the weekly newspaper L’Hebdo. In 1991 he launched Le Nouveau Quotidien. In 1998, he joined the board of Ringier in Zurich.
+            Mr. Pilet still collaborates regularly with L'Hebdo, CICERO (Berlin) and Sonntagsblick/Sie und Er.
+
+
+
+ Mr. Ziyad Muhammad Shehadeh Hmeidan (Occupied Palestinian Territories) 
+cacheId('contenu8b'); [Hide details]
+ 
+Mr. Ziyad Muhammad Shehadeh Hmeidan is a student at Birzeit University and a Palestinian human rights worker from Bethlehem. Since 2000 he has been a fieldworker with the Palestinian human rights organisation Al-Haq, which conducts research and advocacy works on human rights. 
+            The Israeli authorities, without charge or fair trial, detained him from May 2005 to March 2007 on the basis of “secret evidence” and "suspicion of involvement in terrorist activities" that were not disclosed to neither Mr. Hmeidan nor his lawyer, effectively rendering it unchallengeable in judicial proceedings and denying his right to a fair trial. 
+            Mr. Hmeidan’s administrative detention order was extended at several occasions, always on the basis of the “secret evidence” and he was finally released in March 2007.
+
+
+
+
+
+Mr. Jean-Luc Bideau
+
+cacheId('contenu10a'); [Hide details]
+ 
+Mr. Jean-Luc Bideau is one of the most famous Swiss actors. He made his debut on stage at the popular national theatre in Aturo Ui (France). In 1969, he returned to Switzerland, where he became a famous figure of Swiss cinema. 
+            From 1972 on he has also played frequently at the theatre with, in particular, his passing between 1988 and 1998 at the Comédie-Française. 
+            Since now he has played in more than 100 movies.
+
+
+
+ Mr. Jaime Amorim (Brazil)
+
+cacheId('contenu10b'); [Hide details]
+ 
+Mr. Jaime Amorim is a leading member of the National Coordination of the Landless Workers Movement (MST) in the State of Pernambuco, Brazil. 
+            Within the framework of his work Mr. Amorim was arrested several times. In May 2008, Mr. Amorim was condemned to four months in prison in open regime, which means that he has the obligation to sleep in the prison, while remaining free during the day. Mr. Amorim, who had participated in a peaceful demonstration on 5th November 2005, in front of the Embassy of the United States, as a result of which he had been arrested on 21st August 2006, was accused of “incitement to commit a crime”.
+
+
+
+
+
+
+
+
+Ms. Cristina Del Valle 
+cacheId('contenu13a'); [Hide details]
+ 
+Ms. Cristina del Valle is a singer and Spanish activist who was born in Oviedo/Asturias in 1960. In 1980, she moved to Madrid for studying criminology and in 1976 she started to work in different groups of social action, NGOs and other organisations working against gender violence. 
+            Ms. Cristina del Valle made reality her idea of creating an organisation composed by women of the different artistic and cultural scopes – feeling responsible for the condition of women – with the purpose of adding all their forces for militating for the rights of women. Until now this organisation, called Women Artists Platform, accomplished several missions everywhere in the world. In addition, Ms. Cristina del Valle was the Director of the radio programme Word of Women and in 2004 she was appointed Ambassador of the United Nations for the Campaign of the Millennium Development Goals. 
+            As a singer, she began her career with the group Vodevill, but soon she edited her solo disc called Cris. Together with Alberto Comesaña, she formed the successful musical group Amistades Peligrosas, which split up in 1998 and was re-united in 2003. 
+            She has received several prizes from different women organisations and institutions all over Spain. In Viso of Alcor/Sevilla a Cristina del Valle-street was inaugurated as a tribute to her fight for defending women’s rights.
+
+
+
+
+ Ms. Jennifer Williams / Mrs. Magodonga Mahlangu (Zimbabwe)
+
+cacheId('contenu13b'); [Hide details]
+ 
+
+
+Ms. Jennifer Williams is the National Coordinator of 
+Women and Men of Zimbabwe Arise (WOZA), a civic movement that defends women's
+rights and freedoms in Zimbabwe.
+
+
+
+
+
+
+
+Mr. Dick Marty
+
+cacheId('contenu14a'); [Hide details]
+ 
+Mr. Dick Marty, who was born on 7th January 1945 in Sorengo, Ticino, is a Swiss politician of the Free Democratic Party (FDP) and has been representing the canton Ticino in the Council of States since 1995. In addition, he is a delegate of the Council of Europe and member of the Human Rights Commission of the Organisation for Security and Cooperation in Europe (OSCE). 
+            Mr. Dick Marty studied jurisprudence at the University of Neuchatel. In 1975 he was appointed Public Prosecutor of the canton Ticino. He was noticed in this function because of his energetic fight against organised crime and drug abuse. In 1989, Mr. Marty became Councillor of the canton Ticino. In this function, he led the cantonal finance department and was the councils’ President in 1992. After his election in the Council of States in 1995 he withdrew from this executive mand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            As a State Councillor, he was a member of different important commissions and played a key role with the consultation over the new Swiss Federal Constitution. 
+            Mr. Marty works part-time as a lawyer and economic adviser. From 1996 to 2007 he was President of the organisation mySwitzerland.
+
+
+Mrs. Justine Masika Bihamba (DRC)
+
+cacheId('contenu14b'); [Hide details]
+ Mrs. Justine Bihamba is the Coordinator of the Women's Synergy for Victims of Sexual Violence (Synergie des Femmes pour les Victimes des Violences Sexuelles-SFVS) and Vice President of the Civil Society of North Kivu (Société civile du Nord Kivu).  She has been threatened several time due to her human rights activities. On March 15, 2012, she received threats following the interview she had given the day before to BBC radio, in which she had welcomed the International Criminal Court (ICC) ruling issued the very same day against Thomas Lubanga Dyilo, found guilty of war crimes for recruitment, enlistment, and use of child slodiers in Ituri. She had, on the same occasion, urged the ICC and the Congolese authorities to implement the warrants issued against the other alleged authors of grave crimes carried out in the Eastern DRC, in particular General Bosco Ntaganda. Following this interview, General Ntaganda and other FARDC colonels would have planned actions to "silence" her. In addition, on March 27, 2012, Mrs. Bihamba received an anonymous threatening message by phone, which stated the following: "Justine Masika, stop meddling in things that are none of your business". 

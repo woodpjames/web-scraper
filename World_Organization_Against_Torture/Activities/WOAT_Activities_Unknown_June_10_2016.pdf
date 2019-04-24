@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://eeas.europa.eu/sites/eeas/themes/eeas/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="European Union External Action" />
+<meta name="description" content="EEAS - European External Action Service - European Union External Action" />
+<meta name="robots" content="follow, index" />
+<meta name="keywords" content="European Commission, European Union, EU" />
+<meta name="generator" content="Drupal 7 (https://drupal.org)" />
+<link rel="canonical" href="https://eeas.europa.eu/headquarters/headquarters-homepage_en" />
+<link rel="shortlink" href="https://eeas.europa.eu/headquarters/headquarters-homepage_en" />
+<meta http-equiv="content-language" content="en" />
+<meta name="revisit-after" content="15 days" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="EEAS - European External Action Service - European Commission" />
+<meta property="og:url" content="https://eeas.europa.eu/headquarters/headquarters-homepage_en" />
+<meta property="og:title" content="EEAS - European External Action Service" />
+<meta property="og:description" content="European Union External Action" />
+<meta name="twitter:url" content="https://eeas.europa.eu/headquarters/headquarters-homepage_en" />
+<meta name="twitter:title" content="EEAS - European External Action Service" />
+<meta name="twitter:description" content="European Union External Action" />
+<meta name="dcterms.title" content="EEAS - European External Action Service" />
+<meta name="dcterms.description" content="European Union External Action" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.identifier" content="https://eeas.europa.eu/headquarters/headquarters-homepage_en" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="creator" content="COMM/DG/UNIT" />
+<meta name="reference" content="EEAS - European External Action Service" />
+<meta name="X-UA-Compatible" content="IE=edge" />
+<meta name="date" content="11/04/2019 - 17:26" />
+<meta name="classification" content="26000" />
+  <title>European Union External Action - European External Action Service</title>
+  <link type="text/css" rel="stylesheet" href="https://eeas.europa.eu/sites/eeas/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eeas.europa.eu/sites/eeas/files/advagg_css/css__KfaGWkBzu1uqard-9PBahQuNMEE0ZaeCcXNkteeimRg__MrnOyVWFmvrYFphoY1SNK2OniYK7WRQWpj5gU3Ugs2A__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eeas.europa.eu/sites/eeas/files/advagg_css/css__8QyWOe5YHcUd5rl96v8mHgG9EGC4AhVmxoIHkSwwt3E__L08bRmFcuSDBnp3aiK1fXjZ0NASNwb5l0vDvAeYTwiE__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#0779bf;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-more-button,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important;}.eu-cookie-withdraw-tab{border-color:#fff;}
+
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="https://eeas.europa.eu/sites/eeas/files/advagg_css/css__yviu5_pFZfA-qn2EkGEZNpsk5pZrVfrnf4BJlTZxCyg__u8UePQCwplExcCiZ34Sd24-7VXhWhkJq5X_gLLAfHQg__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eeas.europa.eu/sites/eeas/files/advagg_css/css__ioLyQ08_N_7l_VJMR4F8jiWpGZBvSLqtlW6o8UnF8nA__JQw4gQf3y2Bc5xnkTjMvXAn7J561_-4WW53s_OO83nA__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.css" media="print" />
+
+    <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="/profiles/multisite_drupal_standard/themes/ec_resp/scripts/html5shiv.min.js"></script>
+    <script src="/profiles/multisite_drupal_standard/themes/ec_resp/scripts/respond.min.js"></script>
+
+    <![endif]-->
+  <script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__r-o2T1yHiK3fIr0JQxkS34_rfbTSvEhmhnAue0OUnts__LOGJbIpGkynalCSfcR1h34ImWYBGTa_dPChPTpArKqg__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__eVOQlsQ5DmnVIVcgbA9cJnpSXqMamS5hW2hlOg_hfJs__nlJa2k-H1b4mEV79PvtspSjQ4p37Fzj3dIK2Vx7hQeU__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__0w50duIPT1yNJ-3lnb-Uf-XgTBwA3iSfF6Doglvtu2c__BzHOYR1hFDLbJGE5l2_bQiOzHhiM5qIYQbq_5-skW0I__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__wHkvU4o3WGIfrQmXGFoIzB3QT2kBHHM7Z0WI9KeS5gY__uKL9wPTNTO-XWrpFxPWDFhr_VAXEyC0W1Wtm5p9B6qM__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript" defer="defer" src="//europa.eu/webtools/load.js"></script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__eV8aO5_BmpRdQbEtoYqILJlm6z0fA3QmoryxBKnuctM__WBni54kmJpv6AtTM0MY92i5peeDOb7mYBn998TRjuFM__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__iS-VD3D3Z3xp-dr2e7yLt9KKjhvYC3FTdq_p8dKTCZ0__zhRwuiE-fuJGpDYSaVCxpHPB621WDxt9FHiQ6jGb8Mg__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"eeas","theme_token":"gNelNFa8NHys2wQpM6dEMZ26JTdLPBez9YyJX_ES13A","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/eeas\/modules\/contrib\/simplenews\/simplenews.css":1,"profiles\/multisite_drupal_standard\/modules\/features\/cce_basic_config\/cce_basic_config.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/ckeditor_lite\/css\/ckeditor_lite.all.css":1,"modules\/comment\/comment.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/ecas\/ecas_import_users\/css\/ecas_import_users.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/views\/css\/views.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/video\/css\/video.css":1,"modules\/locale\/locale.css":1,"sites\/eeas\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/eeas\/modules\/features\/eeas_category\/css\/eeas_category.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/multisite_drupal_toolbox\/icons\/style.css":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/jquery.fancybox.css":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-buttons.css":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-thumbs.css":1,"0":1,"profiles\/multisite_drupal_standard\/themes\/ec_resp\/css\/ec_resp.css":1,"sites\/eeas\/themes\/eeas\/css\/eeas.min.css":1,"profiles\/multisite_drupal_standard\/themes\/ec_resp\/css\/print.css":1,"sites\/eeas\/themes\/eeas\/css\/eeas-print.min.css":1},"js":{"profiles\/multisite_drupal_standard\/themes\/ec_resp\/scripts\/ec.js":1,"profiles\/multisite_drupal_standard\/themes\/ec_resp\/scripts\/jquery.mousewheel.min.js":1,"profiles\/multisite_drupal_standard\/themes\/ec_resp\/scripts\/ec_resp.js":1,"sites\/eeas\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/eeas\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"misc\/form.js":1,"sites\/eeas\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"profiles\/multisite_drupal_standard\/modules\/features\/ec_embedded_image\/ec_embedded_image.js":1,"profiles\/multisite_drupal_standard\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/video\/js\/video.js":1,"sites\/eeas\/modules\/features\/eeas_category\/js\/eeas_category.js":1,"misc\/autocomplete.js":1,"\/\/europa.eu\/webtools\/load.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/jquery.fancybox.pack.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-buttons.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-media.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-thumbs.js":1,"profiles\/multisite_drupal_standard\/themes\/ec_resp\/bootstrap\/js\/bootstrap.min.js":1,"sites\/eeas\/themes\/eeas\/js\/flexmenu.js":1,"sites\/eeas\/themes\/eeas\/js\/eeas.js":1,"sites\/eeas\/themes\/eeas\/js\/owl.carousel.min.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/headquarters\/headquarters-homepage_en":true},"better_exposed_filters":{"views":{"eeas_promo_boxes":{"displays":{"block_5":{"filters":[]},"promo_bottom":{"filters":[]}}},"eeas_content_page":{"displays":{"mixed_top_presentation":{"filters":[]}}},"eeas_delegations_page":{"displays":{"articles":{"filters":[]},"press":{"filters":[]},"video":{"filters":[]},"block_1":{"filters":[]}}}}},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/headquarters\/headquarters-homepage\/3033\/privacy-statements_en","popup_link_new_window":1,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":1},"pathToTheme":"profiles\/multisite_drupal_standard\/themes\/ec_resp","password":{"strengthTitle":"Password compliance:"},"type":"setting"});
+//--><!]]>
+</script>
+    <script defer src="//europa.eu/webtools/load.js" type="text/javascript"></script>
+</head>
+<body class="html front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-38 i18n-en category-headquarters" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<a id="top-page"></a>
+    <div class="container-header-top">
+        <div class="container">
+            <div class="region region-header-top">
+    
+<div class="block block-eeas-all-institutions">
+  <div class="content">
+    <p>An official website of the European Union. <a href="#" class="eeas-all-institutions-link">See all European Institutions</a></p>
+    <div class="eeas-all-institutions-menu">
+      <div class="menu-block-wrapper menu-block-eeas-footer-eu-links menu-name-eeas-footer-eu-links parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix list-group list-group-flush list-unstyled"><li class="first leaf menu-mlid-1703" data-display-title="1"><a href="https://europa.eu" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">European Union</a></li>
+<li class="leaf menu-mlid-1704" data-display-title="1"><a href="https://eeas.europa.eu" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">European External Action Service</a></li>
+<li class="leaf menu-mlid-1705"><a href="https://ec.europa.eu" target="_blank" class="list-group-item">European Commission</a></li>
+<li class="leaf menu-mlid-1706"><a href="https://www.europarl.europa.eu" target="_blank" class="list-group-item">European Parliament</a></li>
+<li class="leaf menu-mlid-1707"><a href="https://www.consilium.europa.eu" target="_blank" class="list-group-item">European Council</a></li>
+<li class="last leaf menu-mlid-1708"><a href="https://europa.eu/european-union/about-eu/institutions-bodies" target="_blank" class="list-group-item">All EU Institutions</a></li>
+</ul></div>
+    </div>
+  </div>
+</div>
+<div id="block-eeas-category-eeas-category-social" class="block block-eeas-category panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <div id="eeas-social-top" class="eeas-social">
+  <div class="inner">
+    <div class="field field-type-custom field-name-field-eeas-social-rss"><a href="/headquarters/headquarters-homepage/rss_en?field_eeas_published_on_tid%5B%5D=2087&amp;language%5B%5D=%2A%2A%2ACURRENT_LANGUAGE%2A%2A%2A">View RSS feed</a></div><div class="field field-name-field-eeas-social-instagram field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.instagram.com/eudiplomacy/">https://www.instagram.com/eudiplomacy/</a></div></div></div><div class="field field-name-field-eeas-social-twitter field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://twitter.com/eu_eeas">http://twitter.com/eu_eeas</a></div></div></div><div class="field field-name-field-eeas-social-youtube field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.youtube.com/user/EUExternalAction?feature=mhee">https://www.youtube.com/user/EUExternalAction?feature=mhee</a></div></div></div><div class="field field-name-field-eeas-social-flickr field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.flickr.com/photos/eeas/">http://www.flickr.com/photos/eeas/</a></div></div></div><div class="field field-name-field-eeas-social-facebook field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.facebook.com/EuropeanExternalActionService">http://www.facebook.com/EuropeanExternalActionService</a></div></div></div><div class="subscribe-newsletters"><h3>Sign-up</h3><form class="eeas-simplenews-sign-up-overview-form" action="/headquarters/headquarters-homepage_en" method="post" id="-eeas-simplenews-sign-up-overview-form" accept-charset="UTF-8"><div><fieldset class="form-wrapper" id="edit-term-newsletters"><div class="fieldset-wrapper"><div id="edit-term-newsletters--2" class="form-checkboxes"><div class="form-item form-type-checkbox checkbox form-item-term-newsletters-1631">
+ <input type="checkbox" id="edit-term-newsletters-1631" name="term_newsletters[1631]" value="1631" class="form-checkbox" />  <label class="option" for="edit-term-newsletters-1631">EEAS Press alerts </label>
+
+</div>
+<div class="form-item form-type-checkbox checkbox form-item-term-newsletters-684">
+ <input type="checkbox" id="edit-term-newsletters-684" name="term_newsletters[684]" value="684" class="form-checkbox" />  <label class="option" for="edit-term-newsletters-684">EEAS Newsletter </label>
+
+</div>
+</div></div></fieldset>
+<div class='hide'></div><div class='hide'></div><fieldset class="form-wrapper" id="edit-subscriptions"><div class="fieldset-wrapper"><div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-mail" name="mail" value="" size="20" maxlength="128" />
+</div>
+</div></fieldset>
+<input type="hidden" name="form_build_id" value="form-2DxevtdYgB-wz-aTH3ZVLBeInCy29kqB3TuClfqZVw8" />
+<input type="hidden" name="form_id" value="_eeas_simplenews_sign_up_overview_form" />
+<input type="submit" id="edit-subscribe" name="op" value="Subscribe" class="form-submit btn btn-default" /><input type="submit" id="edit-unsubscribe" name="op" value="Unsubscribe" class="form-submit btn btn-default" /><a href="/headquarters/headquarters-homepage/3023/subscribe-newsletters-and-alerts_en" class="simplenews-check-all">Check all our newsletters</a></div></form></div>  </div>
+</div>
+  </div>
+
+</div>
+  </div>
+        </div>
+    </div>
+    <div class="eeas-all-institutions-overlay"></div>
+
+<div id="layout-header" data-spy="affix" data-offset-top="220">
+  <div class="container">
+    <a href="/headquarters/headquarters-homepage_en" class="eeas-logo"><img id="banner-flag" typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/logo_en_small.jpg" alt="EEAS logo" /></a>          <div id="term-description"><div class="field field-name-description-field field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>European Union External Action</p>
+</div></div></div></div>
+      </div>
+
+    <div class="region-main-navigation">
+    <div class="container">
+        <div class="region region-main-nav">
+    
+<div id="main-menu" class="block block-system block-menu">
+  <div class="navbar navbar-default">
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <span class="navbar-logo">
+      <a href="/headquarters/headquarters-homepage_en" class="eeas-logo-small"><img id="menu-flag" typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/logo_en_small.jpg" alt="EEAS logo" /></a>    </span>
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="menu clearfix nav navbar-nav"><li><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/82/about-european-external-action-service-eeas_en">About Us</a></li><li><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/area/geo_en">EU in the World</a></li><li><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/area/foreign-affairs_en">What we do</a></li><li><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/area/press_en">Press and media</a></li><li><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/area/jobs-funds_en">Jobs &amp; Funds</a></li><li><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/area/citizen_en">Get Involved</a></li></ul>    </div>
+  </div><!-- /.navbar -->
+</div>
+<div id="block-search-form" class="block block-search panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <form action="/headquarters/headquarters-homepage_en" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="input-group">
+<div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text form-autocomplete" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><input type="hidden" id="edit-search-block-form--2-autocomplete" value="https://eeas.europa.eu/index.php?q=headquarters/headquarters-homepage/search-autocomplete_en" disabled="disabled" class="autocomplete" />
+</div>
+  <span class="input-group-btn">
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn btn-default btn-small form-submit" alt="Search" type="image" id="edit-submit" name="submit" value="Search" src="https://eeas.europa.eu/sites/eeas/themes/eeas/files/img/icons/search.png" /></div>  </span>
+</div>
+
+<input type="hidden" name="form_build_id" value="form-e_PxqgYsQen3aMIL_2D4wg3X0oVdnCFJTbpgKxY48vI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div></form>  </div>
+
+</div>
+<div id="block-eeas-user-eeas-login-link" class="block block-eeas-user panel panel-default clearfix" >
+  
+<span class="navbar-user"><a href="#" class="navbar-user-link">&nbsp;</a></span>
+  <div class="panel-body content">
+  <a href="/ecas" class="user-login">Log in</a><a href="/account_request_en" class="user-register">Sign up</a>  </div>
+
+</div>
+<div class="navbar-language">
+  <span class="off-screen">Current language:</span>  <a href="#" class="language-current">en</a>
+  <div class="item-list"><ul id="languages-selector" class="reset-list language-selector"><li class="selected first" title="English" lang="en"><span class="off-screen">Current language:</span> en</li>
+<li class="last"><a href="/headquarters/headquarters-homepage_fr" hreflang="fr" lang="fr" title="Français">Français</a></li>
+</ul></div></div>
+<span class="navbar-search"><a href="#" class="navbar-search-link">&nbsp;</a></span>
+  </div>
+    </div>
+  </div>
+  
+</div><!-- /#layout-header -->
+
+
+<div class="region-featured-wrapper">
+  <div class="container">
+      </div>
+</div>
+
+<div id="layout-pre-content" class="container">
+        <div class="tabs">
+              </div>
+  
+    <div class="pre-content">
+      
+                <h1 id="page-title">
+            European Union External Action          </h1>
+                </div>
+
+  </div>
+
+<div id="layout-body" class="container">
+
+  
+    <div class="row">
+      
+        <div id="content-wrapper"
+             class="col-lg-8 col-md-12 col-sm-12 col-md-12">
+            <a id="content"></a>
+          
+          
+          <a id="main-content"></a>
+                                    <div class="row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                                        <h1 class="title" id="content-title"></h1>
+                  
+                    <div class="region region-content">
+    <div id="block-views-eeas-delegations-page-articles" class="block block-views panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <div class="view view-eeas-delegations-page view-id-eeas_delegations_page view-display-id-articles view-dom-id-e398f842a3c893f4dcb54a7bd627273e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="/headquarters/headquarters-homepage/60750/eu-adopts-strategic-approach-international-cultural-relations_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/eeas_large/public/2019/04/08/castle_gjirokastra_blertakambo.jpg?itok=lWLJlbdu" width="750" height="499" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60750/eu-adopts-strategic-approach-international-cultural-relations_en">EU adopts strategic approach to international cultural relations</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="/headquarters/headquarters-homepage/60677/new-street-art-mural-brings-western-balkans-brussels_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/eeas_large/public/2019/04/05/western_balkans_mural.jpg?itok=d5tpFRHe" width="750" height="499" /></a></div>  </div>  
+  <div class="views-field views-field-field-article-type">        <div class="field-content teaser-label">News stories</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60677/new-street-art-mural-brings-western-balkans-brussels_en">New street art mural brings the Western Balkans to Brussels</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="/headquarters/headquarters-homepage/60693/eu-continues-its-support-opcw-make-world-safe-chemical-weapons_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/eeas_large/public/2019/04/05/opcw_0.jpg?itok=EPV33Dn3" width="750" height="499" alt="EU supports the OPCW" title="EU supports the OPCW" /></a></div>  </div>  
+  <div class="views-field views-field-field-article-type">        <div class="field-content teaser-label">News stories</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60693/eu-continues-its-support-opcw-make-world-safe-chemical-weapons_en">EU continues its support to OPCW to make the world safe from chemical weapons</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="/headquarters/headquarters-homepage/60615/eu-mine-action-and-victim-assistance-across-globe_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/eeas_large/public/2019/04/04/resized_colombia_pic_2_source_the_halo_trust.jpg?itok=Z9OYL2UG" width="750" height="499" alt="DEMINING, mine awareness day, mine action" /></a></div>  </div>  
+  <div class="views-field views-field-field-article-type">        <div class="field-content teaser-label">News stories</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60615/eu-mine-action-and-victim-assistance-across-globe_en">EU mine action and victim assistance across the globe</a></span>  </div>  </div>
+<a href="/headquarters/headquarters-homepage/search/site_en?f%5B0%5D=sm_specific_content_type%3Aeeas_event%3Aall&amp;f%5B1%5D=sm_specific_content_type%3Aeeas_news%3Aall&amp;f%5B2%5D=sm_specific_content_type%3Aeeas_project%3Aall&amp;f%5B3%5D=im_field_eeas_homepage%3A38" class="search-more-link">More</a>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+  </div>
+              </div>
+
+              <div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+                              </div>
+            </div>
+
+            
+                      </div>
+
+          <div class="clearfix visible-sm visible-xs"></div>
+          
+                  </div>
+    </div><!-- /#layout-body -->
+
+            <div id="layout-content-post">
+            <div class="container">
+                <div class="region region-content-post">
+    <div id="block-menu-block-eeas-category-home" class="block block-menu-block panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <div class="menu-block-wrapper menu-block-eeas-category-home menu-name-menu-eeas-category-home parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix list-group list-group-flush list-unstyled"><li class="first leaf menu-mlid-1120"><a href="https://ec.europa.eu/commission/2014-2019/mogherini" class="hb-mogherini list-group-item" target="_blank">HR/VP Federica Mogherini</a></li>
+<li class="leaf menu-mlid-1121" data-display-title="1"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/search/site/_en?f%5B0%5D=bundle%3Aeeas_press&amp;f%5B1%5D=im_field_eeas_homepage%3A38&amp;f%5B2%5D=sm_field_eeas_press_category%3Ahrvp&amp;f%5B3%5D=sm_specific_content_type%3Aeeas_press%3Aall" data-display-title="1" data-hide-children="0" class="hb-announcements list-group-item" data-remove-class="0">Statements</a></li>
+<li class="leaf menu-mlid-1122"><a href="https://ec.europa.eu/commission/2014-2019/mogherini/team" class="hb-team list-group-item" target="_blank">Team</a></li>
+<li class="leaf menu-mlid-1123" data-display-title="1"><a href="https://ec.europa.eu/commission/commissioners/2014-2019/calendar_en?field_editorial_section_multiple_tid=164" data-display-title="1" data-hide-children="0" class="hb-agenda list-group-item" data-remove-class="0" target="_blank">Agenda</a></li>
+<li class="leaf menu-mlid-1124" data-display-title="1"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/search/site/_en?f%5B0%5D=im_field_eeas_homepage%3A38&amp;f%5B1%5D=sm_specific_content_type%3Aeeas_news%3Afield_article_type%3Ainterviews" data-display-title="1" data-hide-children="0" class="hb-interviews list-group-item" data-remove-class="0" target="_blank">Interviews</a></li>
+<li class="last leaf menu-mlid-1125" data-display-title="1"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/search/site/_en?f[0]=im_field_eeas_homepage%3A38&amp;f[1]=bundle%3Aeeas_press&amp;f[2]=sm_field_eeas_press_category%3Aopeds" data-display-title="1" data-hide-children="0" class="hb-opeds list-group-item" data-remove-class="0" target="_blank">Op-Eds</a></li>
+</ul></div>
+  </div>
+
+</div>
+  </div>
+            </div>
+        </div><!-- /#layout-content-post -->
+    
+  
+        <div id="layout-content-press">
+          <div class="container">
+              <div class="region region-content-press">
+    <div id="block-views-eeas-delegations-page-press" class="block block-views panel panel-default clearfix" >
+  
+  <div class="panel-heading">
+    Press  </div>
+
+  <div class="panel-body content">
+  <div class="view view-eeas-delegations-page view-id-eeas_delegations_page view-display-id-press view-dom-id-446ffe540158de92e44f5569a07d5e42">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-eeas-press-category">        <div class="field-content teaser-label">Statements by the Spokesperson</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60945/statement-spokesperson-latest-settlements%E2%80%99-announcements-israeli-authorities_en">Statement by the Spokesperson on the latest settlements’ announcements by the Israeli authorities</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">11/04/2019</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-eeas-press-category">        <div class="field-content teaser-label">Statements by the Spokesperson</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60828/statement-spokesperson-postponement-libyan-national-conference_en">Statement by the Spokesperson on the postponement of the Libyan National Conference</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">09/04/2019</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-eeas-press-category">        <div class="field-content teaser-label">Joint Statements</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60822/joint-statement-21st-eu-china-summit_en">Joint statement of the 21st EU-China summit</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">09/04/2019</span>  </div>  </div>
+
+<a href="/headquarters/headquarters-homepage/search/site_en?f%5B0%5D=sm_specific_content_type%3Aeeas_press%3Aall&amp;f%5B1%5D=im_field_eeas_homepage%3A38" class="search-more-link">More</a><a href="/headquarters/headquarters-homepage/3023/subscribe-newsletters-and-alerts_en" class="press-subscribe-news"><span>Check all our newsletters</span></a>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+<div id="block-eeas-category-eeas-category-twitter" class="block block-eeas-category panel panel-default clearfix" >
+  
+  <div class="panel-heading">
+    Twitter  </div>
+
+  <div class="panel-body content">
+  <script type="application/json">{"service":"smk","type":"user","screen_name":"eu_eeas","count":3,"include_rts":true,"rts_display_original":true,"exclude_replies":true,"display_user":true,"display_user_pic":true,"auto_expand_photo":true,"tweet_more_btn":true,"render":true}</script>  </div>
+
+</div>
+  </div>
+          </div>
+      </div><!-- /#layout-content-press -->
+  
+        <div id="layout-video-area">
+          <div class="container">
+              <div class="region region-video-area">
+    <div id="block-views-eeas-delegations-page-video" class="block block-views panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <div class="view view-eeas-delegations-page view-id-eeas_delegations_page view-display-id-video view-dom-id-cf2c391077ede7a40ff100d4b2b3026f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-media-videos">        <div class="field-content"><div id="file-58647" class="file file-video file-video-youtube">
+
+        <h2 class="element-invisible" style="display:none;">/file/eu-and-western-balkans-connected-culture_enEU and Western Balkans: Connected by culture</h2>
+    
+  
+  <div class="content">
+    <div class="media-youtube-video media-youtube-1">
+  <iframe class="media-youtube-player" width="640" height="390" title="EU and Western Balkans: Connected by culture" src="https://www.youtube-nocookie.com/embed/bFZhEdhGiVw?wmode=opaque&rel=0" frameborder="0" allowfullscreen>Video of EU and Western Balkans: Connected by culture</iframe>
+</div>
+  </div>
+
+  
+</div>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/56293/eu-and-western-balkans-connected-culture_en">EU and Western Balkans: Connected by culture</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-media-videos">        <div class="field-content"><div id="file-57791" class="file file-video file-video-youtube">
+
+        <h2 class="element-invisible" style="display:none;">/file/euvsdisinfo-how-keep-your-newsfeed-clean_en#EUvsDisinfo: How to keep your newsfeed clean</h2>
+    
+  
+  <div class="content">
+    <div class="media-youtube-video media-youtube-2">
+  <iframe class="media-youtube-player" width="640" height="390" title="#EUvsDisinfo: How to keep your newsfeed clean" src="https://www.youtube-nocookie.com/embed/JLx3rAzXT2s?wmode=opaque&rel=0" frameborder="0" allowfullscreen>Video of #EUvsDisinfo: How to keep your newsfeed clean</iframe>
+</div>
+<div class="field field-name-field-video-description field-type-text-long field-label-inline clearfix">
+  </div>
+  </div>
+
+  
+</div>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/55506/euvsdisinfo-how-keep-your-newsfeed-clean_en">#EUvsDisinfo: How to keep your newsfeed clean</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-media-videos">        <div class="field-content"><div id="file-55961" class="file file-video file-video-youtube">
+
+        <h2 class="element-invisible" style="display:none;">/file/water-fundamental-right_enWater - a fundamental right</h2>
+    
+  
+  <div class="content">
+    <div class="media-youtube-video media-youtube-3">
+  <iframe class="media-youtube-player" width="640" height="390" title="Water - a fundamental right" src="https://www.youtube-nocookie.com/embed/ZhqKEUueK6w?wmode=opaque&rel=0" frameborder="0" allowfullscreen>Video of Water - a fundamental right</iframe>
+</div>
+<div class="field field-name-field-video-description field-type-text-long field-label-inline clearfix">
+  </div>
+  </div>
+
+  
+</div>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/54205/water-fundamental-right_en">Water - a fundamental right</a></span>  </div>  </div>
+
+<div id="home-video-links">
+  <a href="/headquarters/headquarters-homepage/search/site_en?f%5B0%5D=sm_specific_content_type%3Aeeas_video%3Aall&amp;f%5B1%5D=im_field_eeas_homepage%3A38" class="search-more-link">More</a>      <a href="https://www.youtube.com/user/EUExternalAction" class="eeas-youtube"><span>EEAS on Youtube</span></a>      <a href="http://ec.europa.eu/avservices/mediagallery/index.cfm#26043" class="mogherini-ebs"><span>Mogherini on EBS</span></a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+  </div>
+          </div>
+      </div><!-- /#layout-video-area -->
+  
+  
+
+        <div id="layout-content-jobs">
+          <div class="container">
+              <div class="region region-content-jobs">
+    <div id="block-views-eeas-delegations-page-block-1" class="block block-views panel panel-default clearfix" >
+  
+  <div class="panel-heading">
+    Jobs &amp; Funds  </div>
+
+  <div class="panel-body content">
+  <div class="view view-eeas-delegations-page view-id-eeas_delegations_page view-display-id-block_1 view-dom-id-cfa6a384a64e84d1a5b2b0f6ac8d2b3a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-type">        <span class="field-content teaser-label">Vacancies</span>  </div>  
+  <div class="views-field views-field-field-job-type">        <div class="field-content teaser-label">Traineeships in Delegations</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60875/compulsory-traineeships-students-eu-delegation-brazil_en">COMPULSORY TRAINEESHIPS FOR STUDENTS  AT THE EU DELEGATION TO BRAZIL</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">10/04/2019</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-type">        <span class="field-content teaser-label">Vacancies</span>  </div>  
+  <div class="views-field views-field-field-job-type">        <div class="field-content teaser-label">Traineeships in Delegations</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60867/funded-traineeship-young-graduates-eu-delegation-ecuador-%E2%80%93-cooperation-section_en">FUNDED TRAINEESHIP FOR YOUNG GRADUATES  AT THE EU DELEGATION TO ECUADOR – COOPERATION SECTION</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">10/04/2019</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-type">        <span class="field-content teaser-label">Vacancies</span>  </div>  
+  <div class="views-field views-field-field-job-type">        <div class="field-content teaser-label">Traineeships in Delegations</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/headquarters/headquarters-homepage/60866/funded-traineeship-young-graduates-eu-delegation-ecuador-%E2%80%93-political-press-and-information_en">FUNDED TRAINEESHIP FOR YOUNG GRADUATES AT THE EU DELEGATION TO ECUADOR – POLITICAL, PRESS AND INFORMATION SECTION</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">10/04/2019</span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/headquarters/headquarters-homepage/area/jobs-funds_en">
+    more  </a>
+</div>
+  
+  
+  
+</div>  </div>
+
+</div>
+  </div>
+          </div>
+      </div><!-- /#layout-content-jobs -->
+  
+      <div id="layout-content-bottom-promo">
+        <div class="container">
+            <div class="region region-content-bottom-promo">
+    <div id="block-views-eeas-promo-boxes-promo-bottom" class="block block-views panel panel-default clearfix" >
+  
+  <div class="panel-heading">
+    In Focus  </div>
+
+  <div class="panel-body content">
+  <div class="view view-eeas-promo-boxes view-id-eeas_promo_boxes view-display-id-promo_bottom view-dom-id-3c26f9f8061b697b0a1c14bcb81a1066">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first promobox-60525">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/57579/open-day-european-institutions-2019-visit-eeas-4-may-2019_en">Open Day 2019: Visit EEAS on 4 May</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-eeas-more-link">        <div class="field-content"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/57579/open-day-european-institutions-2019-visit-eeas-4-may-2019_en">More</a></div>  </div>  
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/57579/open-day-european-institutions-2019-visit-eeas-4-may-2019_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/in_focus/public/2019/04/02/eeas_web_promo_box_735x489px.jpg?itok=9jPQ6dUX" width="735" height="489" alt="open day, europe day, european institutions, EU, european union" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even promobox-57992">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.european-elections.eu/">European Elections 23-26 May 2019</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-eeas-more-link">        <div class="field-content"><a href="https://www.european-elections.eu/">More</a></div>  </div>  
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="https://www.european-elections.eu/"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/in_focus/public/2019/02/12/how-to-vote-from-abroad-ep-promobox.jpg?itok=gNTuz7S1" width="735" height="489" alt="european parliament elections, " /></a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd promobox-50777">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://eeas.europa.eu/topics/economic-relations-connectivity-innovation_en">Global Tech Panel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-eeas-more-link">        <div class="field-content"><a href="https://eeas.europa.eu/topics/economic-relations-connectivity-innovation_en">More</a></div>  </div>  
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="https://eeas.europa.eu/topics/economic-relations-connectivity-innovation_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/in_focus/public/2018/09/20/global-tech-1.jpg?itok=KSCI-omx" width="735" height="489" /></a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even promobox-16691">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/35285/eu-strengthens-cooperation-security-and-defence_en">Security and Defence</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-eeas-more-link">        <div class="field-content"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/35285/eu-strengthens-cooperation-security-and-defence_en">More</a></div>  </div>  
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="https://eeas.europa.eu/headquarters/headquarters-homepage/35285/eu-strengthens-cooperation-security-and-defence_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/in_focus/public/defence-promobox-banner.jpg?itok=8nEnZS7B" width="735" height="489" alt="SECURITY AND DEFENCE" /></a></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd promobox-23715">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://eeas.europa.eu/topics/eu-global-strategy_en">EU global strategy - Shared Vision, Common Action</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-eeas-more-link">        <div class="field-content"><a href="https://eeas.europa.eu/topics/eu-global-strategy_en">More</a></div>  </div>  
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="https://eeas.europa.eu/topics/eu-global-strategy_en"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/in_focus/public/2017/07/13/global-strategy-logo.png?itok=AsZb8Y2O" width="735" height="489" /></a></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last promobox-11949">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://eeas.europa.eu/ru/eu-information-russian_ru">News on the European Union in Russian</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-eeas-more-link">        <div class="field-content"><a href="https://eeas.europa.eu/ru/eu-information-russian_ru">More</a></div>  </div>  
+  <div class="views-field views-field-field-simage">        <div class="field-content"><a href="https://eeas.europa.eu/ru/eu-information-russian_ru"><img typeof="foaf:Image" src="https://eeas.europa.eu/sites/eeas/files/styles/in_focus/public/2019/01/17/copy_of_news_on_european_union_in_russian.jpg?itok=R25yrwly" width="735" height="489" alt="eu info in russian, eu info" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+  </div>
+        </div>
+    </div><!-- /#layout-content-bottom-promo -->
+  
+  
+  
+    <div id="layout-footer">
+        <div class="container">
+            <div class="region region-footer">
+    <div id="block-eeas-category-eeas-category-footer" class="block block-eeas-category panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <div id="eeas-contacts">
+  <div class="inner">
+    <div class="contacts-title"><p>European Union External Action</p><p>&nbsp;</p></div>EEAS Building, 9A Rond Point Schuman<br />
+1046 Brussels<br />
+Belgium<br /><div class="menu-block-wrapper menu-block-eeas-category-footer menu-name-menu-eeas-category-footer parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix list-group list-group-flush list-unstyled"><li class="first leaf menu-mlid-1333" data-display-title="1"><a href="/headquarters/headquarters-homepage/789/eeas-press-team_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Press Team</a></li>
+<li class="leaf menu-mlid-1129" data-display-title="1"><a href="/headquarters/headquarters-homepage/3020/contact-eeas_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Contact the EEAS</a></li>
+<li class="leaf menu-mlid-1332" data-display-title="1"><a href="http://www.europa.eu/public-register/" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Access to Documents</a></li>
+<li class="leaf menu-mlid-1136" data-display-title="1"><a href="/headquarters/headquarters-homepage/3022/visiting-european-external-action-service_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Visit the EEAS</a></li>
+<li class="last leaf menu-mlid-1137" data-display-title="1"><a href="http://europa.eu/contact" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">Questions about the EU</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="eeas-social" class="eeas-social">
+  <div class="inner">
+    <div class="field field-type-custom field-name-field-eeas-social-rss"><a href="/headquarters/headquarters-homepage/rss_en?field_eeas_published_on_tid%5B%5D=2087&amp;language%5B%5D=%2A%2A%2ACURRENT_LANGUAGE%2A%2A%2A">View RSS feed</a></div><div class="field field-name-field-eeas-social-instagram field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.instagram.com/eudiplomacy/">https://www.instagram.com/eudiplomacy/</a></div></div></div><div class="field field-name-field-eeas-social-twitter field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://twitter.com/eu_eeas">http://twitter.com/eu_eeas</a></div></div></div><div class="field field-name-field-eeas-social-youtube field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.youtube.com/user/EUExternalAction?feature=mhee">https://www.youtube.com/user/EUExternalAction?feature=mhee</a></div></div></div><div class="field field-name-field-eeas-social-flickr field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.flickr.com/photos/eeas/">http://www.flickr.com/photos/eeas/</a></div></div></div><div class="field field-name-field-eeas-social-facebook field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.facebook.com/EuropeanExternalActionService">http://www.facebook.com/EuropeanExternalActionService</a></div></div></div><div class="subscribe-newsletters"><h3>Sign-up</h3><form class="eeas-simplenews-sign-up-overview-form" action="/headquarters/headquarters-homepage_en" method="post" id="-eeas-simplenews-sign-up-overview-form--2" accept-charset="UTF-8"><div><fieldset class="form-wrapper" id="edit-term-newsletters--3"><div class="fieldset-wrapper"><div id="edit-term-newsletters--4" class="form-checkboxes"><div class="form-item form-type-checkbox checkbox form-item-term-newsletters-1631">
+ <input type="checkbox" id="edit-term-newsletters-1631--2" name="term_newsletters[1631]" value="1631" class="form-checkbox" />  <label class="option" for="edit-term-newsletters-1631--2">EEAS Press alerts </label>
+
+</div>
+<div class="form-item form-type-checkbox checkbox form-item-term-newsletters-684">
+ <input type="checkbox" id="edit-term-newsletters-684--2" name="term_newsletters[684]" value="684" class="form-checkbox" />  <label class="option" for="edit-term-newsletters-684--2">EEAS Newsletter </label>
+
+</div>
+</div></div></fieldset>
+<div class='hide'></div><div class='hide'></div><fieldset class="form-wrapper" id="edit-subscriptions--2"><div class="fieldset-wrapper"><div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail--2">E-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-mail--2" name="mail" value="" size="20" maxlength="128" />
+</div>
+</div></fieldset>
+<input type="hidden" name="form_build_id" value="form-1ZZfyytcUwfghhYeN7MZ8gY4f1yKR9T5NDYkDwptZy4" />
+<input type="hidden" name="form_id" value="_eeas_simplenews_sign_up_overview_form" />
+<input type="submit" id="edit-subscribe--2" name="op" value="Subscribe" class="form-submit btn btn-default" /><input type="submit" id="edit-unsubscribe--2" name="op" value="Unsubscribe" class="form-submit btn btn-default" /><a href="/headquarters/headquarters-homepage/3023/subscribe-newsletters-and-alerts_en" class="simplenews-check-all">Check all our newsletters</a></div></form></div>  </div>
+</div>
+  </div>
+
+</div>
+  </div>
+        </div>
+    </div><!-- /#layout-footer -->
+
+    <div id="layout-jumplinks">
+        <div class="container">
+            <div class="region region-jumplinks">
+    <div id="block-eeas-category-eeas-category-jump" class="block block-eeas-category panel panel-default clearfix" >
+  
+  <div class="panel-heading">
+    Quick Network Access  </div>
+
+  <div class="panel-body content">
+  Loading EEAS categories...  </div>
+
+</div>
+  </div>
+        </div>
+    </div><!-- /#layout-jumplinks -->
+
+        <div id="layout-footer-links">
+          <div class="container">
+              <div class="region region-footer-eu-links">
+    <div id="block-menu-eeas-footer-eu-links" class="block block-menu panel panel-default clearfix" >
+  
+  <div class="panel-heading">
+    EEAS: Footer EU links  </div>
+
+  <div class="panel-body content">
+  <ul class="menu clearfix list-group list-group-flush list-unstyled"><li class="first leaf" data-display-title="1"><a href="https://europa.eu" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">European Union</a></li>
+<li class="leaf" data-display-title="1"><a href="https://eeas.europa.eu" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">European External Action Service</a></li>
+<li class="leaf"><a href="https://ec.europa.eu" target="_blank" class="list-group-item">European Commission</a></li>
+<li class="leaf"><a href="https://www.europarl.europa.eu" target="_blank" class="list-group-item">European Parliament</a></li>
+<li class="leaf"><a href="https://www.consilium.europa.eu" target="_blank" class="list-group-item">European Council</a></li>
+<li class="last leaf"><a href="https://europa.eu/european-union/about-eu/institutions-bodies" target="_blank" class="list-group-item">All EU Institutions</a></li>
+</ul>  </div>
+
+</div>
+  </div>
+          </div>
+      </div><!-- /#layout-footer-links -->
+  
+        <div id="layout-footer-bottom-links">
+          <div class="container">
+              <div class="region region-footer-bottom-links">
+    <div id="block-menu-block-eeas-footer-links" class="block block-menu-block panel panel-default clearfix" >
+  
+
+  <div class="panel-body content">
+  <div class="menu-block-wrapper menu-block-eeas-footer-links menu-name-menu-eeas-footer-links parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix list-group list-group-flush list-unstyled"><li class="first leaf menu-mlid-1130" data-display-title="1"><a href="/headquarters/headquarters-homepage/area/azindex_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">A-Z index</a></li>
+<li class="leaf menu-mlid-1135" data-display-title="1"><a href="/headquarters/headquarters-homepage/area/contacts_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Contacts</a></li>
+<li class="leaf menu-mlid-1131" data-display-title="1"><a href="/headquarters/headquarters-homepage/8167/cookies_en" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">Cookies</a></li>
+<li class="leaf menu-mlid-1132" data-display-title="1"><a href="/headquarters/headquarters-homepage/8157/legal-notice_en" data-display-title="1" data-hide-children="0" data-remove-class="0" target="_blank" class="list-group-item">Legal notice</a></li>
+<li class="leaf menu-mlid-1133" data-display-title="1"><a href="/headquarters/headquarters-homepage/3032/data-protection_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Data protection</a></li>
+<li class="leaf menu-mlid-1134" data-display-title="1"><a href="/headquarters/headquarters-homepage/3033/privacy-statements_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Privacy statement</a></li>
+<li class="last leaf menu-mlid-1331" data-display-title="1"><a href="/headquarters/headquarters-homepage/8160/europa-analytics_en" data-display-title="1" data-hide-children="0" data-remove-class="0" class="list-group-item">Europa Analytics</a></li>
+</ul></div>
+  </div>
+
+</div>
+  </div>
+          </div>
+      </div><!-- /#layout-footer-bottom-links -->
+  
+    <a href="#top-page" class="btn-back-top">
+        <span class="glyphicon glyphicon-chevron-up"></span>
+    </a>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function euCookieComplianceLoadScripts() {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__7EsGY_95uCmIAC-ulm0fZ4543pnAHmbHb4QS3Zcqm1E__zUK7PH1tn8w6DS00d9cEKUzQjCfZ_lDjqfmHGhRJzuM__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="text/javascript" src="https://eeas.europa.eu/sites/eeas/files/advagg_js/js__dFVNrxo1zJsZ6-D_C-AMk1oMcScQnhNard0f1zNF7JU__ernFomcYYwjBmofwaZ024O23fTrTSScUL615XUbGvxo__WoF5XsSy38Gp-4F7tm_0gPFBuIE1YT2MYZBdB4jjIVw.js"></script>
+<script type="application/json">{"utility":"piwik","siteID":"27","sitePath":["eeas.europa.eu"],"is404":false,"is403":false,"instance":"europa.eu","siteSection":"headquarters headquarters-homepage"}</script>
+</body>
+</html>

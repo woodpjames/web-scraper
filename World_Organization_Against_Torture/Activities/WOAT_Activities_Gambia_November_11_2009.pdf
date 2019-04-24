@@ -1,0 +1,236 @@
+<!--Array
+(
+    [params] => Array
+        (
+            [lg] => en
+        )
+
+    [template] => new_design/404
+)
+--><!--Array
+(
+    [params] => Array
+        (
+            [lg] => en
+        )
+
+    [template] => new_design/404
+)
+--><!--Array
+(
+    [params] => Array
+        (
+            [lg] => en
+        )
+
+    [template] => new_design/404
+)
+--><!--Array
+(
+    [params] => Array
+        (
+            [lg] => en
+        )
+
+    [template] => new_design/404
+)
+--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 - Page Not Found / ACHPR</title>
+<link href="/css/new_design/styles.css" rel="stylesheet" type="text/css" />
+<link href="/css/new_design/tables.css" rel="stylesheet" type="text/css" />
+<link href="/css/additional.css" rel="stylesheet" type="text/css" />
+<link href="/css/flags.css" rel="stylesheet" type="text/css" />
+
+
+
+
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/utils.js"></script>
+<script type="text/javascript" src="/js/members-feedback.js"></script>
+<script type="text/javascript" src="/js/lightbox-img/jquery.lightbox-0.5.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lightbox-img/css/jquery.lightbox-0.5.css" media="screen" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4531196-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body> 
+
+	
+
+
+
+
+
+
+	<div class="header">
+		<div class="canvas clrfix" >
+			<div class="col col680" >
+				<a href="/" class="logo" title="ACHPR"><span class="i"></span>African Commission on Human and Peoples' Rights</a>
+			</div>
+			<div class="col col260 ml20">
+			
+				<div class="clrfix">
+					<ul class="lang flin">
+
+                                         <li class="active"> <a href="#" onclick = "return false;" >English</a></li><li><a href="/fr/">Français</a></li><li><a href="/pt/">Português</a></li><li><a href="/ar/">العربية</a></li>					</ul>
+				</div>
+
+                        <form method="get" action="/search/" >				
+				<div class="search mt10 clrfix">
+					<input type="text" name="q" value="" placeholder="Search" />
+					<a class="i find" href="#" onclick="$(this).parents('form').submit();return false;" ></a>
+				</div>
+                         </form>
+			
+			</div>
+		</div>
+	</div>
+
+	<div class="mmenu">
+		<div class="canvas clrfix">
+
+   			<ul class="flr flin clrfix">
+                <li><a href="/about/">About Us</a></li>			</ul>
+			<ul class="fll flin">
+
+<li class="active"><a href="/">Home</a></li><li><a href="/sessions/">Sessions</a></li><li><a href="/communications/">Communications</a></li><li><a href="/mechanisms/">Special Mechanisms</a></li><li><a href="/states/">States</a></li><li><a href="/instruments/">Legal Instruments</a></li><li><a href="/search/">Documents</a></li><li><a href="/network/">Network</a></li>			</ul>
+		</div>
+	</div>
+
+        <div class="path">
+		<div class="canvas clrfix">
+			<ul class="flin">
+                                <li><a href="/">ACHPR</a></li>
+			</ul>
+		</div>
+	</div> 
+	<div class="main mt10">
+               <div class="canvas clrfix">
+
+        <h1 class="mt30">Page Not Found</h1>
+
+        <div class="col col630"> 
+                The requested page was not found on the website.<!-- 				<a href = "/english/Press Release/pressrelease_gambia_46_session.pdf /">/english/Press Release/pressrelease_gambia_46_session.pdf /</a>  -->
+        </div>
+
+                <div class="col col300 ml30">
+
+                </div>
+	     </div>
+	</div>
+	<div class="dark mt30">
+		<div class="canvas clrfix">
+			<div class="col col300">
+				<h4>Documents</h4>
+				<ul class="ldbul mt10">
+
+<li><a href="/resolutions/">Resolutions</a></li><li><a href="/mission-reports/">Mission Reports</a></li><li><a href="/activity-reports/">Activity Reports</a></li><li><a href="/states/reports-and-concluding-observations/">State Reports and Concluding Observations</a></li><li><a href="/communications/">Decisions on Communications</a></li><li><a href="/search/?t=836">Intersession Activity Reports</a></li>				</ul>
+			</div>
+			<div class="col col300 ml30">
+            <h4>Links</h4>
+                  <ul class="mt10 ldbul">
+                   <li><a href="http://www.au.int/en/">African Union</a></li>
+                   <li><a href="http://www.african-court.org/en/">African Court</a></li>
+                   <li><a href="http://www.pan-african-parliament.org/">Pan-African Parliament</a></li>
+                   <li><a href="http://www.acerwc.org/">ACERWC</a></li>
+                   <li><a href="http://www.ohchr.org/EN/HRBodies/SP/Pages/Engagementwithotherintergovernmentalfora.aspx">Engagement with other intergovernmental fora</a></li>
+                  </ul>  
+                  <br />                  
+                                <h4>Translate page</h4>
+                                <div id="google_translate_element"></div>
+                                <script type="text/javascript">
+                                function googleTranslateElementInit() {
+                                  new google.translate.TranslateElement({
+                                    pageLanguage : 'EN',
+                                          layout : google.translate.TranslateElement.InlineLayout.SIMPLE
+                                  }, 'google_translate_element');
+                                }
+                                </script>
+                                <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                                
+                                
+
+			</div>
+			<div class="col col300 ml30">
+
+				<h4>Contact Us</h4>
+
+				<ul class="mt10">
+                    <li>31 Bijilo Annex Layout, Kombo North District</li>
+                    <li>Western Region P.O. Box 673 Banjul</li>
+                    <li>The Gambia</li>
+                
+					<li>Tel: (220) 441 05 05, 441 05 06</li>
+					<li>Fax: (220) 441 05 04</li>
+					<li>E-mail: <a href="#">au-banjul@africa-union.org</a></li>
+				</ul>
+				
+				<div class="mt5">
+					<a href="/about/">More about us</a>
+				</div>
+        
+                <br />
+        <h4 class="mt5">ACHPR Newsletter</h4>
+        Subscribe to receive news about activities, sessions and events.
+        <form class="mt5" method="post" action="http://www.achpr.org/cgi-bin/dada/mail.cgi">
+<input type="hidden" name="list" value="list">
+<input type="hidden" name="f" value="subscribe">
+
+<input style="padding: 2px 4px" type="text" placeholder="Your email" value="" name="email">  <input type="submit" value="Subscribe" style="padding: 1px 5px">
+</form>
+
+			</div>
+                        
+		</div>
+<!--         
+<div class="canvas clrfix" style="margin-top: 30px; color: #AAA">
+Website development was supported by grants from the <a style="text-decoration: none" href="http://www.missionfngeneve.um.dk/en">Danish Mission</a> to the UN in Geneva and the <a style="text-decoration: none" href="http://www.macfound.org/">MacArthur Foundation</a>
+</div>
+-->
+	</div>
+	
+	
+	<div class="copy">
+
+		<div class="canvas clrfix">
+
+			<div class="col col465">
+			
+				© 2019 African Commission on Human and Peoples' Rights
+			
+			</div>
+
+			<div class="col col465 ml30">
+			
+				<ul class="flin made">
+					<li>
+          Website developed by <a href="http://www.huridocs.org/">HURIDOCS</a> & <a href="http://www.ketse.com/">KETSE</a> with the support of the <a href="http://www.missionfngeneve.um.dk/en">Danish Mission</a> to the UN in Geneva and the <a href="http://www.macfound.org/">MacArthur Foundation</a>.
+          </li>
+          
+          <!-- <li>Developed by <a href="http://www.huridocs.org/">HURIDOCS</a></li>
+
+					<li class="flr"><a href="#">Sitemap</a></li> -->
+				</ul>
+			
+			</div>
+
+		</div>
+
+	</div>
+
+  	
+</body>
+</html>
+
