@@ -1,0 +1,330 @@
+Internship at the International Investigations and Litigation (IIL) department
+01.01.2018
+Internship at the International Investigations and Litigation (IIL) department - TRIAL International
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/trialinternational.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+.wpml-ls-statics-shortcode_actions{background-color:#ffffff;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-78751887-1', 'auto');
+        ga('send', 'pageview');
+    
+
+        var $              = jQuery;
+        var interval       = null;
+        var globalArea     = null;
+        var globalImg      = null;
+        var originalHeight = 0;
+        var originalWidth  = 0;
+        var originalCoords = [];
+        $(function(){
+            // if popup exists
+            if ($(".pum").length) {
+                globalImg = $(".popmake-content p img");
+                getImgSize(globalImg.attr("src"));
+                interval  = setInterval(function(){
+                    if ($(".popmake-content").parent().parent().css("display") != "none") {
+                        clearInterval(interval);
+                        globalArea = $(".popmake-content map area");
+                        originalCoords = getCoords();
+                        computeCoords();
+                        window.addEventListener("resize", function () {
+                            computeCoords();
+                        });
+                    }
+                }, 10);
+            }
+        });
+
+        function computeCoords () {
+            var coords      = getCoords();
+            var imageWidth  = pxToNb(globalImg.css("width"));
+            var imageHeight = pxToNb(globalImg.css("height"));
+
+            coords[0]     = (originalCoords[0] * imageWidth)  / originalWidth;
+            coords[1]     = (originalCoords[1] * imageHeight) / originalHeight;
+            coords[2]     = (originalCoords[2] * imageWidth)  / originalWidth;
+            coords[3]     = (originalCoords[3] * imageHeight) / originalHeight;
+            var newCoords = coords.map((v) => Math.ceil(v)).join(",");
+            globalArea.attr("coords", newCoords);
+        }
+
+        function pxToNb (str) {
+            return +str.replace('px','');
+        }
+
+        function getImgSize(imgSrc) {
+            var newImg = new Image();
+
+            newImg.onload = function() {
+              originalHeight = newImg.naturalHeight;
+              originalWidth  = newImg.naturalWidth;
+            }
+
+            newImg.src = imgSrc; // this must be done AFTER setting onload
+        }
+
+        function getCoords () {
+            return globalArea.attr("coords").split(",").map(function(value){
+                return +value;
+            });
+        }
+    
+
+ 
+
+
+
+
+
+
+
+
+
+ Who We Are
+
+Vision & Mission
+Our Team
+Our Donors
+
+
+What We Do
+
+Topics
+Countries
+Activity report
+
+
+Latest
+
+News
+News releases
+Cases
+Opinions
+Reports and publications
+Training
+Campaigns
+
+
+Get involved
+
+Stay informed
+Work with us
+Become a Member
+Donate
+
+
+Resources
+
+Reports and publications
+Trial Watch database
+Media
+Multimedia
+
+
+Contact us
+
+General inquiries
+Media and communications
+Witness
+
+
+Donate
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+enfr 
+
+
+
+
+
+
+
+
+ 
+
+Internship at the International Investigations and Litigation (IIL) department
+
+
+
+
+Home › Latest › Jobs & Internships › Internship at the International Investigations and Litigation (IIL) department 
+
+
+                            Share This: 
+
+
+
+
+01.01.2018 ( Last modified: 21.03.2019 )
+As an intern in the International Investigations and Litigation (IIL) department, you will be asked to help investigate and prepare criminal complaints against perpetrators (individuals and corporations) of international grave crimes (genocide, torture, war crimes and crimes against humanity. We file most of our criminal cases in European domestic courts under universal jurisdiction principles, and also against corporations under national laws.
+To this end, you will take part in (1) collecting evidence by conducting open-source research (OSINT); interviewing witnesses and victims; and meeting with experts on wide-ranging topics from environmental damage to commodity trading; (2) conducting legal research of international and national criminal law; and (3) drafting legal memoranda and parts of criminal complaints.
+You will work closely with experienced investigators and legal advisors, and will receive training on open-source research, digital security, universal jurisdiction law and evidence management. We investigate cases around the world, and in some limited circumstances, you may be asked to travel with one of our investigators.
+Requested qualifications and skills
+The ideal candidate will:
+
+Have a strong academic background in International Criminal Law, Humanitarian Law and/or Human Rights, as well as professional or internship experience in these same areas;
+Be hard-working, creative, proactive, and a problem-solver;
+Be able to think and work independently but also be a team player; and
+Fluently speak English and French (knowledge of German or Arabic is an asset).
+
+Conditions:
+Candidates must hold a valid work permit during their time in Geneva.
+The two legal internships take place over a period of 5 to 6 months, preferably full-time.
+Interested candidates should send a cover letter (max. 1 page) and a CV to secretariat@trialinternational.org.
+A small compensation is granted to interns.
+TRIAL International is part of the initiative We Pay Our Interns.
+ 
+ Job Live                            
+ 
+Duration:
+                                        The legal internship takes place over a period of 5 to 6 months, preferably full-time.
+ 
+Your Application:
+                                        Applications should be exclusively in French or in English, clearly stating the period desired (starting and ending date) and the percentage of work-time (hours/week), the availability of the candidate and whether the candidate is applying for one or more internships at TRIAL International.
+
+Please note that no answer from our part means that your application has not been taken into consideration. We thank you for your understanding.
+ 
+  
+ 
+
+Related Content
+
+
+ 
+ 
+
+Jobs & Internships
+
+
+Internship: ‘access to justice for victims of International crimes’
+01.01.2018                                                    - (Last modified: 20.03.2018)                                            
+
+
+
+ Global                                            
+
+                                                You are either a Swiss citizen or have or can obtain a valid work permit in Switzerland. You enjoy working independently...                                                
+  
+ 
+   
+
+View All
+  
+ 
+TRIAL International
+P.O Box 5116
+1211 Geneva 11
+Switzerland 
+t: +41 22 321 61 10
+e: info@trialinternational.org
+trialinternational.org
+IBAN: CH85 0900 0000 1716 2954 3
+ 
+Stay up to date 
+Subscribe to our monthly newsletter on TRIAL International’s activities and the latest developments in international justice.
+ 
+
+Submit
+
+ 
+Stay connected 
+Twitter 
+ 
+Linkedin 
+ 
+Facebook 
+ 
+RSS Feed 
+
+ 
+
+
+©2019 trialinternational.org |
+    All rights reserved |             Disclaimer |             Statutes |      Designed and Produced by ACW 
